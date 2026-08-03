@@ -1,0 +1,8583 @@
+[
+  {
+    "id": 1,
+    "position": 1,
+    "title": "What's Going On",
+    "artist": "Marvin Gaye",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [],
+    "musicbrainzId": "c1fa4d2c-ec62-37d5-b01d-6df7f8fd2c90",
+    "cover": "/covers/001-what-s-going-on.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 2,
+    "position": 2,
+    "title": "Pet Sounds",
+    "artist": "The Beach Boys",
+    "year": 1966,
+    "decade": 1960,
+    "genres": [],
+    "musicbrainzId": "fdd96703-7b21-365e-bdea-38029fbeb84e",
+    "cover": "/covers/002-pet-sounds.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 3,
+    "position": 3,
+    "title": "Blue",
+    "artist": "Joni Mitchell",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [],
+    "musicbrainzId": "42d725fb-a8b7-388c-8866-3b02789af326",
+    "cover": "/covers/003-blue.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 4,
+    "position": 4,
+    "title": "Songs in the Key of Life",
+    "artist": "Stevie Wonder",
+    "year": 1976,
+    "decade": 1970,
+    "genres": [],
+    "musicbrainzId": "ea88b09b-fd34-33cf-a3e5-25a3a2fb4c6f",
+    "cover": "/covers/004-songs-in-the-key-of-life.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 5,
+    "position": 5,
+    "title": "Abbey Road",
+    "artist": "The Beatles",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [],
+    "musicbrainzId": "9162580e-5df4-32de-80cc-f45a8d8a9b1d",
+    "cover": "/covers/005-abbey-road.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 6,
+    "position": 6,
+    "title": "Nevermind",
+    "artist": "Nirvana",
+    "year": 1991,
+    "decade": 1990,
+    "genres": [],
+    "musicbrainzId": "1b022e01-4da6-387b-8658-8678046e4cef",
+    "cover": "/covers/006-nevermind.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 7,
+    "position": 7,
+    "title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "year": 1977,
+    "decade": 1970,
+    "genres": [],
+    "musicbrainzId": "416bb5e5-c7d1-3977-8fd7-7c9daf6c2be6",
+    "cover": "/covers/007-rumours.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 8,
+    "position": 8,
+    "title": "Purple Rain",
+    "artist": "Prince and the Revolution",
+    "year": 1984,
+    "decade": 1980,
+    "genres": [],
+    "musicbrainzId": "b93a7c47-a6d4-33f2-9034-53fdd991f4ba",
+    "cover": "/covers/008-purple-rain.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 9,
+    "position": 9,
+    "title": "Blood on the Tracks",
+    "artist": "Bob Dylan",
+    "year": 1975,
+    "decade": 1970,
+    "genres": [],
+    "musicbrainzId": "9c1b8072-eb1d-33d2-af8c-984d46e40902",
+    "cover": "/covers/009-blood-on-the-tracks.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 10,
+    "position": 10,
+    "title": "The Miseducation of Lauryn Hill",
+    "artist": "Lauryn Hill",
+    "year": 1998,
+    "decade": 1990,
+    "genres": [
+      "R And B",
+      "Conscious",
+      "Hip-Hop",
+      "Contemporary R And B",
+      "Neo Soul"
+    ],
+    "musicbrainzId": "8691d12c-abd8-385c-b1eb-d841190124f7",
+    "cover": "/covers/010-the-miseducation-of-lauryn-hill.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 11,
+    "position": 11,
+    "title": "Revolver",
+    "artist": "The Beatles",
+    "year": 1966,
+    "decade": 1960,
+    "genres": [
+      "Rock",
+      "Pop",
+      "Psychedelic Rock",
+      "Pop Rock",
+      "Psychedelic"
+    ],
+    "musicbrainzId": "72d15666-99a7-321e-b1f3-a3f8c09dff9f",
+    "cover": "/covers/011-revolver.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 12,
+    "position": 12,
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "year": 1982,
+    "decade": 1980,
+    "genres": [
+      "Pop",
+      "Contemporary R And B",
+      "Dance Pop",
+      "Disco",
+      "Funk"
+    ],
+    "musicbrainzId": "f32fab67-77dd-3937-addc-9062e28e4c37",
+    "cover": "/covers/012-thriller.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 13,
+    "position": 13,
+    "title": "I Never Loved a Man the Way I Love You",
+    "artist": "Aretha Franklin",
+    "year": 1967,
+    "decade": 1960,
+    "genres": [
+      "Soul",
+      "Deep Soul",
+      "Funk Soul",
+      "Southern Soul",
+      "R&B"
+    ],
+    "musicbrainzId": "7d8f07a7-4c64-3afb-8daf-8f1d4df89a78",
+    "cover": "/covers/013-i-never-loved-a-man-the-way-i-love-you.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 14,
+    "position": 14,
+    "title": "Exile on Main Street",
+    "artist": "The Rolling Stones",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Blues",
+      "Blues Rock",
+      "Country Rock",
+      "Rock & Roll"
+    ],
+    "musicbrainzId": "83e19aeb-43ce-47b3-bc13-ac8241d5a3e4",
+    "cover": "/covers/014-exile-on-main-street.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 15,
+    "position": 15,
+    "title": "It Takes a Nation of Millions to Hold Us Back",
+    "artist": "Public Enemy",
+    "year": 1988,
+    "decade": 1980,
+    "genres": [
+      "Hip-Hop",
+      "Conscious Hip Hop",
+      "Political Hip Hop",
+      "East Coast Hip Hop",
+      "Hardcore Hip Hop"
+    ],
+    "musicbrainzId": "01921d99-9d15-3fce-8734-46e58327cfb7",
+    "cover": "/covers/015-it-takes-a-nation-of-millions-to-hold-us-back.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 16,
+    "position": 16,
+    "title": "London Calling",
+    "artist": "The Clash",
+    "year": 1979,
+    "decade": 1970,
+    "genres": [
+      "Punk Rock",
+      "Punk",
+      "New Wave",
+      "Ska",
+      "Rock"
+    ],
+    "musicbrainzId": "8d73e45e-7ca1-3cb4-ae28-6da76196c17c",
+    "cover": "/covers/016-london-calling.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 17,
+    "position": 17,
+    "title": "My Beautiful Dark Twisted Fantasy",
+    "artist": "Kanye West",
+    "year": 2010,
+    "decade": 2010,
+    "genres": [
+      "Hip-Hop",
+      "Pop Rap",
+      "Pop Soul",
+      "Midwest Rap",
+      "British Rhythm And Blues"
+    ],
+    "musicbrainzId": "5d6e21e1-deb5-428e-bb42-c2a567f3619b",
+    "cover": "/covers/017-my-beautiful-dark-twisted-fantasy.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 18,
+    "position": 18,
+    "title": "Highway 61 Revisited",
+    "artist": "Bob Dylan",
+    "year": 1965,
+    "decade": 1960,
+    "genres": [
+      "Rock",
+      "Folk Rock",
+      "Acoustic",
+      "Blues Rock",
+      "Classic Rock"
+    ],
+    "musicbrainzId": "fb48b1dc-412f-36aa-8820-1023c08c46c6",
+    "cover": "/covers/018-highway-61-revisited.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 19,
+    "position": 19,
+    "title": "To Pimp a Butterfly",
+    "artist": "Kendrick Lamar",
+    "year": 2015,
+    "decade": 2010,
+    "genres": [
+      "West Coast Hip Hop",
+      "Conscious Hip Hop",
+      "Hip-Hop",
+      "Jazz Rap",
+      "Political Hip Hop"
+    ],
+    "musicbrainzId": "d9103c72-3807-4378-9ce7-b6f3e8fdd547",
+    "cover": "/covers/019-to-pimp-a-butterfly.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 20,
+    "position": 20,
+    "title": "Kid A",
+    "artist": "Radiohead",
+    "year": 2000,
+    "decade": 2000,
+    "genres": [
+      "Electronic",
+      "Art Rock",
+      "Experimental Rock",
+      "Alternative Rock",
+      "Rock"
+    ],
+    "musicbrainzId": "e75c0549-ad55-39e3-8025-c72c5d4a3c5d",
+    "cover": "/covers/020-kid-a.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 21,
+    "position": 21,
+    "title": "Born to Run",
+    "artist": "Bruce Springsteen",
+    "year": 1975,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Album Rock",
+      "Heartland Rock",
+      "Singer-Songwriter",
+      "Folk Rock"
+    ],
+    "musicbrainzId": "39b22944-7503-3937-8bba-09b17281cc6a",
+    "cover": "/covers/021-born-to-run.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 22,
+    "position": 22,
+    "title": "Ready to Die",
+    "artist": "The Notorious B.I.G.",
+    "year": 1994,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "Gangsta Rap",
+      "East Coast Rap",
+      "Rap",
+      "Boom Bap"
+    ],
+    "musicbrainzId": "5afcfeac-118a-35e6-af0d-35ec9003354d",
+    "cover": "/covers/022-ready-to-die.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 23,
+    "position": 23,
+    "title": "The Velvet Underground and Nico",
+    "artist": "The Velvet Underground",
+    "year": 1967,
+    "decade": 1960,
+    "genres": [
+      "Art Rock",
+      "Rock",
+      "Experimental Rock",
+      "Psychedelic Rock",
+      "Garage Rock"
+    ],
+    "musicbrainzId": "5cbd9d7b-597a-3c5e-bfd1-c2b364215560",
+    "cover": "/covers/023-the-velvet-underground-and-nico.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 24,
+    "position": 24,
+    "title": "Sgt. Pepper’s Lonely Hearts Club Band",
+    "artist": "The Beatles",
+    "year": 1967,
+    "decade": 1960,
+    "genres": [
+      "Rock",
+      "Psychedelic Rock",
+      "Pop",
+      "Baroque Pop",
+      "Classic Rock"
+    ],
+    "musicbrainzId": "9f7a4c28-8fa2-3113-929c-c47a9f7982c3",
+    "cover": "/covers/024-sgt-pepper-s-lonely-hearts-club-band.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 25,
+    "position": 25,
+    "title": "Tapestry",
+    "artist": "Carole King",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [
+      "Folk Rock",
+      "Rock",
+      "Pop Rock",
+      "Folk Pop",
+      "Female Vocal"
+    ],
+    "musicbrainzId": "6e4f39e6-3403-39d7-81c6-8e61a990d509",
+    "cover": "/covers/025-tapestry.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 26,
+    "position": 26,
+    "title": "Horses",
+    "artist": "Patti Smith",
+    "year": 1975,
+    "decade": 1970,
+    "genres": [
+      "Art Rock",
+      "Punk",
+      "Proto Punk",
+      "Rock",
+      "Punk Rock"
+    ],
+    "musicbrainzId": "ff8f533c-3cb3-3877-9209-11f433edaad2",
+    "cover": "/covers/026-horses.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 27,
+    "position": 27,
+    "title": "Enter the Wu-Tang(36 Chambers)",
+    "artist": "Wu-Tang Clan",
+    "year": 1993,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "Boom Bap",
+      "Hardcore Hip Hop",
+      "East Coast Hip Hop",
+      "Aggressive"
+    ],
+    "musicbrainzId": "610fb60f-900a-3c42-ac7d-f6b6aa8035f9",
+    "cover": "/covers/027-enter-the-wu-tang-36-chambers.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 28,
+    "position": 28,
+    "title": "Voodoo",
+    "artist": "D’Angelo",
+    "year": 2000,
+    "decade": 2000,
+    "genres": [
+      "Neo Soul",
+      "Hip-Hop",
+      "Jazz",
+      "Soul",
+      "R&B"
+    ],
+    "musicbrainzId": "9605c075-c64c-366b-ad7f-ec98523fc162",
+    "cover": "/covers/028-voodoo.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 29,
+    "position": 29,
+    "title": "White Album",
+    "artist": "The Beatles",
+    "year": 1968,
+    "decade": 1960,
+    "genres": [],
+    "musicbrainzId": "d619fd21-b150-3f8f-b85e-8975bddc08de",
+    "cover": "/covers/029-white-album.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 30,
+    "position": 30,
+    "title": "Are You Experienced",
+    "artist": "Jimi Hendrix",
+    "year": 1967,
+    "decade": 1960,
+    "genres": [
+      "Blues Rock",
+      "Rock",
+      "Psychedelic Rock",
+      "Acid Rock",
+      "Hard Rock"
+    ],
+    "musicbrainzId": "da40e720-2097-3730-8a7f-0c2ddbff4a96",
+    "cover": "/covers/030-are-you-experienced.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 31,
+    "position": 31,
+    "title": "Kind of Blue",
+    "artist": "Miles Davis",
+    "year": 1959,
+    "decade": 1950,
+    "genres": [
+      "Jazz",
+      "Cool Jazz",
+      "Modal Jazz",
+      "Hard Bop",
+      "Post Bop"
+    ],
+    "musicbrainzId": "8e8a594f-2175-38c7-a871-abb68ec363e7",
+    "cover": "/covers/031-kind-of-blue.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 32,
+    "position": 32,
+    "title": "Lemonade",
+    "artist": "Beyoncé",
+    "year": 2016,
+    "decade": 2010,
+    "genres": [
+      "Alternative R And B",
+      "Pop",
+      "Contemporary R And B",
+      "Pop Rap",
+      "Visual Album"
+    ],
+    "musicbrainzId": "c1f22e07-7bdf-4a4f-8b50-7747c1091ef6",
+    "cover": "/covers/032-lemonade.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 33,
+    "position": 33,
+    "title": "Back to Black",
+    "artist": "Amy Winehouse",
+    "year": 2006,
+    "decade": 2000,
+    "genres": [
+      "Soul",
+      "Pop",
+      "R And B",
+      "Contemporary Jazz",
+      "Artist Session1 Track1"
+    ],
+    "musicbrainzId": "6eac2e57-ee50-36f8-b0c4-c4c847a2c098",
+    "cover": "/covers/033-back-to-black.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 34,
+    "position": 34,
+    "title": "Innervisions",
+    "artist": "Stevie Wonder",
+    "year": 1973,
+    "decade": 1970,
+    "genres": [
+      "Soul",
+      "Funk",
+      "R&B",
+      "Smooth Soul",
+      "Funk Soul"
+    ],
+    "musicbrainzId": "e626b377-74c5-3b97-8f16-8cef5e1c04ea",
+    "cover": "/covers/034-innervisions.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 35,
+    "position": 35,
+    "title": "Rubber Soul",
+    "artist": "The Beatles",
+    "year": 1965,
+    "decade": 1960,
+    "genres": [
+      "Rock",
+      "Pop",
+      "Folk Rock",
+      "Pop Rock",
+      "Am Pop"
+    ],
+    "musicbrainzId": "dca03435-8adb-30a5-ba82-5a162267ff38",
+    "cover": "/covers/035-rubber-soul.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 36,
+    "position": 36,
+    "title": "Off the Wall",
+    "artist": "Michael Jackson",
+    "year": 1979,
+    "decade": 1970,
+    "genres": [
+      "Disco",
+      "Pop",
+      "Contemporary R And B",
+      "Soul",
+      "R And B"
+    ],
+    "musicbrainzId": "ee749c63-5699-38e0-b565-7e84414648d9",
+    "cover": "/covers/036-off-the-wall.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 37,
+    "position": 37,
+    "title": "The Chronic",
+    "artist": "Dr. Dre",
+    "year": 1992,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "G Funk",
+      "Gangsta Rap",
+      "West Coast Hip Hop",
+      "Compton"
+    ],
+    "musicbrainzId": "ad444843-7160-33d7-b0c9-fc99f2c14a99",
+    "cover": "/covers/037-the-chronic.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 38,
+    "position": 38,
+    "title": "Blonde on Blonde",
+    "artist": "Bob Dylan",
+    "year": 1966,
+    "decade": 1960,
+    "genres": [
+      "Folk Rock",
+      "Rock",
+      "Acoustic",
+      "Blues Rock",
+      "Album Rock"
+    ],
+    "musicbrainzId": "329fb554-2a81-3d8a-8e22-ec2c66810019",
+    "cover": "/covers/038-blonde-on-blonde.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 39,
+    "position": 39,
+    "title": "Remain in Light",
+    "artist": "Talking Heads",
+    "year": 1980,
+    "decade": 1980,
+    "genres": [
+      "New Wave",
+      "Post Punk",
+      "Rock",
+      "Electronic",
+      "Funk Rock"
+    ],
+    "musicbrainzId": "f6b1b900-6108-32f0-abbd-2855af9151eb",
+    "cover": "/covers/039-remain-in-light.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 40,
+    "position": 40,
+    "title": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
+    "artist": "David Bowie",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Glam Rock",
+      "Pop Rock",
+      "Art Rock",
+      "Classic Rock"
+    ],
+    "musicbrainzId": "6c9ae3dd-32ad-472c-96be-69d0a3536261",
+    "cover": "/covers/040-the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 41,
+    "position": 41,
+    "title": "Let It Bleed",
+    "artist": "The Rolling Stones",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [
+      "Blues Rock",
+      "Rock",
+      "Hard Rock",
+      "Classic Rock",
+      "Album Rock"
+    ],
+    "musicbrainzId": "784c0edd-0f37-33a2-9ca5-dff87b4f999c",
+    "cover": "/covers/041-let-it-bleed.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 42,
+    "position": 42,
+    "title": "OK Computer",
+    "artist": "Radiohead",
+    "year": 1997,
+    "decade": 1990,
+    "genres": [
+      "Alternative Rock",
+      "Rock",
+      "Art Rock",
+      "Experimental",
+      "Post Britpop"
+    ],
+    "musicbrainzId": "b1392450-e666-3926-a536-22c65f834433",
+    "cover": "/covers/042-ok-computer.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 43,
+    "position": 43,
+    "title": "The Low End Theory",
+    "artist": "A Tribe Called Quest",
+    "year": 1991,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "Jazz Rap",
+      "East Coast Hip Hop",
+      "Conscious",
+      "Conscious Hip Hop"
+    ],
+    "musicbrainzId": "c3733436-fcba-3c08-b082-d548df5c5139",
+    "cover": "/covers/043-the-low-end-theory.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 44,
+    "position": 44,
+    "title": "Illmatic",
+    "artist": "Nas",
+    "year": 1994,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "East Coast Hip Hop",
+      "Boom Bap",
+      "Hardcore Hip Hop",
+      "Conscious Hip Hop"
+    ],
+    "musicbrainzId": "28298e2c-4d70-3eed-a0f5-a3280c662b3d",
+    "cover": "/covers/044-illmatic.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 45,
+    "position": 45,
+    "title": "Sign O' the Times",
+    "artist": "Prince",
+    "year": 1987,
+    "decade": 1980,
+    "genres": [],
+    "musicbrainzId": "a47f26f1-6166-46bd-9612-cb4c327ffe5f",
+    "cover": "/covers/045-sign-o-the-times.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 46,
+    "position": 46,
+    "title": "Graceland",
+    "artist": "Paul Simon",
+    "year": 1986,
+    "decade": 1980,
+    "genres": [
+      "Pop",
+      "Rock",
+      "Pop Rock",
+      "Folk",
+      "Adult Contemporary"
+    ],
+    "musicbrainzId": "19847822-1430-3380-9cf1-bc45545b34ac",
+    "cover": "/covers/046-graceland.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 47,
+    "position": 47,
+    "title": "Ramones",
+    "artist": "Ramones",
+    "year": 1976,
+    "decade": 1970,
+    "genres": [
+      "Punk Rock",
+      "Punk",
+      "Rock",
+      "Noisy",
+      "Power Pop"
+    ],
+    "musicbrainzId": "7de1e321-4a53-3feb-b83e-f1dab88bf952",
+    "cover": "/covers/047-ramones.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 48,
+    "position": 48,
+    "title": "Legend",
+    "artist": "Bob Marley and the Wailers",
+    "year": 1984,
+    "decade": 1980,
+    "genres": [
+      "Reggae",
+      "Roots Reggae",
+      "Rocksteady",
+      "Bob",
+      "Reggae Pop"
+    ],
+    "musicbrainzId": "1a4c52cd-483a-347c-93f9-4d512767c7ba",
+    "cover": "/covers/048-legend.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 49,
+    "position": 49,
+    "title": "Aquemini",
+    "artist": "OutKast",
+    "year": 1998,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "Southern Rap",
+      "Dirty South",
+      "Alternative Rap",
+      "Hip Hop Rap"
+    ],
+    "musicbrainzId": "eb655897-6cc5-3fc1-b9ed-5008eb80c682",
+    "cover": "/covers/049-aquemini.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 50,
+    "position": 50,
+    "title": "The Blueprint",
+    "artist": "Jay-Z",
+    "year": 2001,
+    "decade": 2000,
+    "genres": [
+      "Hip-Hop",
+      "East Coast Rap",
+      "Hip Hop Rap",
+      "East Coast Hip Hop",
+      "Hardcore Hip Hop"
+    ],
+    "musicbrainzId": "11ae8c9c-27c1-3308-9761-edb87c8f54ea",
+    "cover": "/covers/050-the-blueprint.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 51,
+    "position": 51,
+    "title": "The Great Twenty-Eight",
+    "artist": "Chuck Berry",
+    "year": 1982,
+    "decade": 1980,
+    "genres": [
+      "Rock",
+      "Rock & Roll",
+      "Blues",
+      "Oldies"
+    ],
+    "musicbrainzId": "d7da8113-a582-3656-9412-74e17a9a447e",
+    "cover": "/covers/051-the-great-twenty-eight.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 52,
+    "position": 52,
+    "title": "Station to Station",
+    "artist": "David Bowie",
+    "year": 1976,
+    "decade": 1970,
+    "genres": [
+      "Alternative Rock",
+      "Rock",
+      "Art Rock",
+      "Funk Rock",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "686cdbd1-b400-32d8-8cb8-9317a2e41a58",
+    "cover": "/covers/052-station-to-station.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 53,
+    "position": 53,
+    "title": "Electric Ladyland",
+    "artist": "Jimi Hendrix",
+    "year": 1968,
+    "decade": 1960,
+    "genres": [
+      "Blues Rock",
+      "Psychedelic Rock",
+      "Rock",
+      "Acid Rock",
+      "Hard Rock"
+    ],
+    "musicbrainzId": "47ba2d59-5544-34a4-b108-dc08c0956298",
+    "cover": "/covers/053-electric-ladyland.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 54,
+    "position": 54,
+    "title": "Star Time",
+    "artist": "James Brown",
+    "year": 1991,
+    "decade": 1990,
+    "genres": [
+      "Soul",
+      "Funk",
+      "Funk Soul"
+    ],
+    "musicbrainzId": "7f5132f0-1d58-3d83-be6a-e32d22219e17",
+    "cover": "/covers/054-star-time.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 55,
+    "position": 55,
+    "title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "year": 1973,
+    "decade": 1970,
+    "genres": [
+      "Progressive Rock",
+      "Rock",
+      "Psychedelic Rock",
+      "Art Rock",
+      "Album Rock"
+    ],
+    "musicbrainzId": "f5093c06-23e3-404f-aeaa-40f72885ee3a",
+    "cover": "/covers/055-the-dark-side-of-the-moon.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 56,
+    "position": 56,
+    "title": "Exile in Guyville",
+    "artist": "Liz Phair",
+    "year": 1993,
+    "decade": 1990,
+    "genres": [
+      "Indie Rock",
+      "Rock",
+      "Alternative Rock"
+    ],
+    "musicbrainzId": "c186db82-9988-367e-8486-2e38e9b6c8db",
+    "cover": "/covers/056-exile-in-guyville.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 57,
+    "position": 57,
+    "title": "The Band",
+    "artist": "The Band",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [
+      "Rock",
+      "Folk Rock",
+      "Country Rock",
+      "Roots Rock",
+      "Southern Rock"
+    ],
+    "musicbrainzId": "ea337405-285f-3846-9049-5e3addf149fc",
+    "cover": "/covers/057-the-band.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 58,
+    "position": 58,
+    "title": "Led Zeppelin IV",
+    "artist": "Led Zeppelin",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [
+      "Hard Rock",
+      "Rock",
+      "Blues Rock",
+      "Classic Rock",
+      "Arena Rock"
+    ],
+    "musicbrainzId": "2e61da88-39e9-3473-81d2-c964cb394952",
+    "cover": "/covers/058-led-zeppelin-iv.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 59,
+    "position": 59,
+    "title": "Talking Book",
+    "artist": "Stevie Wonder",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Soul",
+      "Funk",
+      "Album Rock",
+      "R&B",
+      "Rock"
+    ],
+    "musicbrainzId": "58c6d809-bfa7-3b25-acf3-a99d53402b08",
+    "cover": "/covers/059-talking-book.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 60,
+    "position": 60,
+    "title": "Astral Weeks",
+    "artist": "Van Morrison",
+    "year": 1968,
+    "decade": 1960,
+    "genres": [
+      "Blues Rock",
+      "Rock",
+      "Chamber Folk",
+      "Singer-Songwriter",
+      "Folk Rock"
+    ],
+    "musicbrainzId": "7d568f14-d86e-3584-97d0-c1824599de04",
+    "cover": "/covers/060-astral-weeks.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 61,
+    "position": 61,
+    "title": "Paid in Full",
+    "artist": "Eric B. and Rakim",
+    "year": 1987,
+    "decade": 1980,
+    "genres": [
+      "Hip-Hop",
+      "Hardcore Hip Hop",
+      "Turntablism",
+      "Hip Hop Rap",
+      "East Coast Hip Hop"
+    ],
+    "musicbrainzId": "e124668d-731c-3d2f-bd38-facf91df5e27",
+    "cover": "/covers/061-paid-in-full.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 62,
+    "position": 62,
+    "title": "Appetite for Destruction",
+    "artist": "Guns N’ Roses",
+    "year": 1987,
+    "decade": 1980,
+    "genres": [
+      "Hard Rock",
+      "Rock",
+      "Heavy Metal",
+      "Glam Metal",
+      "Metal"
+    ],
+    "musicbrainzId": "a0b94d0a-210b-4b15-bd1d-93be2196c14a",
+    "cover": "/covers/062-appetite-for-destruction.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 63,
+    "position": 63,
+    "title": "Aja",
+    "artist": "Steely Dan",
+    "year": 1977,
+    "decade": 1970,
+    "genres": [
+      "Jazz Rock",
+      "Yacht Rock",
+      "Pop Rock",
+      "Rock",
+      "Pop"
+    ],
+    "musicbrainzId": "8588c5a5-b491-37a4-8d51-2227346a072e",
+    "cover": "/covers/063-aja.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 64,
+    "position": 64,
+    "title": "Stankonia",
+    "artist": "OutKast",
+    "year": 2000,
+    "decade": 2000,
+    "genres": [
+      "Hip-Hop",
+      "Southern Rap",
+      "Dirty South",
+      "Electronic",
+      "Techno"
+    ],
+    "musicbrainzId": "00d2cd53-21c9-3738-b683-56847b7b0040",
+    "cover": "/covers/064-stankonia.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 65,
+    "position": 65,
+    "title": "Live at the Apollo",
+    "artist": "James Brown",
+    "year": 1963,
+    "decade": 1960,
+    "genres": [
+      "Soul",
+      "Funk",
+      "Funk Soul",
+      "Deep Soul",
+      "Rhythm Blues"
+    ],
+    "musicbrainzId": "a2bad96f-a572-38f2-b362-5865dedc0d35",
+    "cover": "/covers/065-live-at-the-apollo.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 66,
+    "position": 66,
+    "title": "A Love Supreme",
+    "artist": "John Coltrane",
+    "year": 1965,
+    "decade": 1960,
+    "genres": [
+      "Jazz",
+      "Free Jazz",
+      "Post Bop",
+      "Spiritual Jazz",
+      "Hard Bop"
+    ],
+    "musicbrainzId": "77cf47ba-58cd-3f3d-a5f9-79bf89860421",
+    "cover": "/covers/066-a-love-supreme.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 67,
+    "position": 67,
+    "title": "Reasonable Doubt",
+    "artist": "Jay-Z",
+    "year": 1996,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "Hip Hop Rap",
+      "Gangsta Rap",
+      "Boom Bap",
+      "Jazz Rap"
+    ],
+    "musicbrainzId": "a7f852ba-08bc-36f1-92f3-4dc127f4b70a",
+    "cover": "/covers/067-reasonable-doubt.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 68,
+    "position": 68,
+    "title": "Hounds of Love",
+    "artist": "Kate Bush",
+    "year": 1985,
+    "decade": 1980,
+    "genres": [
+      "Art Rock",
+      "Pop Rock",
+      "Art Pop",
+      "Rock",
+      "Progressive Pop"
+    ],
+    "musicbrainzId": "017f2a37-a78f-3578-9611-fa40408e5d90",
+    "cover": "/covers/068-hounds-of-love.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 69,
+    "position": 69,
+    "title": "Jagged Little Pill",
+    "artist": "Alanis Morissette",
+    "year": 1995,
+    "decade": 1990,
+    "genres": [
+      "Rock",
+      "Alternative Rock",
+      "Post Grunge",
+      "Pop Rock",
+      "Pop"
+    ],
+    "musicbrainzId": "ee3d18ed-d6a8-37c7-a964-41bbdb6d59f1",
+    "cover": "/covers/069-jagged-little-pill.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 70,
+    "position": 70,
+    "title": "Straight Outta Compton",
+    "artist": "N.W.A",
+    "year": 1988,
+    "decade": 1980,
+    "genres": [
+      "Gangsta Rap",
+      "Hip-Hop",
+      "Golden Age",
+      "West Coast Hip Hop",
+      "Gangsta"
+    ],
+    "musicbrainzId": "fed1608d-80b7-38d2-aeb8-c6357f0d4c23",
+    "cover": "/covers/070-straight-outta-compton.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 71,
+    "position": 71,
+    "title": "Exodus",
+    "artist": "Bob Marley and the Wailers",
+    "year": 1977,
+    "decade": 1970,
+    "genres": [
+      "Reggae",
+      "Roots Reggae",
+      "Bob",
+      "Roots",
+      "Soul And Reggae"
+    ],
+    "musicbrainzId": "c5650313-60f3-34d3-92e4-300545133792",
+    "cover": "/covers/071-exodus.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 72,
+    "position": 72,
+    "title": "Harvest",
+    "artist": "Neil Young",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Folk Rock",
+      "Country Rock",
+      "Classic Rock",
+      "Male Vocal"
+    ],
+    "musicbrainzId": "b25419cf-71bf-3a54-8cd4-2161c61056a0",
+    "cover": "/covers/072-harvest.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 73,
+    "position": 73,
+    "title": "Loveless",
+    "artist": "My Bloody Valentine",
+    "year": 1991,
+    "decade": 1990,
+    "genres": [
+      "Shoegaze",
+      "Noise Pop",
+      "Dream Pop",
+      "Rock",
+      "Alternative Rock"
+    ],
+    "musicbrainzId": "cb76227e-3ac0-3002-9a10-615a5b73cc59",
+    "cover": "/covers/073-loveless.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 74,
+    "position": 74,
+    "title": "The College Dropout",
+    "artist": "Kanye West",
+    "year": 2004,
+    "decade": 2000,
+    "genres": [
+      "Hip-Hop",
+      "Alternative Rap",
+      "Pop Rap",
+      "Hip Hop Rap",
+      "Midwest Rap"
+    ],
+    "musicbrainzId": "8a01217e-6947-3927-a39b-6691104694f1",
+    "cover": "/covers/074-the-college-dropout.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 75,
+    "position": 75,
+    "title": "Lady Soul",
+    "artist": "Aretha Franklin",
+    "year": 1968,
+    "decade": 1960,
+    "genres": [
+      "Soul",
+      "Southern Soul",
+      "Blues",
+      "Classic Rock",
+      "Deep Soul"
+    ],
+    "musicbrainzId": "05571372-5b11-39b7-89c5-1c02589a27c8",
+    "cover": "/covers/075-lady-soul.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 76,
+    "position": 76,
+    "title": "Superfly",
+    "artist": "Curtis Mayfield",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Soul",
+      "Funk",
+      "Soundtrack",
+      "Soul And Reggae",
+      "Funk Soul"
+    ],
+    "musicbrainzId": "3f68cf91-b4f0-39ef-8318-93dc064a53ba",
+    "cover": "/covers/076-superfly.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 77,
+    "position": 77,
+    "title": "Who's Next",
+    "artist": "The Who",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [
+      "Hard Rock",
+      "Rock",
+      "Art Rock",
+      "Classic Rock",
+      "Progressive Rock"
+    ],
+    "musicbrainzId": "9584e28b-66a7-3846-8d52-b3008a283539",
+    "cover": "/covers/077-who-s-next.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 78,
+    "position": 78,
+    "title": "The Sun Sessions",
+    "artist": "Elvis Presley",
+    "year": 1976,
+    "decade": 1970,
+    "genres": [
+      "Rock & Roll",
+      "Rock",
+      "Pop"
+    ],
+    "musicbrainzId": "2ac479cc-0126-3709-bb55-7028e4c559ef",
+    "cover": "/covers/078-the-sun-sessions.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 79,
+    "position": 79,
+    "title": "Blond",
+    "artist": "Frank Ocean",
+    "year": 2016,
+    "decade": 2010,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 80,
+    "position": 80,
+    "title": "Never Mind the Bollocks Here’s the Sex Pistols",
+    "artist": "The Sex Pistols",
+    "year": 1977,
+    "decade": 1970,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 81,
+    "position": 81,
+    "title": "Beyoncé",
+    "artist": "Beyoncé",
+    "year": 2013,
+    "decade": 2010,
+    "genres": [
+      "Pop",
+      "Contemporary R And B",
+      "Hip-Hop",
+      "Electropop",
+      "Alternative R And B"
+    ],
+    "musicbrainzId": "8596171e-23b2-4bdd-8f1c-11960df0ecbe",
+    "cover": "/covers/081-beyonce.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 82,
+    "position": 82,
+    "title": "There’s a Riot Goin’ On",
+    "artist": "Sly and the Family Stone",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [
+      "Funk",
+      "Psychedelic Soul",
+      "Progressive Soul",
+      "Soul",
+      "Deep Funk"
+    ],
+    "musicbrainzId": "d8b8448a-2634-3e92-ac86-cf55e018f825",
+    "cover": "/covers/082-there-s-a-riot-goin-on.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 83,
+    "position": 83,
+    "title": "Dusty in Memphis",
+    "artist": "Dusty Springfield",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [
+      "Pop",
+      "Blue Eyed Soul",
+      "Soul",
+      "Pop Soul",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "aac8700b-8f62-30fc-ac2a-23b6cb37e3c3",
+    "cover": "/covers/083-dusty-in-memphis.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 84,
+    "position": 84,
+    "title": "Back in Black",
+    "artist": "AC/DC",
+    "year": 1980,
+    "decade": 1980,
+    "genres": [
+      "Hard Rock",
+      "Rock",
+      "Album Rock",
+      "Arena Rock",
+      "Heavy Metal"
+    ],
+    "musicbrainzId": "d3bc1a64-7561-3787-b680-0003aa50f8f1",
+    "cover": "/covers/084-back-in-black.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 85,
+    "position": 85,
+    "title": "Plastic Ono Band",
+    "artist": "John Lennon",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Pop Rock",
+      "Contemporary Folk",
+      "Singer-Songwriter",
+      "Folk"
+    ],
+    "musicbrainzId": "8be83468-4917-390d-82b6-d890f058cd22",
+    "cover": "/covers/085-plastic-ono-band.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 86,
+    "position": 86,
+    "title": "The Doors",
+    "artist": "The Doors",
+    "year": 1967,
+    "decade": 1960,
+    "genres": [
+      "Rock",
+      "Psychedelic Rock",
+      "Acid Rock",
+      "Blues Rock",
+      "Classic Rock"
+    ],
+    "musicbrainzId": "8ebffd15-06c3-3b88-a761-ec18c5513287",
+    "cover": "/covers/086-the-doors.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 87,
+    "position": 87,
+    "title": "Bitches Brew",
+    "artist": "Miles Davis",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Jazz",
+      "Jazz Fusion",
+      "Avant Garde Jazz",
+      "Jazz Rock",
+      "Avant Garde"
+    ],
+    "musicbrainzId": "a9e30282-5b37-3f92-b897-b9659a1a312b",
+    "cover": "/covers/087-bitches-brew.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 88,
+    "position": 88,
+    "title": "Hunky Dory",
+    "artist": "David Bowie",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Art Rock",
+      "Glam Rock",
+      "Pop Rock",
+      "Singer-Songwriter"
+    ],
+    "musicbrainzId": "743b0b2e-a23a-3182-950e-232f8cb0dfb7",
+    "cover": "/covers/088-hunky-dory.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 89,
+    "position": 89,
+    "title": "Baduizm",
+    "artist": "Erykah Badu",
+    "year": 1997,
+    "decade": 1990,
+    "genres": [
+      "Neo Soul",
+      "Jazz",
+      "Soul",
+      "Funk Soul",
+      "Rnb Swing"
+    ],
+    "musicbrainzId": "45536412-c62c-34fc-9524-0bac1d2542c1",
+    "cover": "/covers/089-baduizm.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 90,
+    "position": 90,
+    "title": "After the Gold Rush",
+    "artist": "Neil Young",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Folk Rock",
+      "Country Rock",
+      "Folk",
+      "Singer-Songwriter"
+    ],
+    "musicbrainzId": "b6a3952b-9977-351c-a80a-73e023143858",
+    "cover": "/covers/090-after-the-gold-rush.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 91,
+    "position": 91,
+    "title": "Darkness on the Edge of Town",
+    "artist": "Bruce Springsteen",
+    "year": 1978,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Heartland Rock",
+      "Pop Rock",
+      "Piano Rock",
+      "Singer-Songwriter"
+    ],
+    "musicbrainzId": "b613123b-a234-3f48-9c45-e05bf4e6b9e7",
+    "cover": "/covers/091-darkness-on-the-edge-of-town.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 92,
+    "position": 92,
+    "title": "Axis: Bold as Love",
+    "artist": "The Jimi Hendrix Experience",
+    "year": 1967,
+    "decade": 1960,
+    "genres": [
+      "Rock",
+      "Blues Rock",
+      "Acid Rock",
+      "Psychedelic Rock",
+      "Hard Rock"
+    ],
+    "musicbrainzId": "d0b1e21e-cef6-4575-8d92-1afea1894ca3",
+    "cover": "/covers/092-axis-bold-as-love.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 93,
+    "position": 93,
+    "title": "Supa Dupa Fly",
+    "artist": "Missy “Misdemeanor” Elliott",
+    "year": 1997,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop"
+    ],
+    "musicbrainzId": "45a68d94-6923-38c1-a6dd-4cfc1cdc193a",
+    "cover": "/covers/093-supa-dupa-fly.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 94,
+    "position": 94,
+    "title": "Fun House",
+    "artist": "The Stooges",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Garage Rock",
+      "Proto Punk",
+      "Rock",
+      "Hard Rock",
+      "Punk"
+    ],
+    "musicbrainzId": "edd57263-df77-3f1a-8803-8beb5d5b1a64",
+    "cover": "/covers/094-fun-house.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 95,
+    "position": 95,
+    "title": "Take Care",
+    "artist": "Drake",
+    "year": 2011,
+    "decade": 2010,
+    "genres": [
+      "Contemporary R And B",
+      "Pop Rap",
+      "Hip-Hop",
+      "Pop",
+      "Rnb Swing"
+    ],
+    "musicbrainzId": "47809021-4515-4215-beea-db3f5dfb6267",
+    "cover": "/covers/095-take-care.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 96,
+    "position": 96,
+    "title": "Automatic for the People",
+    "artist": "R.E.M.",
+    "year": 1992,
+    "decade": 1990,
+    "genres": [
+      "Alternative Rock",
+      "Rock",
+      "Pop Rock",
+      "Acoustic Rock",
+      "Jangle Pop"
+    ],
+    "musicbrainzId": "c86c6af9-d10e-3079-b34b-30b682a797eb",
+    "cover": "/covers/096-automatic-for-the-people.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 97,
+    "position": 97,
+    "title": "Master of Puppets",
+    "artist": "Metallica",
+    "year": 1986,
+    "decade": 1980,
+    "genres": [
+      "Thrash Metal",
+      "Heavy Metal",
+      "Metal",
+      "Political",
+      "Progressive"
+    ],
+    "musicbrainzId": "3d00fb45-f8ab-3436-a8e1-b4bfc4d66913",
+    "cover": "/covers/097-master-of-puppets.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 98,
+    "position": 98,
+    "title": "Car Wheels on a Gravel Road",
+    "artist": "Lucinda Williams",
+    "year": 1998,
+    "decade": 1990,
+    "genres": [
+      "Country",
+      "Folk",
+      "Rock",
+      "Singer-Songwriter",
+      "World"
+    ],
+    "musicbrainzId": "493de006-33bf-3404-9bb7-1f3b0c22ce05",
+    "cover": "/covers/098-car-wheels-on-a-gravel-road.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 99,
+    "position": 99,
+    "title": "Red",
+    "artist": "Taylor Swift",
+    "year": 2012,
+    "decade": 2010,
+    "genres": [
+      "Country",
+      "Pop",
+      "Country Pop",
+      "Singer-Songwriter",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "a73cecde-0923-40ad-aad1-e8c24ba6c3d2",
+    "cover": "/covers/099-red.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 100,
+    "position": 100,
+    "title": "Music From Big Pink",
+    "artist": "The Band",
+    "year": 1968,
+    "decade": 1960,
+    "genres": [
+      "Rock",
+      "Folk Rock",
+      "Roots Rock",
+      "Country Rock",
+      "Country Soul"
+    ],
+    "musicbrainzId": "466fddac-8006-3e71-bbe7-7aa0f587aa88",
+    "cover": "/covers/100-music-from-big-pink.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 101,
+    "position": 101,
+    "title": "Led Zeppelin",
+    "artist": "Led Zeppelin",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [
+      "Hard Rock",
+      "Rock",
+      "Blues Rock",
+      "Classic Rock",
+      "Arena Rock"
+    ],
+    "musicbrainzId": "0f18ec88-aa87-38a9-8a65-f03d81763560",
+    "cover": "/covers/101-led-zeppelin.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 102,
+    "position": 102,
+    "title": "The Clash",
+    "artist": "The Clash",
+    "year": 1977,
+    "decade": 1970,
+    "genres": [
+      "Punk",
+      "Punk Rock",
+      "Political",
+      "Rock",
+      "Conscious"
+    ],
+    "musicbrainzId": "ca91cb5a-7ecc-3c46-84a0-0d4951889374",
+    "cover": "/covers/102-the-clash.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 103,
+    "position": 103,
+    "title": "Three Feet High And Rising",
+    "artist": "De La Soul",
+    "year": 1989,
+    "decade": 1980,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 104,
+    "position": 104,
+    "title": "Sticky Fingers",
+    "artist": "The Rolling Stones",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Blues Rock",
+      "Hard Rock",
+      "Country Rock",
+      "Blues"
+    ],
+    "musicbrainzId": "4a4213d0-f224-3d51-bcca-476f61162681",
+    "cover": "/covers/104-sticky-fingers.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 105,
+    "position": 105,
+    "title": "At Fillmore East",
+    "artist": "The Allman Brothers",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [
+      "Blues Rock",
+      "Rock",
+      "Southern Rock",
+      "Blues",
+      "Hard Rock"
+    ],
+    "musicbrainzId": "d757b87e-4a3b-38ec-9246-548baeff5ceb",
+    "cover": "/covers/105-at-fillmore-east.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 106,
+    "position": 106,
+    "title": "Live Through This",
+    "artist": "Hole",
+    "year": 1994,
+    "decade": 1990,
+    "genres": [
+      "Grunge",
+      "Rock",
+      "Alternative Rock",
+      "Rock And Indie"
+    ],
+    "musicbrainzId": "fe676d05-f97c-303a-890b-da53c69e5d42",
+    "cover": "/covers/106-live-through-this.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 107,
+    "position": 107,
+    "title": "Marquee Moon",
+    "artist": "Television",
+    "year": 1977,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Art Punk",
+      "New Wave",
+      "Cbgb Scene",
+      "Post Punk"
+    ],
+    "musicbrainzId": "2b9f99d8-becf-3fc3-86a6-2bdd4cef93fe",
+    "cover": "/covers/107-marquee-moon.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 108,
+    "position": 108,
+    "title": "When the Pawn ...",
+    "artist": "Fiona Apple",
+    "year": 1999,
+    "decade": 1990,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 109,
+    "position": 109,
+    "title": "Transformer",
+    "artist": "Lou Reed",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Glam Rock",
+      "Rock",
+      "Art Rock",
+      "Pop Rock",
+      "Glam"
+    ],
+    "musicbrainzId": "6c8345df-f822-33af-b64a-eff2e46941b9",
+    "cover": "/covers/109-transformer.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 110,
+    "position": 110,
+    "title": "Court and Spark",
+    "artist": "Joni Mitchell",
+    "year": 1974,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Folk Pop",
+      "Pop",
+      "Pop Rock",
+      "Folk Jazz"
+    ],
+    "musicbrainzId": "3bd19e28-698e-3b7e-a8ec-f872bf001651",
+    "cover": "/covers/110-court-and-spark.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 111,
+    "position": 111,
+    "title": "Control",
+    "artist": "Janet Jackson",
+    "year": 1986,
+    "decade": 1980,
+    "genres": [
+      "Pop",
+      "Synth Pop",
+      "Electronic",
+      "Hip-Hop",
+      "New Jack Swing"
+    ],
+    "musicbrainzId": "b23d3137-df51-3047-a6a5-b5efbde50f22",
+    "cover": "/covers/111-control.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 112,
+    "position": 112,
+    "title": "Goodbye Yellow Brick Road",
+    "artist": "Elton John",
+    "year": 1973,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Glam Rock",
+      "Pop Rock",
+      "Soft Rock",
+      "Pop"
+    ],
+    "musicbrainzId": "80df0f1b-4ce7-348a-aa1b-0d31ebff111a",
+    "cover": "/covers/112-goodbye-yellow-brick-road.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 113,
+    "position": 113,
+    "title": "The Queen Is Dead",
+    "artist": "The Smiths",
+    "year": 1986,
+    "decade": 1980,
+    "genres": [
+      "Jangle Pop",
+      "Indie Pop",
+      "Indie Rock",
+      "Rock",
+      "Post Punk"
+    ],
+    "musicbrainzId": "d8dde278-482c-3cc8-a530-fea70476f3a5",
+    "cover": "/covers/113-the-queen-is-dead.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 114,
+    "position": 114,
+    "title": "Is This It",
+    "artist": "The Strokes",
+    "year": 2001,
+    "decade": 2000,
+    "genres": [
+      "Rock",
+      "Indie Rock",
+      "Garage Rock Revival",
+      "Garage Rock",
+      "Alternative And Punk"
+    ],
+    "musicbrainzId": "efea26d1-a016-30f6-b8e2-bc8c02336b0a",
+    "cover": "/covers/114-is-this-it.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 115,
+    "position": 115,
+    "title": "good kid, m.A.A.d city",
+    "artist": "Kendrick Lamar",
+    "year": 2012,
+    "decade": 2010,
+    "genres": [
+      "Hip-Hop",
+      "West Coast Hip Hop",
+      "Conscious Hip Hop",
+      "Concept Album",
+      "Christian"
+    ],
+    "musicbrainzId": "499c19c8-0dab-4824-884b-6191d145e95b",
+    "cover": "/covers/115-good-kid-m-a-a-d-city.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 116,
+    "position": 116,
+    "title": "Disintegration",
+    "artist": "The Cure",
+    "year": 1989,
+    "decade": 1980,
+    "genres": [
+      "Gothic Rock",
+      "Alternative Rock",
+      "New Wave",
+      "Post Punk",
+      "Rock"
+    ],
+    "musicbrainzId": "494bf606-d2f7-36d0-8340-eadad8601d2b",
+    "cover": "/covers/116-disintegration.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 117,
+    "position": 117,
+    "title": "Late Registration",
+    "artist": "Kanye West",
+    "year": 2005,
+    "decade": 2000,
+    "genres": [
+      "Hip-Hop",
+      "Conscious Hip Hop",
+      "Alternative Rap",
+      "Pop Rap",
+      "Neo Soul"
+    ],
+    "musicbrainzId": "c563d738-3841-31ce-b29d-ec6b40fd1e7b",
+    "cover": "/covers/117-late-registration.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 118,
+    "position": 118,
+    "title": "Hotel California",
+    "artist": "The Eagles",
+    "year": 1976,
+    "decade": 1970,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 119,
+    "position": 119,
+    "title": "Stand!",
+    "artist": "Sly and the Family Stone",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [
+      "Funk",
+      "Psychedelic Soul",
+      "Psychedelic",
+      "Psychedelic Rock",
+      "Rock"
+    ],
+    "musicbrainzId": "86871123-60e4-30a5-aae3-36e810e0964b",
+    "cover": "/covers/119-stand.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 120,
+    "position": 120,
+    "title": "Moondance",
+    "artist": "Van Morrison",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Folk Rock",
+      "Rock",
+      "Classic Rock",
+      "Blue Eyed Soul",
+      "R&B"
+    ],
+    "musicbrainzId": "16506432-d133-3b2f-a504-dc88966dad2a",
+    "cover": "/covers/120-moondance.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 121,
+    "position": 121,
+    "title": "This Year’s Model",
+    "artist": "Elvis Costello",
+    "year": 1978,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "New Wave",
+      "Rock Pop",
+      "Punk New Wave",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "5e8117f4-a87f-3732-be5f-313c7e5b308d",
+    "cover": "/covers/121-this-year-s-model.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 122,
+    "position": 122,
+    "title": "The Downward Spiral",
+    "artist": "Nine Inch Nails",
+    "year": 1994,
+    "decade": 1990,
+    "genres": [
+      "Industrial Rock",
+      "Industrial",
+      "Industrial Metal",
+      "Electronic",
+      "Alternative Rock"
+    ],
+    "musicbrainzId": "7c4cab8d-dead-3870-b501-93c90fd0a580",
+    "cover": "/covers/122-the-downward-spiral.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 123,
+    "position": 123,
+    "title": "Led Zeppelin II",
+    "artist": "Led Zeppelin",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [
+      "Hard Rock",
+      "Rock",
+      "Blues Rock",
+      "Album Rock",
+      "Classic Rock"
+    ],
+    "musicbrainzId": "33b4653d-006e-3cc1-8afb-386b15a6cd6e",
+    "cover": "/covers/123-led-zeppelin-ii.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 124,
+    "position": 124,
+    "title": "Achtung Baby",
+    "artist": "U2",
+    "year": 1991,
+    "decade": 1990,
+    "genres": [
+      "Rock",
+      "Pop Rock",
+      "Alternative Rock",
+      "Indie Rock",
+      "Alternative Dance"
+    ],
+    "musicbrainzId": "744c7a1b-ac79-35c4-bd92-7e2c6a24c8d8",
+    "cover": "/covers/124-achtung-baby.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 125,
+    "position": 125,
+    "title": "Paul's Boutique",
+    "artist": "Beastie Boys",
+    "year": 1989,
+    "decade": 1980,
+    "genres": [
+      "Hip-Hop",
+      "East Coast Hip Hop",
+      "Experimental Hip Hop",
+      "Plunderphonics"
+    ],
+    "musicbrainzId": "b534aa01-d621-31ba-9278-38a500e3cdca",
+    "cover": "/covers/125-paul-s-boutique.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 126,
+    "position": 126,
+    "title": "My Life",
+    "artist": "Mary J. Blige",
+    "year": 1994,
+    "decade": 1990,
+    "genres": [
+      "R And B",
+      "Hip-Hop",
+      "Contemporary R And B",
+      "Pop",
+      "Urban"
+    ],
+    "musicbrainzId": "49acb129-7958-3132-988c-bb85955b1c3c",
+    "cover": "/covers/126-my-life.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 127,
+    "position": 127,
+    "title": "Modern Sounds in Country and Western Music",
+    "artist": "Ray Charles",
+    "year": 1962,
+    "decade": 1960,
+    "genres": [
+      "Soul",
+      "Country Soul",
+      "Country",
+      "R&B",
+      "Adult Contemporary"
+    ],
+    "musicbrainzId": "38671d62-32bd-399d-abbd-0f685c2fd4a3",
+    "cover": "/covers/127-modern-sounds-in-country-and-western-music.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 128,
+    "position": 128,
+    "title": "A Night at the Opera",
+    "artist": "Queen",
+    "year": 1975,
+    "decade": 1970,
+    "genres": [
+      "Hard Rock",
+      "Rock",
+      "Art Rock",
+      "Glam Rock",
+      "Baroque Pop"
+    ],
+    "musicbrainzId": "6b47c9a0-b9e1-3df9-a5e8-50a6ce0dbdbd",
+    "cover": "/covers/128-a-night-at-the-opera.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 129,
+    "position": 129,
+    "title": "The Wall",
+    "artist": "Pink Floyd",
+    "year": 1979,
+    "decade": 1970,
+    "genres": [
+      "Progressive Rock",
+      "Rock",
+      "Art Rock",
+      "Classic Rock",
+      "Album Rock"
+    ],
+    "musicbrainzId": "f2026101-945b-3d05-9ef4-aa718fc3feef",
+    "cover": "/covers/129-the-wall.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 130,
+    "position": 130,
+    "title": "1999",
+    "artist": "Prince",
+    "year": 1982,
+    "decade": 1980,
+    "genres": [
+      "Funk",
+      "Pop",
+      "New Wave",
+      "Rock",
+      "Dance Pop"
+    ],
+    "musicbrainzId": "561be5b7-a39c-3866-859d-d86f30816ae7",
+    "cover": "/covers/130-1999.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 131,
+    "position": 131,
+    "title": "Dummy",
+    "artist": "Portishead",
+    "year": 1994,
+    "decade": 1990,
+    "genres": [
+      "Trip Hop",
+      "Electronic",
+      "Downtempo",
+      "Acid Jazz",
+      "Melancholic"
+    ],
+    "musicbrainzId": "48140466-cff6-3222-bd55-63c27e43190d",
+    "cover": "/covers/131-dummy.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 132,
+    "position": 132,
+    "title": "40 Greatest Hits",
+    "artist": "Hank Williams",
+    "year": 1978,
+    "decade": 1970,
+    "genres": [
+      "Country",
+      "Traditional Country",
+      "Honky Tonk"
+    ],
+    "musicbrainzId": "4a48eaed-2b09-3147-b310-187bfc692849",
+    "cover": "/covers/132-40-greatest-hits.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 133,
+    "position": 133,
+    "title": "Hejira",
+    "artist": "Joni Mitchell",
+    "year": 1976,
+    "decade": 1970,
+    "genres": [
+      "Folk",
+      "Folk Rock",
+      "Vocal Jazz",
+      "Rock",
+      "Pop"
+    ],
+    "musicbrainzId": "039f2ae4-36dd-3608-9103-67ce7f6c9288",
+    "cover": "/covers/133-hejira.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 134,
+    "position": 134,
+    "title": "The Score",
+    "artist": "Fugees",
+    "year": 1996,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "Contemporary R And B",
+      "Boom Bap",
+      "Conscious Hip Hop",
+      "Alternative Hip Hop"
+    ],
+    "musicbrainzId": "dd2203dd-a149-316b-ad7f-a303dc4fc459",
+    "cover": "/covers/134-the-score.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 135,
+    "position": 135,
+    "title": "The Joshua Tree",
+    "artist": "U2",
+    "year": 1987,
+    "decade": 1980,
+    "genres": [
+      "Rock",
+      "Pop Rock",
+      "Alternative Rock",
+      "Adult Alternative Rock",
+      "Post Punk"
+    ],
+    "musicbrainzId": "6f3e9fa6-be7a-3de8-a2b2-2072ece8a54d",
+    "cover": "/covers/135-the-joshua-tree.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 136,
+    "position": 136,
+    "title": "Maggot Brain",
+    "artist": "Funkadelic",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [
+      "Funk",
+      "Hard Rock",
+      "Funk Rock",
+      "Acid Rock",
+      "P Funk"
+    ],
+    "musicbrainzId": "a334e612-e736-3b4f-82b4-c4dfb774983c",
+    "cover": "/covers/136-maggot-brain.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 137,
+    "position": 137,
+    "title": "21",
+    "artist": "Adele",
+    "year": 2011,
+    "decade": 2010,
+    "genres": [
+      "Pop",
+      "Pop Soul",
+      "Blue Eyed Soul",
+      "Adult Alternative Pop Rock",
+      "Soul"
+    ],
+    "musicbrainzId": "e4174758-d333-4a8e-a31f-dd0edd51518e",
+    "cover": "/covers/137-21.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 138,
+    "position": 138,
+    "title": "The Immaculate Collection",
+    "artist": "Madonna",
+    "year": 1990,
+    "decade": 1990,
+    "genres": [
+      "Pop",
+      "Synth Pop",
+      "Dance Pop",
+      "Adult Contemporary",
+      "Electronic"
+    ],
+    "musicbrainzId": "b14e9927-081e-4a07-b0f7-8ddf22319b27",
+    "cover": "/covers/138-the-immaculate-collection.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 139,
+    "position": 139,
+    "title": "Paranoid",
+    "artist": "Black Sabbath",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Heavy Metal",
+      "Hard Rock",
+      "Classic British Metal",
+      "Rock",
+      "Blues Rock"
+    ],
+    "musicbrainzId": "cc053745-c447-3566-8f27-bed5438c9133",
+    "cover": "/covers/139-paranoid.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 140,
+    "position": 140,
+    "title": "Catch a Fire",
+    "artist": "Bob Marley and the Wailers",
+    "year": 1973,
+    "decade": 1970,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 141,
+    "position": 141,
+    "title": "Doolittle",
+    "artist": "Pixies",
+    "year": 1989,
+    "decade": 1980,
+    "genres": [
+      "Alternative Rock",
+      "Indie Rock",
+      "Rock",
+      "Noisy",
+      "Female Vocalist"
+    ],
+    "musicbrainzId": "1aa41b19-5a72-341b-bd91-4cf61d1dab6b",
+    "cover": "/covers/141-doolittle.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 142,
+    "position": 142,
+    "title": "Born in the U.S.A.",
+    "artist": "Bruce Springsteen",
+    "year": 1984,
+    "decade": 1980,
+    "genres": [
+      "Rock",
+      "Heartland Rock",
+      "Pop Rock",
+      "Folk Rock",
+      "Aor"
+    ],
+    "musicbrainzId": "3c39a076-8e52-38f2-8076-260d0672fb23",
+    "cover": "/covers/142-born-in-the-u-s-a.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 143,
+    "position": 143,
+    "title": "The Velvet Underground",
+    "artist": "The Velvet Underground",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [
+      "Art Rock",
+      "Rock",
+      "Experimental Rock",
+      "Proto Punk",
+      "Folk Rock"
+    ],
+    "musicbrainzId": "a616dcf5-7a1f-3afe-a53b-27281c2bf75e",
+    "cover": "/covers/143-the-velvet-underground.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 144,
+    "position": 144,
+    "title": "Physical Graffiti",
+    "artist": "Led Zeppelin",
+    "year": 1975,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Hard Rock",
+      "Blues Rock",
+      "Classic Rock",
+      "Album Rock"
+    ],
+    "musicbrainzId": "116c9490-6af4-3827-8261-2d5b1f508fe7",
+    "cover": "/covers/144-physical-graffiti.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 145,
+    "position": 145,
+    "title": "The Marshall Mathers LP",
+    "artist": "Eminem",
+    "year": 2000,
+    "decade": 2000,
+    "genres": [
+      "Hip-Hop",
+      "Hardcore Hip Hop",
+      "Pop Rap",
+      "Detroit Hip Hop",
+      "Horrorcore"
+    ],
+    "musicbrainzId": "b0fa91c8-0996-38f1-ab84-797f58d7c4eb",
+    "cover": "/covers/145-the-marshall-mathers-lp.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 146,
+    "position": 146,
+    "title": "Parallel Lines",
+    "artist": "Blondie",
+    "year": 1978,
+    "decade": 1970,
+    "genres": [
+      "New Wave",
+      "Rock",
+      "Pop Rock",
+      "Pop",
+      "Alternative"
+    ],
+    "musicbrainzId": "0c1a4d70-5926-3ae8-aa25-466fe65639fe",
+    "cover": "/covers/146-parallel-lines.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 147,
+    "position": 147,
+    "title": "Grace",
+    "artist": "Jeff Buckley",
+    "year": 1994,
+    "decade": 1990,
+    "genres": [
+      "Rock",
+      "Alternative Rock",
+      "Singer-Songwriter",
+      "Folk Rock",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "ea29c347-696f-3165-986d-7bad1394b178",
+    "cover": "/covers/147-grace.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 148,
+    "position": 148,
+    "title": "Channel Orange",
+    "artist": "Frank Ocean",
+    "year": 2012,
+    "decade": 2010,
+    "genres": [
+      "Contemporary R And B",
+      "Alternative R And B",
+      "Pop",
+      "R And B",
+      "Hip Hop R And B"
+    ],
+    "musicbrainzId": "f8f4167d-897c-4b25-a171-638374d1dfa4",
+    "cover": "/covers/148-channel-orange.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 149,
+    "position": 149,
+    "title": "John Prine",
+    "artist": "John Prine",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [
+      "Folk",
+      "Rock",
+      "Country",
+      "Contemporary Folk",
+      "Male Vocal"
+    ],
+    "musicbrainzId": "a13154a4-14a1-3344-ae14-3bea728ebe58",
+    "cover": "/covers/149-john-prine.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 150,
+    "position": 150,
+    "title": "Nebraska",
+    "artist": "Bruce Springsteen",
+    "year": 1982,
+    "decade": 1980,
+    "genres": [
+      "Rock",
+      "Folk Rock",
+      "Singer-Songwriter",
+      "Americana",
+      "Contemporary Folk"
+    ],
+    "musicbrainzId": "324aee0c-36ec-35c1-9c93-b67a1d428037",
+    "cover": "/covers/150-nebraska.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 151,
+    "position": 151,
+    "title": "Faith",
+    "artist": "George Michael",
+    "year": 1987,
+    "decade": 1980,
+    "genres": [
+      "Pop",
+      "Adult Contemporary",
+      "Rock",
+      "Pop Rock",
+      "Other Pop"
+    ],
+    "musicbrainzId": "4e61585f-f341-3174-85cf-afad8df46fbe",
+    "cover": "/covers/151-faith.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 152,
+    "position": 152,
+    "title": "Pretenders",
+    "artist": "The Pretenders",
+    "year": 1980,
+    "decade": 1980,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 153,
+    "position": 153,
+    "title": "Rid of Me",
+    "artist": "PJ Harvey",
+    "year": 1993,
+    "decade": 1990,
+    "genres": [
+      "Indie Rock",
+      "Alternative Pop Rock",
+      "Rock",
+      "Alternative Rock",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "c1bb54cc-751d-300c-ba29-d7502d571c2d",
+    "cover": "/covers/153-rid-of-me.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 154,
+    "position": 154,
+    "title": "Amazing Grace",
+    "artist": "Aretha Franklin",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Blues",
+      "Soul",
+      "Gospel"
+    ],
+    "musicbrainzId": "9e9b6cb5-2398-3aa7-b0c3-80c73e30b663",
+    "cover": "/covers/154-amazing-grace.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 155,
+    "position": 155,
+    "title": "The Black Album",
+    "artist": "Jay-Z",
+    "year": 2003,
+    "decade": 2000,
+    "genres": [
+      "Hip-Hop",
+      "East Coast Rap",
+      "Pop Rap",
+      "East Coast Hip Hop",
+      "Hardcore Hip Hop"
+    ],
+    "musicbrainzId": "77befaa0-662e-3d84-ba45-c862e16dc109",
+    "cover": "/covers/155-the-black-album.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 156,
+    "position": 156,
+    "title": "Let It Be",
+    "artist": "The Replacements",
+    "year": 1984,
+    "decade": 1980,
+    "genres": [
+      "Alternative Rock",
+      "Power Pop",
+      "Indie Rock",
+      "Rock",
+      "Punk"
+    ],
+    "musicbrainzId": "2c644807-3b5d-39d4-8c65-dec603bf3f3a",
+    "cover": "/covers/156-let-it-be.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 157,
+    "position": 157,
+    "title": "(What's the Story) Morning Glory?",
+    "artist": "Oasis",
+    "year": 1995,
+    "decade": 1990,
+    "genres": [
+      "Alternative Rock",
+      "Britpop",
+      "Rock",
+      "Brit Pop",
+      "Alternative Indie Rock"
+    ],
+    "musicbrainzId": "cc7e6348-cc55-31fa-aeb2-748a46a81cb3",
+    "cover": "/covers/157-what-s-the-story-morning-glory.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 158,
+    "position": 158,
+    "title": "Mama's Gun",
+    "artist": "Erykah Badu",
+    "year": 2000,
+    "decade": 2000,
+    "genres": [
+      "Jazz",
+      "Downtempo",
+      "Neo Soul",
+      "Funk Soul",
+      "Conscious"
+    ],
+    "musicbrainzId": "25bdfd28-72ca-3d1f-88fc-dcf67df91720",
+    "cover": "/covers/158-mama-s-gun.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 159,
+    "position": 159,
+    "title": "Synchronicity",
+    "artist": "The Police",
+    "year": 1983,
+    "decade": 1980,
+    "genres": [
+      "Alternative Rock",
+      "New Wave",
+      "Rock",
+      "Pop",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "f6df6292-fd40-37c3-bd61-22c53abfe773",
+    "cover": "/covers/159-synchronicity.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 160,
+    "position": 160,
+    "title": "Ten",
+    "artist": "Pearl Jam",
+    "year": 1991,
+    "decade": 1990,
+    "genres": [
+      "Grunge",
+      "Alternative Rock",
+      "Rock",
+      "Hard Rock",
+      "Alternative Pop Rock"
+    ],
+    "musicbrainzId": "cea5d18a-1924-3cda-bebc-38933834b25d",
+    "cover": "/covers/160-ten.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 161,
+    "position": 161,
+    "title": "Crosby, Stills & Nash",
+    "artist": "Crosby, Stills & Nash",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [
+      "Folk Rock",
+      "Rock",
+      "Soft Rock",
+      "Contemporary Folk",
+      "Singer-Songwriter"
+    ],
+    "musicbrainzId": "a2735d5f-27c0-3176-85df-e77f669dcca1",
+    "cover": "/covers/161-crosby-stills-and-nash.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 162,
+    "position": 162,
+    "title": "Different Class",
+    "artist": "Pulp",
+    "year": 1995,
+    "decade": 1990,
+    "genres": [
+      "Britpop",
+      "Alternative Rock",
+      "Glam Rock",
+      "Art Rock",
+      "Rock"
+    ],
+    "musicbrainzId": "88f69eab-8f07-343b-847c-b944ad33dfcf",
+    "cover": "/covers/162-different-class.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 163,
+    "position": 163,
+    "title": "Saturday Night Fever",
+    "artist": "Various Artists",
+    "year": 1977,
+    "decade": 1970,
+    "genres": [
+      "Disco",
+      "Soundtrack",
+      "Dance",
+      "Pop",
+      "Film Soundtrack"
+    ],
+    "musicbrainzId": "6e9a06a8-c8bb-3ea9-877a-417e74bb1c2e",
+    "cover": "/covers/163-saturday-night-fever.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 164,
+    "position": 164,
+    "title": "At Folsom Prison",
+    "artist": "Johnny Cash",
+    "year": 1968,
+    "decade": 1960,
+    "genres": [
+      "Country",
+      "Rock",
+      "Acoustic",
+      "Country Rock",
+      "Traditional Country"
+    ],
+    "musicbrainzId": "6b4ea595-3378-3019-be5f-058412670791",
+    "cover": "/covers/164-at-folsom-prison.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 165,
+    "position": 165,
+    "title": "Murmur",
+    "artist": "R.E.M.",
+    "year": 1983,
+    "decade": 1980,
+    "genres": [
+      "Alternative Rock",
+      "Rock",
+      "Jangle Pop",
+      "Post Punk",
+      "Alternative Pop Rock"
+    ],
+    "musicbrainzId": "de790d3d-a35c-364c-a8fb-adfb73084a45",
+    "cover": "/covers/165-murmur.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 166,
+    "position": 166,
+    "title": "20 Golden Greats",
+    "artist": "Buddy Holly",
+    "year": 1978,
+    "decade": 1970,
+    "genres": [
+      "Rock & Roll",
+      "Rock",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "5e762b33-2f63-3124-9912-251dbb1c0a83",
+    "cover": "/covers/166-20-golden-greats.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 167,
+    "position": 167,
+    "title": "Violator",
+    "artist": "Depeche Mode",
+    "year": 1990,
+    "decade": 1990,
+    "genres": [
+      "Synth Pop",
+      "Electronic",
+      "Alternative Dance",
+      "Rock",
+      "Synthpop"
+    ],
+    "musicbrainzId": "71f1482e-e63f-3b2c-811b-939f62708f2a",
+    "cover": "/covers/167-violator.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 168,
+    "position": 168,
+    "title": "Can’t Buy a Thrill",
+    "artist": "Steely Dan",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Pop Rock",
+      "Rock",
+      "Jazz Rock",
+      "English",
+      "Offizielle Charts"
+    ],
+    "musicbrainzId": "9d73a864-2976-3286-b6c1-8aabc7407737",
+    "cover": "/covers/168-can-t-buy-a-thrill.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 169,
+    "position": 169,
+    "title": "The Stranger",
+    "artist": "Billy Joel",
+    "year": 1977,
+    "decade": 1970,
+    "genres": [
+      "Pop Rock",
+      "Soft Rock",
+      "Piano Rock",
+      "Pop",
+      "Rock"
+    ],
+    "musicbrainzId": "735bcee6-6be6-3957-af15-d21ba2bd355b",
+    "cover": "/covers/169-the-stranger.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 170,
+    "position": 170,
+    "title": "Disraeli Gears",
+    "artist": "Cream",
+    "year": 1967,
+    "decade": 1960,
+    "genres": [
+      "Blues Rock",
+      "Rock",
+      "Psychedelic Rock",
+      "Hard Rock",
+      "Classic Rock"
+    ],
+    "musicbrainzId": "bbd66e31-ac27-3432-81a7-0d4b4b4c5de5",
+    "cover": "/covers/170-disraeli-gears.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 171,
+    "position": 171,
+    "title": "Daydream Nation",
+    "artist": "Sonic Youth",
+    "year": 1988,
+    "decade": 1980,
+    "genres": [
+      "Alternative Rock",
+      "Rock",
+      "Noise Rock",
+      "Slacker Rock",
+      "Noise"
+    ],
+    "musicbrainzId": "24769a99-8189-3d8c-947e-dbc8574dad5c",
+    "cover": "/covers/171-daydream-nation.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 172,
+    "position": 172,
+    "title": "Bridge Over Troubled Water",
+    "artist": "Simon and Garfunkel",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Folk Rock",
+      "Folk",
+      "Soft Rock",
+      "Rock",
+      "Pop"
+    ],
+    "musicbrainzId": "c39f7f80-d42f-3669-9653-230f8e922083",
+    "cover": "/covers/172-bridge-over-troubled-water.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 173,
+    "position": 173,
+    "title": "In Utero",
+    "artist": "Nirvana",
+    "year": 1993,
+    "decade": 1990,
+    "genres": [
+      "Grunge",
+      "Alternative Rock",
+      "Rock",
+      "Noise Rock",
+      "Post Hardcore"
+    ],
+    "musicbrainzId": "2a0981fb-9593-3019-864b-ce934d97a16e",
+    "cover": "/covers/173-in-utero.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 174,
+    "position": 174,
+    "title": "The Harder They Come: Original Soundtrack",
+    "artist": "Jimmy Cliff and Various Artists",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 175,
+    "position": 175,
+    "title": "DAMN.",
+    "artist": "Kendrick Lamar",
+    "year": 2017,
+    "decade": 2010,
+    "genres": [
+      "Hip-Hop",
+      "West Coast Hip Hop",
+      "Conscious Hip Hop",
+      "Trap",
+      "Pop Rap"
+    ],
+    "musicbrainzId": "b88655ba-7469-48b8-a296-b9011ab73ef3",
+    "cover": "/covers/175-damn.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 176,
+    "position": 176,
+    "title": "Fear of a Black Planet",
+    "artist": "Public Enemy",
+    "year": 1990,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "Conscious Hip Hop",
+      "East Coast Rap",
+      "Conscious",
+      "Hardcore Rap"
+    ],
+    "musicbrainzId": "13cf2244-c850-304d-bc46-b30e3f10e0cc",
+    "cover": "/covers/176-fear-of-a-black-planet.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 177,
+    "position": 177,
+    "title": "Every Picture Tells a Story",
+    "artist": "Rod Stewart",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Pop",
+      "Folk Rock",
+      "Blues Rock",
+      "Classic Rock"
+    ],
+    "musicbrainzId": "d4e7be0c-6db3-372e-aee6-e048dbb9ac51",
+    "cover": "/covers/177-every-picture-tells-a-story.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 178,
+    "position": 178,
+    "title": "Otis Blue",
+    "artist": "Otis Redding",
+    "year": 1965,
+    "decade": 1960,
+    "genres": [
+      "Soul",
+      "Deep Soul",
+      "Blues",
+      "Southern Soul",
+      "Soul And Reggae"
+    ],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 179,
+    "position": 179,
+    "title": "Life After Death",
+    "artist": "Notorious B.I.G.",
+    "year": 1997,
+    "decade": 1990,
+    "genres": [
+      "Gangsta Rap",
+      "Hip-Hop",
+      "Thug Rap",
+      "Rap",
+      "East Coast Hip Hop"
+    ],
+    "musicbrainzId": "132d78be-baa5-3301-aba5-933409e3f848",
+    "cover": "/covers/179-life-after-death.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 180,
+    "position": 180,
+    "title": "Forever Changes",
+    "artist": "Love",
+    "year": 1967,
+    "decade": 1960,
+    "genres": [
+      "Psychedelic Rock",
+      "Rock",
+      "Folk Rock",
+      "Baroque Pop",
+      "Psychedelic Pop"
+    ],
+    "musicbrainzId": "c7035bc6-6101-326f-992c-401d451c1716",
+    "cover": "/covers/180-forever-changes.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 181,
+    "position": 181,
+    "title": "Bringing It All Back Home",
+    "artist": "Bob Dylan",
+    "year": 1965,
+    "decade": 1960,
+    "genres": [
+      "Folk Rock",
+      "Rock",
+      "Folk",
+      "Acoustic",
+      "Should Be Public Domain"
+    ],
+    "musicbrainzId": "6cadda7c-fbd0-3b19-9546-56915e3305d8",
+    "cover": "/covers/181-bringing-it-all-back-home.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 182,
+    "position": 182,
+    "title": "Sweet Baby James",
+    "artist": "James Taylor",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Soft Rock",
+      "Folk",
+      "Folk Pop",
+      "Folk Rock"
+    ],
+    "musicbrainzId": "a3a2756d-93b4-37c6-8b82-513070ef58d6",
+    "cover": "/covers/182-sweet-baby-james.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 183,
+    "position": 183,
+    "title": "Brown Sugar",
+    "artist": "D'Angelo",
+    "year": 1995,
+    "decade": 1990,
+    "genres": [
+      "Contemporary R And B",
+      "Nu Funk",
+      "Club Dance",
+      "Neo Soul",
+      "Pop"
+    ],
+    "musicbrainzId": "a4591f67-48d9-36ae-bc68-2deb954d0a15",
+    "cover": "/covers/183-brown-sugar.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 184,
+    "position": 184,
+    "title": "She’s So Unusual",
+    "artist": "Cyndi Lauper",
+    "year": 1983,
+    "decade": 1980,
+    "genres": [
+      "New Wave",
+      "Pop Rock",
+      "Rock",
+      "Pop",
+      "Synth Pop"
+    ],
+    "musicbrainzId": "46d415e9-39b7-3978-9e3d-d9d8a32c6751",
+    "cover": "/covers/184-she-s-so-unusual.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 185,
+    "position": 185,
+    "title": "Beggars Banquet",
+    "artist": "The Rolling Stones",
+    "year": 1968,
+    "decade": 1960,
+    "genres": [
+      "Rock",
+      "Blues Rock",
+      "Classic Rock",
+      "Album Rock",
+      "Hard Rock"
+    ],
+    "musicbrainzId": "6e672bbd-7c7f-32f8-8335-c603be99d13b",
+    "cover": "/covers/185-beggars-banquet.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 186,
+    "position": 186,
+    "title": "Blood Sugar Sex Magik",
+    "artist": "Red Hot Chili Peppers",
+    "year": 1991,
+    "decade": 1990,
+    "genres": [
+      "Alternative Rock",
+      "Funk Rock",
+      "Rock",
+      "Funk Metal",
+      "Funk"
+    ],
+    "musicbrainzId": "68bee70d-b425-3813-aca7-dd7b912c3d11",
+    "cover": "/covers/186-blood-sugar-sex-magik.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 187,
+    "position": 187,
+    "title": "AmeriKKKa’s Most Wanted",
+    "artist": "Ice Cube",
+    "year": 1990,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "Gangsta Rap",
+      "West Coast Hip Hop",
+      "Hardcore Hip Hop"
+    ],
+    "musicbrainzId": "f7e8792d-4aaf-389c-b0e5-a4bbae2bacdf",
+    "cover": "/covers/187-amerikkka-s-most-wanted.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 188,
+    "position": 188,
+    "title": "Electric Warrior",
+    "artist": "T. Rex",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [
+      "Glam Rock",
+      "Rock",
+      "Hard Rock",
+      "Alternative",
+      "Rock & Roll"
+    ],
+    "musicbrainzId": "e53310bf-8ccc-3d7f-a0b7-5ca4dbababcb",
+    "cover": "/covers/188-electric-warrior.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 189,
+    "position": 189,
+    "title": "Dig Me Out",
+    "artist": "Sleater-Kinney",
+    "year": 1997,
+    "decade": 1990,
+    "genres": [
+      "Indie Rock",
+      "Alternative Rock",
+      "Punk Rock",
+      "Riot Grrrl",
+      "Female Vocalist"
+    ],
+    "musicbrainzId": "209b45b7-8b2f-3e07-b194-efff9cde80dd",
+    "cover": "/covers/189-dig-me-out.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 190,
+    "position": 190,
+    "title": "Tommy",
+    "artist": "The Who",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [
+      "Rock",
+      "Hard Rock",
+      "Classic Rock",
+      "Rock Opera",
+      "Art Rock"
+    ],
+    "musicbrainzId": "0e587339-406a-3d21-8678-73e46e250379",
+    "cover": "/covers/190-tommy.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 191,
+    "position": 191,
+    "title": "At Last!",
+    "artist": "Etta James",
+    "year": 1961,
+    "decade": 1960,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 192,
+    "position": 192,
+    "title": "Licensed to Ill",
+    "artist": "Beastie Boys",
+    "year": 1986,
+    "decade": 1980,
+    "genres": [
+      "Hip-Hop",
+      "Rap Rock",
+      "East Coast Hip Hop",
+      "Hip Hop Rap",
+      "Cut Up Dj"
+    ],
+    "musicbrainzId": "57f5e7c8-2a6e-34a0-b4cd-0e77695bc36f",
+    "cover": "/covers/192-licensed-to-ill.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 193,
+    "position": 193,
+    "title": "Willy and the Poor Boys",
+    "artist": "Creedence Clearwater Revival",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [
+      "Rock",
+      "Blues Rock",
+      "Country Rock",
+      "Swamp Rock",
+      "Classic Rock"
+    ],
+    "musicbrainzId": "5fdea541-32fc-3b17-b7c4-50b40f65203d",
+    "cover": "/covers/193-willy-and-the-poor-boys.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 194,
+    "position": 194,
+    "title": "Bad",
+    "artist": "Michael Jackson",
+    "year": 1987,
+    "decade": 1980,
+    "genres": [
+      "Pop",
+      "Dance Pop",
+      "Pop Rock",
+      "Contemporary R And B",
+      "Pop Soul"
+    ],
+    "musicbrainzId": "a5711a77-42d1-3f4c-830c-e27a96f0800f",
+    "cover": "/covers/194-bad.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 195,
+    "position": 195,
+    "title": "Songs of Leonard Cohen",
+    "artist": "Leonard Cohen",
+    "year": 1967,
+    "decade": 1960,
+    "genres": [
+      "Folk",
+      "Rock",
+      "Singer-Songwriter",
+      "Contemporary Folk",
+      "Chamber Folk"
+    ],
+    "musicbrainzId": "34291a49-8df9-304e-bd39-16b11d829d5f",
+    "cover": "/covers/195-songs-of-leonard-cohen.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 196,
+    "position": 196,
+    "title": "Body Talk",
+    "artist": "Robyn",
+    "year": 2010,
+    "decade": 2010,
+    "genres": [
+      "Downtempo",
+      "Synth Pop",
+      "Pop",
+      "Electro",
+      "Dance Pop"
+    ],
+    "musicbrainzId": "1e151a63-e906-4903-b108-b3ecf21218b4",
+    "cover": "/covers/196-body-talk.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 197,
+    "position": 197,
+    "title": "Meet the Beatles!",
+    "artist": "The Beatles",
+    "year": 1964,
+    "decade": 1960,
+    "genres": [
+      "Rock",
+      "Rock & Roll",
+      "Classic Rock",
+      "Pop Rock",
+      "English"
+    ],
+    "musicbrainzId": "c2c696fc-6beb-3dfb-bb15-7bb021ebeb5d",
+    "cover": "/covers/197-meet-the-beatles.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 198,
+    "position": 198,
+    "title": "The B-52's",
+    "artist": "The B-52's",
+    "year": 1979,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Electronic",
+      "Disco",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "41403803-d532-4274-9878-d026de4c74ff",
+    "cover": "/covers/198-the-b-52-s.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 199,
+    "position": 199,
+    "title": "Slanted and Enchanted",
+    "artist": "Pavement",
+    "year": 1993,
+    "decade": 1990,
+    "genres": [
+      "Indie Rock",
+      "Rock",
+      "Alternative Rock",
+      "Lo Fi",
+      "Indie"
+    ],
+    "musicbrainzId": "869f9eac-2a40-3a41-80a3-6bf2297a7cbc",
+    "cover": "/covers/199-slanted-and-enchanted.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 200,
+    "position": 200,
+    "title": "Diamond Life",
+    "artist": "Sade",
+    "year": 1984,
+    "decade": 1980,
+    "genres": [
+      "Smooth Soul",
+      "Sophisti Pop",
+      "Soul",
+      "Pop",
+      "Downtempo"
+    ],
+    "musicbrainzId": "af2a0c41-e612-3232-949d-bdca340c407c",
+    "cover": "/covers/200-diamond-life.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 201,
+    "position": 201,
+    "title": "Midnight Marauders",
+    "artist": "A Tribe Called Quest",
+    "year": 1993,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "Jazz Rap",
+      "Boom Bap",
+      "East Coast Hip Hop",
+      "Conscious Hip Hop"
+    ],
+    "musicbrainzId": "c2afedfb-034a-3683-ad47-e4404cd7c485",
+    "cover": "/covers/201-midnight-marauders.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 202,
+    "position": 202,
+    "title": "Homogenic",
+    "artist": "Björk",
+    "year": 1997,
+    "decade": 1990,
+    "genres": [
+      "Electronic",
+      "Downtempo",
+      "Trip Hop",
+      "Art Pop",
+      "Idm"
+    ],
+    "musicbrainzId": "810272e0-aef1-3d85-b2d3-e512e87fc38c",
+    "cover": "/covers/202-homogenic.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 203,
+    "position": 203,
+    "title": "Pink Moon",
+    "artist": "Nick Drake",
+    "year": 1979,
+    "decade": 1970,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 204,
+    "position": 204,
+    "title": "Graduation",
+    "artist": "Kanye West",
+    "year": 2007,
+    "decade": 2000,
+    "genres": [
+      "Hip-Hop",
+      "Pop Rap",
+      "Rap",
+      "Alternative Rap",
+      "Electropop"
+    ],
+    "musicbrainzId": "d44c50ad-61fd-3fce-95fc-27024d7f1d30",
+    "cover": "/covers/204-graduation.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 205,
+    "position": 205,
+    "title": "Tea for the Tillerman",
+    "artist": "Cat Stevens",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Folk Rock",
+      "Rock",
+      "Pop",
+      "Pop Rock",
+      "Folk Pop"
+    ],
+    "musicbrainzId": "418678e7-2807-3bed-a305-11b4181e533e",
+    "cover": "/covers/205-tea-for-the-tillerman.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 206,
+    "position": 206,
+    "title": "Low",
+    "artist": "David Bowie",
+    "year": 1977,
+    "decade": 1970,
+    "genres": [
+      "Art Rock",
+      "Ambient",
+      "Electronic",
+      "Art Pop",
+      "Rock"
+    ],
+    "musicbrainzId": "f6a51281-56c4-3538-b915-65a9d4eb29b5",
+    "cover": "/covers/206-low.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 207,
+    "position": 207,
+    "title": "Eagles",
+    "artist": "Eagles",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Country Rock",
+      "Album Rock",
+      "Soft Rock",
+      "Laurel Canyon Scene"
+    ],
+    "musicbrainzId": "23eafc30-3978-37fb-bfa0-8058aa1eb81a",
+    "cover": "/covers/207-eagles.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 208,
+    "position": 208,
+    "title": "Tha Carter III",
+    "artist": "Lil Wayne",
+    "year": 2008,
+    "decade": 2000,
+    "genres": [
+      "Hip-Hop",
+      "Gangsta Rap",
+      "Pop Rap",
+      "Southern Hip Hop",
+      "Thug Rap"
+    ],
+    "musicbrainzId": "cb688885-74b2-4e9b-a18c-6102866151f2",
+    "cover": "/covers/208-tha-carter-iii.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 209,
+    "position": 209,
+    "title": "Raising Hell",
+    "artist": "Run-DMC",
+    "year": 1986,
+    "decade": 1980,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 210,
+    "position": 210,
+    "title": "The Birth of Soul",
+    "artist": "Ray Charles",
+    "year": 1991,
+    "decade": 1990,
+    "genres": [
+      "Soul",
+      "Jump Blues",
+      "Funk Soul",
+      "R And B"
+    ],
+    "musicbrainzId": "e4463406-ea59-39a6-a39b-aaa82a166633",
+    "cover": "/covers/210-the-birth-of-soul.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 211,
+    "position": 211,
+    "title": "Unknown Pleasures",
+    "artist": "Joy Division",
+    "year": 1979,
+    "decade": 1970,
+    "genres": [
+      "Post Punk",
+      "Gothic Rock",
+      "Rock",
+      "Alternative And Punk",
+      "New Wave"
+    ],
+    "musicbrainzId": "42352def-1aab-3000-b548-895ebd869cb6",
+    "cover": "/covers/211-unknown-pleasures.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 212,
+    "position": 212,
+    "title": "Wild Is the Wind",
+    "artist": "Nina Simone",
+    "year": 1966,
+    "decade": 1960,
+    "genres": [
+      "Jazz",
+      "Soul Jazz"
+    ],
+    "musicbrainzId": "b4433a3e-d5ad-3d99-965c-96bfb6a0f071",
+    "cover": "/covers/212-wild-is-the-wind.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 213,
+    "position": 213,
+    "title": "The Idler Wheel",
+    "artist": "Fiona Apple",
+    "year": 2012,
+    "decade": 2010,
+    "genres": [
+      "Alternative Rock",
+      "Long Title",
+      "Rock",
+      "Pop",
+      "Jazz"
+    ],
+    "musicbrainzId": "6086062c-f943-4b85-b1cb-43558425ec1c",
+    "cover": "/covers/213-the-idler-wheel.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 214,
+    "position": 214,
+    "title": "Wildflowers",
+    "artist": "Tom Petty",
+    "year": 1994,
+    "decade": 1990,
+    "genres": [
+      "Rock",
+      "Folk Rock",
+      "Rock & Roll",
+      "Heartland Rock",
+      "Classic Rock"
+    ],
+    "musicbrainzId": "80a0451a-d135-3517-96e4-3629dc4f66b9",
+    "cover": "/covers/214-wildflowers.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 215,
+    "position": 215,
+    "title": "American Beauty",
+    "artist": "Grateful Dead",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Folk Rock",
+      "Rock",
+      "Psychedelic Rock",
+      "Country Rock",
+      "Album Rock"
+    ],
+    "musicbrainzId": "994c2c59-d32f-304e-8f53-bda17a254f52",
+    "cover": "/covers/215-american-beauty.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 216,
+    "position": 216,
+    "title": "Either/Or",
+    "artist": "Elliott Smith",
+    "year": 1997,
+    "decade": 1990,
+    "genres": [
+      "Indie Pop",
+      "Indie Rock",
+      "Folk Rock",
+      "Indie Folk",
+      "Mellow"
+    ],
+    "musicbrainzId": "dfb85157-313b-3f5f-8739-a5162bcb6345",
+    "cover": "/covers/216-either-or.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 217,
+    "position": 217,
+    "title": "Definitely Maybe",
+    "artist": "Oasis",
+    "year": 1994,
+    "decade": 1990,
+    "genres": [
+      "Britpop",
+      "Alternative Rock",
+      "Rock",
+      "Neo Psychedelia",
+      "Alternative Indie Rock"
+    ],
+    "musicbrainzId": "451dca98-c118-32e1-9244-c47ca9c3c0f9",
+    "cover": "/covers/217-definitely-maybe.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 218,
+    "position": 218,
+    "title": "CrazySexyCool",
+    "artist": "TLC",
+    "year": 1994,
+    "decade": 1990,
+    "genres": [
+      "R&B",
+      "Contemporary R And B",
+      "Rnb Swing",
+      "Electronic",
+      "Hip-Hop"
+    ],
+    "musicbrainzId": "3d886c06-a4c7-3431-be87-2b2940f07acd",
+    "cover": "/covers/218-crazysexycool.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 219,
+    "position": 219,
+    "title": "Only Built 4 Cuban Linx",
+    "artist": "Raekwon",
+    "year": 1995,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "Mafioso Rap",
+      "Boom Bap",
+      "Hardcore Hip Hop",
+      "Coke Rap"
+    ],
+    "musicbrainzId": "ab981b48-9a7b-34c4-b46a-f6266317ce7c",
+    "cover": "/covers/219-only-built-4-cuban-linx.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 220,
+    "position": 220,
+    "title": "Déjà Vu",
+    "artist": "Crosby, Stills, Nash, and Young",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Folk Rock",
+      "Rock",
+      "Country Rock",
+      "Contemporary Folk",
+      "Folk"
+    ],
+    "musicbrainzId": "3412fd44-c6e6-3a3b-b91a-964a055192ec",
+    "cover": "/covers/220-deja-vu.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 221,
+    "position": 221,
+    "title": "Rage Against the Machine",
+    "artist": "Rage Against the Machine",
+    "year": 1992,
+    "decade": 1990,
+    "genres": [
+      "Alternative Metal",
+      "Funk Metal",
+      "Rap Metal",
+      "Rock",
+      "Crossover"
+    ],
+    "musicbrainzId": "1305859b-8937-397f-9c33-39f62eb672fb",
+    "cover": "/covers/221-rage-against-the-machine.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 222,
+    "position": 222,
+    "title": "Ray of Light",
+    "artist": "Madonna",
+    "year": 1998,
+    "decade": 1990,
+    "genres": [
+      "Pop",
+      "Electro",
+      "Dance Pop",
+      "Electronic",
+      "Downtempo"
+    ],
+    "musicbrainzId": "cb93e87f-5d21-3447-a6e8-22d44f9b0d7a",
+    "cover": "/covers/222-ray-of-light.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 223,
+    "position": 223,
+    "title": "Imagine",
+    "artist": "John Lennon",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Pop Rock",
+      "Pop",
+      "Rock Singer Songwriter",
+      "Folk"
+    ],
+    "musicbrainzId": "f242f304-0f1f-33a5-81a2-7a965b30e3b5",
+    "cover": "/covers/223-imagine.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 224,
+    "position": 224,
+    "title": "Fly",
+    "artist": "Dixie Chicks",
+    "year": 1999,
+    "decade": 1990,
+    "genres": [
+      "Contemporary Country",
+      "Country",
+      "Pop Rock",
+      "Neo Traditionalist Country",
+      "Bluegrass"
+    ],
+    "musicbrainzId": "e1fbdc3d-2aa4-345d-ae0e-40bfb1552431",
+    "cover": "/covers/224-fly.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 225,
+    "position": 225,
+    "title": "Yankee Hotel Foxtrot",
+    "artist": "Wilco",
+    "year": 2001,
+    "decade": 2000,
+    "genres": [
+      "Alternative Rock",
+      "Rock",
+      "Indie Rock",
+      "Country",
+      "Art Rock"
+    ],
+    "musicbrainzId": "95f2ba4b-2dd9-38d1-8158-a416a391489c",
+    "cover": "/covers/225-yankee-hotel-foxtrot.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 226,
+    "position": 226,
+    "title": "Layla and Other Assorted Love Songs",
+    "artist": "Derek and the Dominos",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Blues Rock",
+      "Classic Rock",
+      "Adult Contemporary",
+      "Blues"
+    ],
+    "musicbrainzId": "ba53dcbd-9328-3cf7-bc72-179b4512867e",
+    "cover": "/covers/226-layla-and-other-assorted-love-songs.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 227,
+    "position": 227,
+    "title": "Here’s Little Richard",
+    "artist": "Little Richard",
+    "year": 1957,
+    "decade": 1950,
+    "genres": [
+      "Rock & Roll",
+      "Rock",
+      "Oldies",
+      "R&B"
+    ],
+    "musicbrainzId": "a987042b-4fe0-35bb-9cca-7ff44b1ff5b4",
+    "cover": "/covers/227-here-s-little-richard.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 228,
+    "position": 228,
+    "title": "De La Soul Is Dead",
+    "artist": "De La Soul",
+    "year": 1991,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "Boom Bap",
+      "Conscious Hip Hop",
+      "Christmas",
+      "Satire"
+    ],
+    "musicbrainzId": "0be4cdd5-ed37-3842-82ba-7f9983a34473",
+    "cover": "/covers/228-de-la-soul-is-dead.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 229,
+    "position": 229,
+    "title": "The Ultimate Collection",
+    "artist": "Patsy Cline",
+    "year": 2000,
+    "decade": 2000,
+    "genres": [
+      "Country",
+      "Rockabilly",
+      "Country Pop",
+      "Traditional Country"
+    ],
+    "musicbrainzId": "c9557863-40a4-31ce-afba-6322dea9e254",
+    "cover": "/covers/229-the-ultimate-collection.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 230,
+    "position": 230,
+    "title": "Anti",
+    "artist": "Rihanna",
+    "year": 2016,
+    "decade": 2010,
+    "genres": [
+      "Contemporary R And B",
+      "Pop",
+      "Soul",
+      "Neo Soul",
+      "R And B"
+    ],
+    "musicbrainzId": "0c482acd-35a2-466b-b833-ef5f2f1297d4",
+    "cover": "/covers/230-anti.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 231,
+    "position": 231,
+    "title": "Damn the Torpedoes",
+    "artist": "Tom Petty and the Heartbreakers",
+    "year": 1979,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Pop Rock",
+      "Heartland Rock",
+      "Classic Rock",
+      "Album Rock"
+    ],
+    "musicbrainzId": "871631b9-651c-3c2e-88ae-3a2491d9eb6b",
+    "cover": "/covers/231-damn-the-torpedoes.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 232,
+    "position": 232,
+    "title": "Giant Steps",
+    "artist": "John Coltrane",
+    "year": 1960,
+    "decade": 1960,
+    "genres": [
+      "Jazz",
+      "Hard Bop",
+      "Post Bop",
+      "Modal Jazz"
+    ],
+    "musicbrainzId": "2cdca11d-3e45-3152-93e5-4d2a4ddb1bc6",
+    "cover": "/covers/232-giant-steps.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 233,
+    "position": 233,
+    "title": "Little Earthquakes",
+    "artist": "Tori Amos",
+    "year": 1992,
+    "decade": 1990,
+    "genres": [
+      "Rock",
+      "Alternative Rock",
+      "Pop",
+      "Alternative And Punk",
+      "Alternative"
+    ],
+    "musicbrainzId": "cb10018e-e795-3b62-b9d6-f143d188e496",
+    "cover": "/covers/233-little-earthquakes.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 234,
+    "position": 234,
+    "title": "Master of Reality",
+    "artist": "Black Sabbath",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [
+      "Heavy Metal",
+      "Hard Rock",
+      "Doom Metal",
+      "Traditional Doom Metal",
+      "Rock"
+    ],
+    "musicbrainzId": "e51e9779-2edc-3b39-959c-299fdb5ed940",
+    "cover": "/covers/234-master-of-reality.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 235,
+    "position": 235,
+    "title": "Metallica (The Black Album)",
+    "artist": "Metallica",
+    "year": 1991,
+    "decade": 1990,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 236,
+    "position": 236,
+    "title": "Discovery",
+    "artist": "Daft Punk",
+    "year": 2001,
+    "decade": 2000,
+    "genres": [
+      "House",
+      "Electronic",
+      "French House",
+      "Progressive House",
+      "Club Dance"
+    ],
+    "musicbrainzId": "48117b90-a16e-34ca-a514-19c702df1158",
+    "cover": "/covers/236-discovery.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 237,
+    "position": 237,
+    "title": "Red Headed Stranger",
+    "artist": "Willie Nelson",
+    "year": 1975,
+    "decade": 1970,
+    "genres": [
+      "Country",
+      "Folk"
+    ],
+    "musicbrainzId": "b51ba291-2490-3132-a85d-2094de795b63",
+    "cover": "/covers/237-red-headed-stranger.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 238,
+    "position": 238,
+    "title": "Trans Europe Express",
+    "artist": "Kraftwerk",
+    "year": 1977,
+    "decade": 1970,
+    "genres": [
+      "Electronic",
+      "Electro",
+      "Synth Pop"
+    ],
+    "musicbrainzId": "0e2b636a-3813-476e-898d-d027218e05d2",
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 239,
+    "position": 239,
+    "title": "Criminal Minded",
+    "artist": "Boogie Down Productions",
+    "year": 1987,
+    "decade": 1980,
+    "genres": [
+      "Rap",
+      "Political Rap",
+      "East Coast Rap",
+      "Golden Age",
+      "Hardcore Hip Hop"
+    ],
+    "musicbrainzId": "420e3df4-6322-3399-8144-29ef7eb62e42",
+    "cover": "/covers/239-criminal-minded.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 240,
+    "position": 240,
+    "title": "Live at the Harlem Square Club, 1963",
+    "artist": "Sam Cooke",
+    "year": 1985,
+    "decade": 1980,
+    "genres": [
+      "Soul"
+    ],
+    "musicbrainzId": "1c17ea9a-97d1-33ed-930f-f4c28222d37f",
+    "cover": "/covers/240-live-at-the-harlem-square-club-1963.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 241,
+    "position": 241,
+    "title": "Blue Lines",
+    "artist": "Massive Attack",
+    "year": 1991,
+    "decade": 1990,
+    "genres": [
+      "Trip Hop",
+      "Electronic",
+      "Downtempo",
+      "Dub",
+      "Alternative Rock"
+    ],
+    "musicbrainzId": "8b6f133a-2fdf-3cc2-b84d-1c889adc0939",
+    "cover": "/covers/241-blue-lines.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 242,
+    "position": 242,
+    "title": "Loaded",
+    "artist": "The Velvet Underground",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Folk Rock",
+      "Pop",
+      "Art Rock",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "4be9d91f-6ed7-34b8-aa5e-45be79819273",
+    "cover": "/covers/242-loaded.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 243,
+    "position": 243,
+    "title": "Odessey and Oracle",
+    "artist": "The Zombies",
+    "year": 1968,
+    "decade": 1960,
+    "genres": [
+      "Rock",
+      "Baroque Pop",
+      "Psychedelic Pop"
+    ],
+    "musicbrainzId": "9a4a9ebf-f4f7-3dba-9b80-0b274cbc80f9",
+    "cover": "/covers/243-odessey-and-oracle.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 244,
+    "position": 244,
+    "title": "808s & Heartbreak",
+    "artist": "Kanye West",
+    "year": 2008,
+    "decade": 2000,
+    "genres": [
+      "Hip-Hop",
+      "Electronic",
+      "Pop Rap",
+      "Synthpop",
+      "Experimental"
+    ],
+    "musicbrainzId": "1c1b50ec-828b-3d7c-9b1b-54cb1fe97d55",
+    "cover": "/covers/244-808s-and-heartbreak.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 245,
+    "position": 245,
+    "title": "Heaven or Las Vegas",
+    "artist": "Cocteau Twins",
+    "year": 1990,
+    "decade": 1990,
+    "genres": [
+      "Dream Pop",
+      "Rock",
+      "Downtempo",
+      "Shoegaze",
+      "Ethereal Wave"
+    ],
+    "musicbrainzId": "12fab6b9-4eaf-33b0-963e-cae03ac332fe",
+    "cover": "/covers/245-heaven-or-las-vegas.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 246,
+    "position": 246,
+    "title": "Mama Said Knock You Out",
+    "artist": "LL Cool J",
+    "year": 1991,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop"
+    ],
+    "musicbrainzId": "0a458415-3667-3a61-ac39-f0c3235149f2",
+    "cover": "/covers/246-mama-said-knock-you-out.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 247,
+    "position": 247,
+    "title": "Love Deluxe",
+    "artist": "Sade",
+    "year": 1992,
+    "decade": 1990,
+    "genres": [
+      "Contemporary R And B",
+      "Smooth Soul",
+      "Sophisti Pop",
+      "Soul",
+      "Adult Contemporary"
+    ],
+    "musicbrainzId": "e4a67add-6aab-390c-bb82-53939fb9cd0a",
+    "cover": "/covers/247-love-deluxe.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 248,
+    "position": 248,
+    "title": "American Idiot",
+    "artist": "Green Day",
+    "year": 2004,
+    "decade": 2000,
+    "genres": [
+      "Punk Rock",
+      "Alternative Rock",
+      "Pop Punk",
+      "Rock",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "de9bf827-a9b0-348b-a7c9-556c03c3fb07",
+    "cover": "/covers/248-american-idiot.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 249,
+    "position": 249,
+    "title": "Whitney Houston",
+    "artist": "Whitney Houston",
+    "year": 1985,
+    "decade": 1980,
+    "genres": [
+      "Pop",
+      "Adult Contemporary",
+      "Dance Pop",
+      "R And B",
+      "Contemporary R And B"
+    ],
+    "musicbrainzId": "131d12c0-e720-31df-a2f9-d9abd868ceaf",
+    "cover": "/covers/249-whitney-houston.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 250,
+    "position": 250,
+    "title": "Singles Going Steady",
+    "artist": "Buzzcocks",
+    "year": 1979,
+    "decade": 1970,
+    "genres": [
+      "Punk",
+      "Rock",
+      "Alternative And Punk",
+      "British",
+      "Classic Pop And Rock"
+    ],
+    "musicbrainzId": "6a537b72-0bd3-38c5-8aa1-0527e6e9a2f3",
+    "cover": "/covers/250-singles-going-steady.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 251,
+    "position": 251,
+    "title": "Honky Château",
+    "artist": "Elton John",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Pop Rock",
+      "Pop",
+      "Country Rock",
+      "Piano Rock"
+    ],
+    "musicbrainzId": "e17f2d6e-7849-37f9-a6d8-cda4d59cea28",
+    "cover": "/covers/251-honky-chateau.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 252,
+    "position": 252,
+    "title": "Q: Are We Not Men? A: We Are Devo!",
+    "artist": "Devo",
+    "year": 1978,
+    "decade": 1970,
+    "genres": [
+      "New Wave",
+      "Post Punk",
+      "Art Punk",
+      "Political",
+      "Rock"
+    ],
+    "musicbrainzId": "60a754f9-50e1-346a-97db-925a1e2ad7e0",
+    "cover": "/covers/252-q-are-we-not-men-a-we-are-devo.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 253,
+    "position": 253,
+    "title": "The Piper at the Gates of Dawn",
+    "artist": "Pink Floyd",
+    "year": 1967,
+    "decade": 1960,
+    "genres": [
+      "Psychedelic Rock",
+      "Rock",
+      "Space Rock",
+      "Experimental Rock",
+      "Classic Rock"
+    ],
+    "musicbrainzId": "6792b6d1-4e65-3c3c-9d20-d08aa1dcfc60",
+    "cover": "/covers/253-the-piper-at-the-gates-of-dawn.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 254,
+    "position": 254,
+    "title": "Head Hunters",
+    "artist": "Herbie Hancock",
+    "year": 1973,
+    "decade": 1970,
+    "genres": [
+      "Jazz",
+      "Jazz Funk",
+      "Jazz Fusion",
+      "Funk",
+      "Hard Bop"
+    ],
+    "musicbrainzId": "322f18bb-5491-38e9-9044-c0a468651eec",
+    "cover": "/covers/254-head-hunters.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 255,
+    "position": 255,
+    "title": "The Freewheelin' Bob Dylan",
+    "artist": "Bob Dylan",
+    "year": 1963,
+    "decade": 1960,
+    "genres": [
+      "Folk",
+      "Folk Rock",
+      "Rock",
+      "Blues",
+      "Political"
+    ],
+    "musicbrainzId": "169b62aa-c3a5-3ed9-bed1-cc47c4bc51ad",
+    "cover": "/covers/255-the-freewheelin-bob-dylan.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 256,
+    "position": 256,
+    "title": "Tracy Chapman",
+    "artist": "Tracy Chapman",
+    "year": 1988,
+    "decade": 1980,
+    "genres": [
+      "Rock",
+      "Folk Rock",
+      "Alternative Rock",
+      "Folk",
+      "Contemporary Folk"
+    ],
+    "musicbrainzId": "a738bdf1-f610-30aa-9ae7-9a4f90d6f2d7",
+    "cover": "/covers/256-tracy-chapman.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 257,
+    "position": 257,
+    "title": "Coat of Many Colors",
+    "artist": "Dolly Parton",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [
+      "Country"
+    ],
+    "musicbrainzId": "2c98f21a-e2af-3412-a253-de9a1e06d7f7",
+    "cover": "/covers/257-coat-of-many-colors.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 258,
+    "position": 258,
+    "title": "The Hissing of Summer Lawns",
+    "artist": "Joni Mitchell",
+    "year": 1975,
+    "decade": 1970,
+    "genres": [
+      "Jazz Pop",
+      "Pop",
+      "Jazz",
+      "Rock",
+      "Folk Rock"
+    ],
+    "musicbrainzId": "169a1a7e-f91e-3b10-a136-d94eba6eee2e",
+    "cover": "/covers/258-the-hissing-of-summer-lawns.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 259,
+    "position": 259,
+    "title": "Pearl",
+    "artist": "Janis Joplin",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [
+      "Blues Rock",
+      "Rock",
+      "Album Rock",
+      "Psychedelic Rock",
+      "Acoustic Blues"
+    ],
+    "musicbrainzId": "99878359-e736-3cdc-a225-548ad17d1c76",
+    "cover": "/covers/259-pearl.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 260,
+    "position": 260,
+    "title": "Cut",
+    "artist": "The Slits",
+    "year": 1979,
+    "decade": 1970,
+    "genres": [
+      "Post Punk",
+      "Art Punk",
+      "Progressive",
+      "Female Vocalist",
+      "Psychedelic"
+    ],
+    "musicbrainzId": "116b94a2-4361-3ec2-af92-270d97dc10f9",
+    "cover": "/covers/260-cut.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 261,
+    "position": 261,
+    "title": "Check Your Head",
+    "artist": "Beastie Boys",
+    "year": 1992,
+    "decade": 1990,
+    "genres": [
+      "East Coast Hip Hop",
+      "Hip-Hop",
+      "Funk",
+      "Rap Rock",
+      "Rap"
+    ],
+    "musicbrainzId": "b0935b00-1380-3777-b79d-bd49ef5fb9c0",
+    "cover": "/covers/261-check-your-head.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 262,
+    "position": 262,
+    "title": "Power, Corruption & Lies",
+    "artist": "New Order",
+    "year": 1983,
+    "decade": 1980,
+    "genres": [
+      "New Wave",
+      "Synthpop",
+      "Post Punk",
+      "Synth Pop",
+      "Pop"
+    ],
+    "musicbrainzId": "16cc9dfc-594d-3fb9-b789-3e1bfcb6f9f8",
+    "cover": "/covers/262-power-corruption-and-lies.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 263,
+    "position": 263,
+    "title": "A Hard Day's Night",
+    "artist": "The Beatles",
+    "year": 1964,
+    "decade": 1960,
+    "genres": [
+      "Rock",
+      "Pop",
+      "Pop Rock",
+      "Am Pop",
+      "British"
+    ],
+    "musicbrainzId": "06281c4d-112d-33b0-a25b-df63b420eae7",
+    "cover": "/covers/263-a-hard-day-s-night.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 264,
+    "position": 264,
+    "title": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "year": 1975,
+    "decade": 1970,
+    "genres": [
+      "Progressive Rock",
+      "Art Rock",
+      "Psychedelic Rock",
+      "Rock",
+      "Concept Album"
+    ],
+    "musicbrainzId": "1a272023-10d3-38ee-bab3-317b55fcc21d",
+    "cover": "/covers/264-wish-you-were-here.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 265,
+    "position": 265,
+    "title": "Wowee Zowee",
+    "artist": "Pavement",
+    "year": 1995,
+    "decade": 1990,
+    "genres": [
+      "Rock",
+      "Indie Rock",
+      "Alternative Rock",
+      "Lo Fi"
+    ],
+    "musicbrainzId": "fa79988d-62b5-3039-9169-ed0d17d53296",
+    "cover": "/covers/265-wowee-zowee.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 266,
+    "position": 266,
+    "title": "Help!",
+    "artist": "The Beatles",
+    "year": 1965,
+    "decade": 1960,
+    "genres": [
+      "Rock",
+      "Pop Rock",
+      "Am Pop",
+      "Pop",
+      "Folk Rock"
+    ],
+    "musicbrainzId": "0d44e1cb-c6e0-3453-8b68-4d2082f05421",
+    "cover": "/covers/266-help.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 267,
+    "position": 267,
+    "title": "Double Nickels on the Dime",
+    "artist": "Minutemen",
+    "year": 1984,
+    "decade": 1980,
+    "genres": [
+      "Post Punk",
+      "Alternative Rock",
+      "Hardcore Punk",
+      "Political",
+      "Rock"
+    ],
+    "musicbrainzId": "0bcb9f3e-e341-3ed5-ac5b-8ed5e17f9a7e",
+    "cover": "/covers/267-double-nickels-on-the-dime.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 268,
+    "position": 268,
+    "title": "Sail Away",
+    "artist": "Randy Newman",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Satire",
+      "Singer-Songwriter",
+      "Rock",
+      "Pop",
+      "Cabaret"
+    ],
+    "musicbrainzId": "d1c0b3db-6b93-3b9d-9479-0d60486120cb",
+    "cover": "/covers/268-sail-away.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 269,
+    "position": 269,
+    "title": "Yeezus",
+    "artist": "Kanye West",
+    "year": 2013,
+    "decade": 2010,
+    "genres": [
+      "Hip-Hop",
+      "Experimental Hip Hop",
+      "Industrial Hip Hop",
+      "Political",
+      "Noisy"
+    ],
+    "musicbrainzId": "5d4d0f2d-9be7-4922-bc9a-cbd2880b12c2",
+    "cover": "/covers/269-yeezus.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 270,
+    "position": 270,
+    "title": "Golden Hour",
+    "artist": "Kacey Musgraves",
+    "year": 2018,
+    "decade": 2010,
+    "genres": [
+      "Country Pop",
+      "Country",
+      "Singer-Songwriter",
+      "Contemporary Country"
+    ],
+    "musicbrainzId": "56713bde-f9de-4097-bbe3-41d9d7af32c4",
+    "cover": "/covers/270-golden-hour.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 271,
+    "position": 271,
+    "title": "What’s the 411?",
+    "artist": "Mary J. Blige",
+    "year": 1992,
+    "decade": 1990,
+    "genres": [
+      "R&B",
+      "Pop",
+      "90 S R B",
+      "Contemporary R And B"
+    ],
+    "musicbrainzId": "8debe6e5-7fd1-35ee-9d3f-96523536b9f8",
+    "cover": "/covers/271-what-s-the-411.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 272,
+    "position": 272,
+    "title": "White Light/White Heat",
+    "artist": "The Velvet Underground",
+    "year": 1968,
+    "decade": 1960,
+    "genres": [
+      "Art Rock",
+      "Experimental Rock",
+      "Proto Punk",
+      "Rock",
+      "Noise Rock"
+    ],
+    "musicbrainzId": "fc0885e0-0284-3f9d-81ee-17c5e7196346",
+    "cover": "/covers/272-white-light-white-heat.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 273,
+    "position": 273,
+    "title": "Entertainment!",
+    "artist": "Gang of Four",
+    "year": 1979,
+    "decade": 1970,
+    "genres": [
+      "Post Punk",
+      "Punk",
+      "Rock",
+      "Punk Rock",
+      "Art Punk"
+    ],
+    "musicbrainzId": "d0493944-992b-3534-9174-8320c1879837",
+    "cover": "/covers/273-entertainment.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 274,
+    "position": 274,
+    "title": "Sweetheart of the Rodeo",
+    "artist": "The Byrds",
+    "year": 1968,
+    "decade": 1960,
+    "genres": [
+      "Country Rock",
+      "Rock",
+      "Folk Rock",
+      "Mellow",
+      "Christian"
+    ],
+    "musicbrainzId": "2a02ea31-7a7f-3a46-8a46-aebfac434a81",
+    "cover": "/covers/274-sweetheart-of-the-rodeo.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 275,
+    "position": 275,
+    "title": "Curtis",
+    "artist": "Curtis Mayfield",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Soul",
+      "Chicago Soul",
+      "Progressive Soul",
+      "Rare Groove A To Z"
+    ],
+    "musicbrainzId": "0c24e81f-b710-3e24-a4fa-12950e153585",
+    "cover": "/covers/275-curtis.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 276,
+    "position": 276,
+    "title": "The Bends",
+    "artist": "Radiohead",
+    "year": 1995,
+    "decade": 1990,
+    "genres": [
+      "Alternative Rock",
+      "Rock",
+      "Britpop",
+      "Post Britpop",
+      "Alternative And Punk"
+    ],
+    "musicbrainzId": "b8048f24-c026-3398-b23a-b5e50716cbc7",
+    "cover": "/covers/276-the-bends.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 277,
+    "position": 277,
+    "title": "The Diary of Alicia Keys",
+    "artist": "Alicia Keys",
+    "year": 2003,
+    "decade": 2000,
+    "genres": [
+      "Contemporary R And B",
+      "Neo Soul",
+      "R And B",
+      "Soul",
+      "Urban"
+    ],
+    "musicbrainzId": "e53e291f-9a9c-38a0-96e0-86a9b63b776d",
+    "cover": "/covers/277-the-diary-of-alicia-keys.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 278,
+    "position": 278,
+    "title": "Houses of the Holy",
+    "artist": "Led Zeppelin",
+    "year": 1973,
+    "decade": 1970,
+    "genres": [
+      "Hard Rock",
+      "Rock",
+      "Classic Rock",
+      "Blues Rock",
+      "Album Rock"
+    ],
+    "musicbrainzId": "9b5006e5-b276-3a05-bcdd-8d986842320b",
+    "cover": "/covers/278-houses-of-the-holy.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 279,
+    "position": 279,
+    "title": "MTV Unplugged in New York",
+    "artist": "Nirvana",
+    "year": 1994,
+    "decade": 1990,
+    "genres": [
+      "Grunge",
+      "Folk Rock",
+      "Acoustic",
+      "Alternative Rock",
+      "Rock"
+    ],
+    "musicbrainzId": "fb3770f6-83fb-32b7-85c4-1f522a92287e",
+    "cover": "/covers/279-mtv-unplugged-in-new-york.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 280,
+    "position": 280,
+    "title": "Get Rich or Die Tryin'",
+    "artist": "50 Cent",
+    "year": 2002,
+    "decade": 2000,
+    "genres": [
+      "Gangsta Rap",
+      "Hip-Hop",
+      "East Coast Hip Hop",
+      "East Coast Rap",
+      "Pop Rap"
+    ],
+    "musicbrainzId": "f624ead2-e4ba-4e52-bea5-4362b1c67b14",
+    "cover": "/covers/280-get-rich-or-die-tryin.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 281,
+    "position": 281,
+    "title": "Nilsson Schmilsson",
+    "artist": "Harry Nilsson",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 282,
+    "position": 282,
+    "title": "In the Wee Small Hours",
+    "artist": "Frank Sinatra",
+    "year": 1955,
+    "decade": 1950,
+    "genres": [
+      "Vocal Jazz",
+      "Standards",
+      "Traditional Pop",
+      "Jazz",
+      "Concept Album"
+    ],
+    "musicbrainzId": "5a5d9938-38a9-3f32-b03b-8f14f62b880a",
+    "cover": "/covers/282-in-the-wee-small-hours.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 283,
+    "position": 283,
+    "title": "Bad Girls",
+    "artist": "Donna Summer",
+    "year": 1975,
+    "decade": 1970,
+    "genres": [
+      "Disco",
+      "Electronic",
+      "Synth Pop",
+      "Billboard",
+      "Pop"
+    ],
+    "musicbrainzId": "f7568cc7-4c09-3a47-abbc-593e7aaac7d6",
+    "cover": "/covers/283-bad-girls.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 284,
+    "position": 284,
+    "title": "Down Every Road 1962-1994",
+    "artist": "Merle Haggard",
+    "year": 1996,
+    "decade": 1990,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 285,
+    "position": 285,
+    "title": "Third/Sister Lovers",
+    "artist": "Big Star",
+    "year": 1978,
+    "decade": 1970,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 286,
+    "position": 286,
+    "title": "Californication",
+    "artist": "Red Hot Chili Peppers",
+    "year": 1999,
+    "decade": 1990,
+    "genres": [
+      "Alternative Rock",
+      "Rock",
+      "Funk Rock",
+      "00s",
+      "Alt Rock"
+    ],
+    "musicbrainzId": "ca5dfcc3-83fb-3eee-9061-c27296b77b2c",
+    "cover": "/covers/286-californication.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 287,
+    "position": 287,
+    "title": "Mr. Tambourine Man",
+    "artist": "The Byrds",
+    "year": 1965,
+    "decade": 1960,
+    "genres": [
+      "Folk Rock",
+      "Rock",
+      "Pop Rock",
+      "Country",
+      "Folk"
+    ],
+    "musicbrainzId": "2b83d3e4-d461-31d6-9e2a-c99b69421e28",
+    "cover": "/covers/287-mr-tambourine-man.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 288,
+    "position": 288,
+    "title": "The Modern Lovers",
+    "artist": "The Modern Lovers",
+    "year": 1976,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Garage Rock",
+      "Proto Punk",
+      "Indie Rock",
+      "Art Rock"
+    ],
+    "musicbrainzId": "91e1f88a-f081-3639-9972-0d46b3d3b616",
+    "cover": "/covers/288-the-modern-lovers.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 289,
+    "position": 289,
+    "title": "Post",
+    "artist": "Björk",
+    "year": 1995,
+    "decade": 1990,
+    "genres": [
+      "Electronic",
+      "Trip Hop",
+      "Art Pop",
+      "Downtempo",
+      "Pop"
+    ],
+    "musicbrainzId": "b2a6e057-087d-3ae5-a6e5-7f5fa39808ff",
+    "cover": "/covers/289-post.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 290,
+    "position": 290,
+    "title": "Speakerboxxx/The Love Below",
+    "artist": "OutKast",
+    "year": 2003,
+    "decade": 2000,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 291,
+    "position": 291,
+    "title": "The Writing’s on the Wall",
+    "artist": "Destiny's Child",
+    "year": 1999,
+    "decade": 1990,
+    "genres": [
+      "Contemporary R And B",
+      "R&B",
+      "Pop",
+      "Urban Contemporary",
+      "Urban Crossover"
+    ],
+    "musicbrainzId": "7bfda0d3-5747-3f7c-a60f-065b6ea29db1",
+    "cover": "/covers/291-the-writing-s-on-the-wall.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 292,
+    "position": 292,
+    "title": "Van Halen",
+    "artist": "Van Halen",
+    "year": 1978,
+    "decade": 1970,
+    "genres": [
+      "Hard Rock",
+      "Rock",
+      "Heavy Metal",
+      "Album Rock",
+      "Arena Rock"
+    ],
+    "musicbrainzId": "43a0e8b5-6059-397f-81e6-b8df5a648496",
+    "cover": "/covers/292-van-halen.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 293,
+    "position": 293,
+    "title": "Last Splash",
+    "artist": "The Breeders",
+    "year": 1993,
+    "decade": 1990,
+    "genres": [
+      "Alternative Rock",
+      "Rock",
+      "Usa",
+      "English",
+      "Offizielle Charts"
+    ],
+    "musicbrainzId": "7aaf0618-292c-3474-bfbc-d831baf710cf",
+    "cover": "/covers/293-last-splash.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 294,
+    "position": 294,
+    "title": "Weezer (The Blue Album)",
+    "artist": "Weezer",
+    "year": 1994,
+    "decade": 1990,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 295,
+    "position": 295,
+    "title": "Random Access Memories",
+    "artist": "Daft Punk",
+    "year": 2013,
+    "decade": 2010,
+    "genres": [
+      "Electronic",
+      "Disco",
+      "Funk",
+      "Club Dance",
+      "Electro"
+    ],
+    "musicbrainzId": "aa997ea0-2936-40bd-884d-3af8a0e064dc",
+    "cover": "/covers/295-random-access-memories.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 296,
+    "position": 296,
+    "title": "Rust Never Sleeps",
+    "artist": "Neil Young",
+    "year": 1979,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Hard Rock",
+      "Folk Rock",
+      "Album Rock",
+      "Singer-Songwriter"
+    ],
+    "musicbrainzId": "a710c7c7-46e6-36ca-9c3c-87c8e79f8daf",
+    "cover": "/covers/296-rust-never-sleeps.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 297,
+    "position": 297,
+    "title": "So",
+    "artist": "Peter Gabriel",
+    "year": 1986,
+    "decade": 1980,
+    "genres": [
+      "Rock",
+      "Art Rock",
+      "Pop Rock",
+      "Electronic",
+      "Progressive Rock"
+    ],
+    "musicbrainzId": "be3cc3e7-bdb0-3c13-a60b-a985b30eb603",
+    "cover": "/covers/297-so.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 298,
+    "position": 298,
+    "title": "Full Moon Fever",
+    "artist": "Tom Petty",
+    "year": 1989,
+    "decade": 1980,
+    "genres": [
+      "Rock",
+      "Classic Rock",
+      "Heartland Rock",
+      "Album Rock",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "ffbef03e-3651-39db-8a2f-e140dc5aa219",
+    "cover": "/covers/298-full-moon-fever.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 299,
+    "position": 299,
+    "title": "Live at the Regal",
+    "artist": "B.B. King",
+    "year": 1965,
+    "decade": 1960,
+    "genres": [
+      "Blues",
+      "Electric Blues",
+      "Urban Blues",
+      "Chicago Blues"
+    ],
+    "musicbrainzId": "a4d2a86c-bbd6-352b-b9fa-f9da86df842c",
+    "cover": "/covers/299-live-at-the-regal.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 300,
+    "position": 300,
+    "title": "Come on Over",
+    "artist": "Shania Twain",
+    "year": 1997,
+    "decade": 1990,
+    "genres": [
+      "Country",
+      "Rock",
+      "Pop",
+      "Country Rock",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "45bcf3e0-a274-3bdd-9130-299a5ef780ea",
+    "cover": "/covers/300-come-on-over.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 301,
+    "position": 301,
+    "title": "New York Dolls",
+    "artist": "New York Dolls",
+    "year": 1973,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Hard Rock",
+      "Glam Rock",
+      "Rock & Roll",
+      "Classic Pop And Rock"
+    ],
+    "musicbrainzId": "4cdd4c59-e38f-382b-b01c-e69829faa69c",
+    "cover": "/covers/301-new-york-dolls.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 302,
+    "position": 302,
+    "title": "Tonight's the Night",
+    "artist": "Neil Young",
+    "year": 1975,
+    "decade": 1970,
+    "genres": [
+      "Country Rock",
+      "Rock",
+      "Album Rock",
+      "Hard Rock",
+      "Country"
+    ],
+    "musicbrainzId": "e0207e33-af06-3862-baba-f42ca722de0d",
+    "cover": "/covers/302-tonight-s-the-night.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 303,
+    "position": 303,
+    "title": "The Definitive Collection",
+    "artist": "ABBA",
+    "year": 2001,
+    "decade": 2000,
+    "genres": [
+      "Pop",
+      "Europop",
+      "Disco",
+      "Euro Disco",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "e2996feb-86b9-3550-88ec-f1c9c9af3961",
+    "cover": "/covers/303-the-definitive-collection.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 304,
+    "position": 304,
+    "title": "Just As I Am",
+    "artist": "Bill Withers",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [
+      "Soul",
+      "Classic Soul R B",
+      "Deep Soul",
+      "Smooth Soul",
+      "Classic Soul R And B"
+    ],
+    "musicbrainzId": "a72ee504-15b5-343c-bfd7-e71f9272e0e5",
+    "cover": "/covers/304-just-as-i-am.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 305,
+    "position": 305,
+    "title": "Alive!",
+    "artist": "Kiss",
+    "year": 1975,
+    "decade": 1970,
+    "genres": [
+      "Hard Rock",
+      "Glam Rock",
+      "Pop Rock",
+      "Rock",
+      "Heavy Metal"
+    ],
+    "musicbrainzId": "aa876c87-138c-339b-8176-abacb4e45259",
+    "cover": "/covers/305-alive.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 306,
+    "position": 306,
+    "title": "I'm Still in Love With You",
+    "artist": "Al Green",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Soul",
+      "Southern Soul",
+      "Funk Soul",
+      "Smooth Soul",
+      "Funk"
+    ],
+    "musicbrainzId": "4a40960b-44b3-313c-8540-cde054d41bd9",
+    "cover": "/covers/306-i-m-still-in-love-with-you.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 307,
+    "position": 307,
+    "title": "Portrait of a Legend",
+    "artist": "Sam Cooke",
+    "year": 2003,
+    "decade": 2000,
+    "genres": [
+      "Soul",
+      "R&B",
+      "Gospel",
+      "Soul And Reggae",
+      "Male Vocal"
+    ],
+    "musicbrainzId": "38d697fd-bdf6-3800-bbff-2078456d4c4c",
+    "cover": "/covers/307-portrait-of-a-legend.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 308,
+    "position": 308,
+    "title": "Here Come the Warm Jets",
+    "artist": "Brian Eno",
+    "year": 1974,
+    "decade": 1970,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 309,
+    "position": 309,
+    "title": "Closer",
+    "artist": "Joy Division",
+    "year": 1980,
+    "decade": 1980,
+    "genres": [
+      "Post Punk",
+      "Rock",
+      "New Wave",
+      "Gothic Rock",
+      "Death"
+    ],
+    "musicbrainzId": "852f9715-24b3-37d5-b8a5-456f5e19b41e",
+    "cover": "/covers/309-closer.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 310,
+    "position": 310,
+    "title": "Pink Flag",
+    "artist": "Wire",
+    "year": 1977,
+    "decade": 1970,
+    "genres": [
+      "Punk Rock",
+      "Art Punk",
+      "Post Punk",
+      "Punk"
+    ],
+    "musicbrainzId": "9facb8b5-4b02-3f28-9f4a-61cb9b8fd7aa",
+    "cover": "/covers/310-pink-flag.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 311,
+    "position": 311,
+    "title": "On the Beach",
+    "artist": "Neil Young",
+    "year": 1974,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Country Rock",
+      "Singer-Songwriter",
+      "Album Rock",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "f4174531-b783-3786-b75f-4fe61a8f6333",
+    "cover": "/covers/311-on-the-beach.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 312,
+    "position": 312,
+    "title": "A Seat at the Table",
+    "artist": "Solange",
+    "year": 2016,
+    "decade": 2010,
+    "genres": [
+      "Neo Soul",
+      "Electronic",
+      "Hip-Hop",
+      "Funk",
+      "Soul"
+    ],
+    "musicbrainzId": "331a7ba1-fae2-4881-b434-554f46c13746",
+    "cover": "/covers/312-a-seat-at-the-table.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 313,
+    "position": 313,
+    "title": "Stories From the City, Stories From the Sea",
+    "artist": "PJ Harvey",
+    "year": 2000,
+    "decade": 2000,
+    "genres": [
+      "Alternative Rock",
+      "Rock",
+      "Indie Rock",
+      "Adult Alternative Pop Rock",
+      "Folk Rock"
+    ],
+    "musicbrainzId": "71641af7-d122-326a-b0bb-f76a8d09810c",
+    "cover": "/covers/313-stories-from-the-city-stories-from-the-sea.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 314,
+    "position": 314,
+    "title": "One in a Million",
+    "artist": "Aaliyah",
+    "year": 1996,
+    "decade": 1990,
+    "genres": [
+      "Contemporary R And B",
+      "Pop",
+      "Hip-Hop",
+      "Pop Rap",
+      "Rnb Swing"
+    ],
+    "musicbrainzId": "776a71f8-2071-3743-aab4-83436df1b366",
+    "cover": "/covers/314-one-in-a-million.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 315,
+    "position": 315,
+    "title": "El Mal Querer",
+    "artist": "Rosalía",
+    "year": 2018,
+    "decade": 2010,
+    "genres": [
+      "Flamenco",
+      "Art Pop",
+      "Alternative R And B",
+      "Flamenco Pop",
+      "Flamenco Nuevo"
+    ],
+    "musicbrainzId": "bb525db3-81e4-4c05-b529-23fa05f35c12",
+    "cover": "/covers/315-el-mal-querer.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 316,
+    "position": 316,
+    "title": "The Who Sell Out",
+    "artist": "The Who",
+    "year": 1967,
+    "decade": 1960,
+    "genres": [
+      "Mod",
+      "Pop Rock",
+      "Rock",
+      "Psychedelic Pop",
+      "Power Pop"
+    ],
+    "musicbrainzId": "aa02a102-f7b5-3584-8d21-bd9c560effb6",
+    "cover": "/covers/316-the-who-sell-out.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 317,
+    "position": 317,
+    "title": "Lady in Satin",
+    "artist": "Billie Holiday",
+    "year": 1958,
+    "decade": 1950,
+    "genres": [
+      "Jazz",
+      "Vocal Jazz",
+      "Orchestral",
+      "Acoustic",
+      "Female Vocalist"
+    ],
+    "musicbrainzId": "cf7bc239-a3ba-3d87-80e5-261f750cb560",
+    "cover": "/covers/317-lady-in-satin.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 318,
+    "position": 318,
+    "title": "The Velvet Rope",
+    "artist": "Janet Jackson",
+    "year": 1997,
+    "decade": 1990,
+    "genres": [
+      "Contemporary R And B",
+      "Pop",
+      "Neo Soul",
+      "R&B",
+      "Dance Pop"
+    ],
+    "musicbrainzId": "5bb501c6-2e78-393d-bcac-27d7d1b44a27",
+    "cover": "/covers/318-the-velvet-rope.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 319,
+    "position": 319,
+    "title": "The Stone Roses",
+    "artist": "The Stone Roses",
+    "year": 1989,
+    "decade": 1980,
+    "genres": [
+      "Rock",
+      "Indie Rock",
+      "Jangle Pop",
+      "Uplifting",
+      "Psychedelic"
+    ],
+    "musicbrainzId": "88b86fe0-26f5-3949-817a-8082145e704d",
+    "cover": "/covers/319-the-stone-roses.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 320,
+    "position": 320,
+    "title": "Los Angeles",
+    "artist": "X",
+    "year": 1980,
+    "decade": 1980,
+    "genres": [
+      "Rock",
+      "Punk",
+      "Rock & Roll"
+    ],
+    "musicbrainzId": "700da083-bd95-3301-91f1-af571a001414",
+    "cover": "/covers/320-los-angeles.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 321,
+    "position": 321,
+    "title": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Rey",
+    "year": 2019,
+    "decade": 2010,
+    "genres": [
+      "Art Pop",
+      "Pop",
+      "Soft Rock",
+      "Singer-Songwriter",
+      "Neo Psychedelia"
+    ],
+    "musicbrainzId": "24fd0887-9e83-42e3-b27e-e7f89ead4c03",
+    "cover": "/covers/321-norman-fucking-rockwell.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 322,
+    "position": 322,
+    "title": "From Elvis in Memphis",
+    "artist": "Elvis Presley",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [
+      "Am Pop",
+      "Pop",
+      "Country",
+      "Soul",
+      "Rock & Roll"
+    ],
+    "musicbrainzId": "2a753764-89d5-3b72-8dff-8c599f1ea925",
+    "cover": "/covers/322-from-elvis-in-memphis.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 323,
+    "position": 323,
+    "title": "Sandinista!",
+    "artist": "The Clash",
+    "year": 1980,
+    "decade": 1980,
+    "genres": [
+      "Rock",
+      "Dub",
+      "Punk",
+      "Punk Rock",
+      "Post Punk"
+    ],
+    "musicbrainzId": "ff729e76-b7c5-3877-bf7d-bbad4fde43cb",
+    "cover": "/covers/323-sandinista.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 324,
+    "position": 324,
+    "title": "A Rush of Blood to the Head",
+    "artist": "Coldplay",
+    "year": 2002,
+    "decade": 2000,
+    "genres": [
+      "Alternative Rock",
+      "Rock",
+      "Pop Rock",
+      "Alt Rock",
+      "Post Britpop"
+    ],
+    "musicbrainzId": "120c786d-a3b2-3c19-b4ff-2b7b3b4435bf",
+    "cover": "/covers/324-a-rush-of-blood-to-the-head.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 325,
+    "position": 325,
+    "title": "All Killer No Filler!",
+    "artist": "Jerry Lee Lewis",
+    "year": 1993,
+    "decade": 1990,
+    "genres": [
+      "Rock & Roll",
+      "Rock"
+    ],
+    "musicbrainzId": "d452a649-644b-326d-b9cf-418f39ac2902",
+    "cover": "/covers/325-all-killer-no-filler.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 326,
+    "position": 326,
+    "title": "Dirty Mind",
+    "artist": "Prince",
+    "year": 1980,
+    "decade": 1980,
+    "genres": [
+      "Funk",
+      "Rock",
+      "Pop",
+      "Dance Pop",
+      "Electronic"
+    ],
+    "musicbrainzId": "4f19b946-6ecb-3801-9248-cc44e9e9a284",
+    "cover": "/covers/326-dirty-mind.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 327,
+    "position": 327,
+    "title": "Live at Leeds",
+    "artist": "The Who",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Hard Rock",
+      "Album Rock",
+      "Pop",
+      "Blues Rock"
+    ],
+    "musicbrainzId": "0ba3b960-9b4b-3191-bcc5-1e51169e5955",
+    "cover": "/covers/327-live-at-leeds.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 328,
+    "position": 328,
+    "title": "Modern Vampires of the City",
+    "artist": "Vampire Weekend",
+    "year": 2013,
+    "decade": 2010,
+    "genres": [
+      "Indie Rock",
+      "Indie Pop",
+      "Art Pop",
+      "Baroque Pop",
+      "Chamber Pop"
+    ],
+    "musicbrainzId": "eb143c5a-9a85-4bce-a78c-f7faf72c0169",
+    "cover": "/covers/328-modern-vampires-of-the-city.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 329,
+    "position": 329,
+    "title": "Endtroducing.....",
+    "artist": "DJ Shadow",
+    "year": 1996,
+    "decade": 1990,
+    "genres": [
+      "Trip Hop",
+      "Instrumental",
+      "Hip-Hop",
+      "Electronic",
+      "Electronica"
+    ],
+    "musicbrainzId": "4b2186f5-ff00-3227-ae11-783ba93e1089",
+    "cover": "/covers/329-endtroducing.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 330,
+    "position": 330,
+    "title": "Aftermath",
+    "artist": "The Rolling Stones",
+    "year": 1966,
+    "decade": 1960,
+    "genres": [
+      "Rock",
+      "Blues Rock",
+      "Blues",
+      "Classic Rock",
+      "Mod"
+    ],
+    "musicbrainzId": "26987c39-5914-483b-a897-d43ce6aad9b1",
+    "cover": "/covers/330-aftermath.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 331,
+    "position": 331,
+    "title": "Like a Prayer",
+    "artist": "Madonna",
+    "year": 1989,
+    "decade": 1980,
+    "genres": [
+      "Pop",
+      "Adult Contemporary",
+      "Dance Pop",
+      "Synth Pop",
+      "Electronic"
+    ],
+    "musicbrainzId": "1f75a8df-176c-3d23-8f1f-b0c8935682ec",
+    "cover": "/covers/331-like-a-prayer.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 332,
+    "position": 332,
+    "title": "Elvis Presley",
+    "artist": "Elvis Presley",
+    "year": 1956,
+    "decade": 1950,
+    "genres": [
+      "Rock & Roll",
+      "Rockabilly",
+      "Country",
+      "Pop",
+      "Uplifting"
+    ],
+    "musicbrainzId": "2ebeec96-6ef7-3d4d-943c-0b4a2af1d7cc",
+    "cover": "/covers/332-elvis-presley.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 333,
+    "position": 333,
+    "title": "Still Bill",
+    "artist": "Bill Withers",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Soul",
+      "R And B",
+      "Funk",
+      "Funk Soul",
+      "Pop"
+    ],
+    "musicbrainzId": "63544e97-de86-3096-8702-250590ae5f90",
+    "cover": "/covers/333-still-bill.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 334,
+    "position": 334,
+    "title": "Abraxas",
+    "artist": "Santana",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Latin Rock",
+      "Latin",
+      "Hard Rock",
+      "Psychedelic Rock"
+    ],
+    "musicbrainzId": "43424c73-fc58-36b0-b9cf-f8b057ac0603",
+    "cover": "/covers/334-abraxas.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 335,
+    "position": 335,
+    "title": "The Basement Tapes",
+    "artist": "Bob Dylan and the Band",
+    "year": 1975,
+    "decade": 1970,
+    "genres": [
+      "Folk Rock",
+      "Rock",
+      "Country Rock",
+      "Blues Rock",
+      "Contemporary Folk"
+    ],
+    "musicbrainzId": "47873729-6db0-3431-99e7-0292e939dadf",
+    "cover": "/covers/335-the-basement-tapes.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 336,
+    "position": 336,
+    "title": "Avalon",
+    "artist": "Roxy Music",
+    "year": 1982,
+    "decade": 1980,
+    "genres": [
+      "Art Rock",
+      "Rock",
+      "Adult Contemporary",
+      "Soft Rock",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "4b51d75c-ca0e-3ea7-9950-639eda1f7d1a",
+    "cover": "/covers/336-avalon.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 337,
+    "position": 337,
+    "title": "John Wesley Harding",
+    "artist": "Bob Dylan",
+    "year": 1967,
+    "decade": 1960,
+    "genres": [
+      "Folk Rock",
+      "Rock",
+      "Country Rock",
+      "Folk",
+      "Contemporary Folk"
+    ],
+    "musicbrainzId": "32981714-597a-32dd-9f29-b2f7566fed89",
+    "cover": "/covers/337-john-wesley-harding.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 338,
+    "position": 338,
+    "title": "Another Green World",
+    "artist": "Brian Eno",
+    "year": 1975,
+    "decade": 1970,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 339,
+    "position": 339,
+    "title": "Rhythm Nation 1814",
+    "artist": "Janet Jackson",
+    "year": 1989,
+    "decade": 1980,
+    "genres": [
+      "Pop",
+      "New Jack Swing",
+      "Contemporary R And B",
+      "Adult Contemporary R And B",
+      "Hip-Hop"
+    ],
+    "musicbrainzId": "20aaac17-e4e8-373c-99cc-211321b82832",
+    "cover": "/covers/339-rhythm-nation-1814.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 340,
+    "position": 340,
+    "title": "Doggystyle",
+    "artist": "Snoop Doggy Dogg",
+    "year": 1993,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "G Funk",
+      "Gangsta Rap",
+      "Rap",
+      "West Coast Hip Hop"
+    ],
+    "musicbrainzId": "649762c9-8785-3d9c-803d-2f0496f168e5",
+    "cover": "/covers/340-doggystyle.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 341,
+    "position": 341,
+    "title": "Siamese Dream",
+    "artist": "The Smashing Pumpkins",
+    "year": 1993,
+    "decade": 1990,
+    "genres": [],
+    "musicbrainzId": "cb94282e-44f3-48ec-b46d-cde8f9c15b6d",
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 342,
+    "position": 342,
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Pop Rock",
+      "Pop",
+      "Blues",
+      "Melodic"
+    ],
+    "musicbrainzId": "bff544a7-56e0-3ed6-9e0f-3b676cca9111",
+    "cover": "/covers/342-let-it-be.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 343,
+    "position": 343,
+    "title": "Greatest Hits",
+    "artist": "Sly and the Family Stone",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Funk",
+      "Soul",
+      "Psychedelic Soul",
+      "Rock",
+      "Pop Soul"
+    ],
+    "musicbrainzId": "320b576b-aa9c-3c5e-8631-178e81841866",
+    "cover": "/covers/343-greatest-hits.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 344,
+    "position": 344,
+    "title": "Funky Kingston",
+    "artist": "Toots and the Maytals",
+    "year": 1973,
+    "decade": 1970,
+    "genres": [
+      "Reggae",
+      "Soul"
+    ],
+    "musicbrainzId": "dc7f2fc9-19ff-33e9-aa0d-3c81f91ca633",
+    "cover": "/covers/344-funky-kingston.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 345,
+    "position": 345,
+    "title": "The Wild, the Innocent & the E Street Shuffle",
+    "artist": "Bruce Springsteen",
+    "year": 1973,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Folk Rock",
+      "Jazz Rock",
+      "Heartland Rock",
+      "Singer-Songwriter"
+    ],
+    "musicbrainzId": "4b443e66-52a7-3cc9-a522-0dc64a6a51dc",
+    "cover": "/covers/345-the-wild-the-innocent-and-the-e-street-shuffle.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 346,
+    "position": 346,
+    "title": "AM",
+    "artist": "Arctic Monkeys",
+    "year": 2013,
+    "decade": 2010,
+    "genres": [
+      "Alternative Rock",
+      "Indie Rock",
+      "Rock",
+      "Psychedelic Rock",
+      "Blues Rock"
+    ],
+    "musicbrainzId": "a348ba2f-f8b3-4686-b928-e63d8d94d543",
+    "cover": "/covers/346-am.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 347,
+    "position": 347,
+    "title": "Liquid Swords",
+    "artist": "GZA",
+    "year": 1995,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "East Coast Hip Hop",
+      "Hardcore Hip Hop",
+      "Boom Bap",
+      "Conscious"
+    ],
+    "musicbrainzId": "6075a004-e983-3a00-8a13-50af32f0e200",
+    "cover": "/covers/347-liquid-swords.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 348,
+    "position": 348,
+    "title": "Time (The Revelator)",
+    "artist": "Gillian Welch",
+    "year": 2001,
+    "decade": 2000,
+    "genres": [
+      "Rock",
+      "Country Rock",
+      "Alternative Country",
+      "Folk",
+      "Folk Rock"
+    ],
+    "musicbrainzId": "4f9a9d35-b16d-3b7b-80d0-32b29683633f",
+    "cover": "/covers/348-time-the-revelator.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 349,
+    "position": 349,
+    "title": "Kick Out the Jams",
+    "artist": "MC5",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [
+      "Garage Rock",
+      "Hard Rock",
+      "Proto Punk",
+      "Rock",
+      "Electro"
+    ],
+    "musicbrainzId": "44410403-45d3-30fa-ba48-d16664bf6fb3",
+    "cover": "/covers/349-kick-out-the-jams.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 350,
+    "position": 350,
+    "title": "Music of My Mind",
+    "artist": "Stevie Wonder",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Soul",
+      "Pop",
+      "Rock",
+      "Funk",
+      "R And B"
+    ],
+    "musicbrainzId": "5a253b10-e9f8-334c-b343-7f14e92402c2",
+    "cover": "/covers/350-music-of-my-mind.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 351,
+    "position": 351,
+    "title": "For Your Pleasure",
+    "artist": "Roxy Music",
+    "year": 1973,
+    "decade": 1970,
+    "genres": [
+      "Art Rock",
+      "Glam Rock",
+      "Glam",
+      "Rock",
+      "Melodic"
+    ],
+    "musicbrainzId": "72fd9993-17b8-3402-9f8d-c39cb3d2c27e",
+    "cover": "/covers/351-for-your-pleasure.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 352,
+    "position": 352,
+    "title": "The Slim Shady LP",
+    "artist": "Eminem",
+    "year": 1999,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "Horrorcore",
+      "Hardcore Hip Hop",
+      "Boom Bap",
+      "Comedy Rap"
+    ],
+    "musicbrainzId": "be725de4-4633-3c8a-9a03-f2c4392b6e0d",
+    "cover": "/covers/352-the-slim-shady-lp.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 353,
+    "position": 353,
+    "title": "The Cars",
+    "artist": "The Cars",
+    "year": 1978,
+    "decade": 1970,
+    "genres": [
+      "New Wave",
+      "Rock",
+      "Pop Rock",
+      "Power Pop",
+      "Pop"
+    ],
+    "musicbrainzId": "36172f3d-9b55-37f1-9fd4-0cbd2f3af0ce",
+    "cover": "/covers/353-the-cars.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 354,
+    "position": 354,
+    "title": "Germfree Adolescents",
+    "artist": "X-Ray Spex",
+    "year": 1978,
+    "decade": 1970,
+    "genres": [
+      "Punk",
+      "Punk Rock",
+      "Political",
+      "Rock",
+      "New Wave"
+    ],
+    "musicbrainzId": "02c1c972-b5a1-3b8f-be3f-83dfb9373def",
+    "cover": "/covers/354-germfree-adolescents.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 355,
+    "position": 355,
+    "title": "Black Sabbath",
+    "artist": "Black Sabbath",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Heavy Metal"
+    ],
+    "musicbrainzId": "d38fc9a6-62bd-40bd-8162-7a4146d3e519",
+    "cover": "/covers/355-black-sabbath.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 356,
+    "position": 356,
+    "title": "Gris-Gris",
+    "artist": "Dr. John",
+    "year": 1968,
+    "decade": 1960,
+    "genres": [
+      "New Orleans R And B",
+      "Psychedelic Rock",
+      "Rock",
+      "Jazz",
+      "Blues"
+    ],
+    "musicbrainzId": "8ceb6d06-3a60-37eb-81de-9cc8fe538e16",
+    "cover": "/covers/356-gris-gris.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 357,
+    "position": 357,
+    "title": "Rain Dogs",
+    "artist": "Tom Waits",
+    "year": 1985,
+    "decade": 1980,
+    "genres": [
+      "Blues Rock",
+      "Rock",
+      "Experimental Rock",
+      "Alternative Rock",
+      "Concept Album"
+    ],
+    "musicbrainzId": "fb25a883-2270-3ec4-8c62-85c7ed857e6f",
+    "cover": "/covers/357-rain-dogs.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 358,
+    "position": 358,
+    "title": "Goo",
+    "artist": "Sonic Youth",
+    "year": 1990,
+    "decade": 1990,
+    "genres": [
+      "Alternative Rock",
+      "Rock",
+      "Experimental Rock",
+      "Noise Rock",
+      "Post Punk"
+    ],
+    "musicbrainzId": "8114542a-d659-3b5f-a11f-cf86ed7fa84d",
+    "cover": "/covers/358-goo.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 359,
+    "position": 359,
+    "title": "Radio City",
+    "artist": "Big Star",
+    "year": 1974,
+    "decade": 1970,
+    "genres": [
+      "Power Pop",
+      "Rock",
+      "Pop",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "dea0867d-45d1-3366-8147-1b78f924a137",
+    "cover": "/covers/359-radio-city.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 360,
+    "position": 360,
+    "title": "One Nation Under a Groove",
+    "artist": "Funkadelic",
+    "year": 1978,
+    "decade": 1970,
+    "genres": [
+      "Funk",
+      "Funk Soul",
+      "Rock",
+      "Funk Rock",
+      "P Funk"
+    ],
+    "musicbrainzId": "9d084107-b712-3599-ab62-ac76fe3756b5",
+    "cover": "/covers/360-one-nation-under-a-groove.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 361,
+    "position": 361,
+    "title": "The Black Parade",
+    "artist": "My Chemical Romance",
+    "year": 2006,
+    "decade": 2000,
+    "genres": [
+      "Rock",
+      "Emo",
+      "Punk",
+      "Pop Punk",
+      "Alternative Rock"
+    ],
+    "musicbrainzId": "bcba43e7-2f72-3b60-b234-577e77fd2d9e",
+    "cover": "/covers/361-the-black-parade.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 362,
+    "position": 362,
+    "title": "Never Too Much",
+    "artist": "Luther Vandross",
+    "year": 1981,
+    "decade": 1980,
+    "genres": [
+      "Soul",
+      "Disco",
+      "Pop",
+      "Boogie",
+      "Funk Soul"
+    ],
+    "musicbrainzId": "6e49186d-ce5c-3686-86cd-021f0ce1eda3",
+    "cover": "/covers/362-never-too-much.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 363,
+    "position": 363,
+    "title": "The Mothership Connection",
+    "artist": "Parliament",
+    "year": 1975,
+    "decade": 1970,
+    "genres": [],
+    "musicbrainzId": "9085b6be-d1ff-472c-9cc6-ad657e177b2b",
+    "cover": "/covers/363-the-mothership-connection.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 364,
+    "position": 364,
+    "title": "More Songs About Buildings and Food",
+    "artist": "Talking Heads",
+    "year": 1978,
+    "decade": 1970,
+    "genres": [
+      "New Wave",
+      "Post Punk",
+      "Rock",
+      "Art Punk",
+      "Pop"
+    ],
+    "musicbrainzId": "2cecb2c0-cac3-3c55-8083-577308746230",
+    "cover": "/covers/364-more-songs-about-buildings-and-food.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 365,
+    "position": 365,
+    "title": "Madvillainy",
+    "artist": "Madvillain",
+    "year": 2004,
+    "decade": 2000,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 366,
+    "position": 366,
+    "title": "Rocks",
+    "artist": "Aerosmith",
+    "year": 1976,
+    "decade": 1970,
+    "genres": [
+      "Hard Rock",
+      "Rock",
+      "Album Rock",
+      "Blues Rock",
+      "Arena Rock"
+    ],
+    "musicbrainzId": "775d9a2d-effc-35c8-b80a-f9a4e4206d27",
+    "cover": "/covers/366-rocks.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 367,
+    "position": 367,
+    "title": "If You're Reading This It's Too Late",
+    "artist": "Drake",
+    "year": 2015,
+    "decade": 2010,
+    "genres": [
+      "Pop Rap",
+      "Hip-Hop",
+      "Drake",
+      "Contemporary R And B",
+      "Alternative R And B"
+    ],
+    "musicbrainzId": "68d79778-aceb-486c-88a7-0abb3665344b",
+    "cover": "/covers/367-if-you-re-reading-this-it-s-too-late.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 368,
+    "position": 368,
+    "title": "All Things Must Pass",
+    "artist": "George Harrison",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Pop Rock",
+      "Folk Rock",
+      "Pop",
+      "Jam Band"
+    ],
+    "musicbrainzId": "d4b0f3e2-e3eb-3531-b305-ed8105cb5be4",
+    "cover": "/covers/368-all-things-must-pass.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 369,
+    "position": 369,
+    "title": "The Infamous",
+    "artist": "Mobb Deep",
+    "year": 1995,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "Gangsta Rap",
+      "Boom Bap",
+      "East Coast Rap",
+      "East Coast Hip Hop"
+    ],
+    "musicbrainzId": "03f3c216-bd40-322b-ac8a-254816ff5573",
+    "cover": "/covers/369-the-infamous.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 370,
+    "position": 370,
+    "title": "Tha Carter II",
+    "artist": "Lil Wayne",
+    "year": 2005,
+    "decade": 2000,
+    "genres": [
+      "Hip-Hop",
+      "Southern Hip Hop",
+      "Dirty South",
+      "Rap Hip Hop",
+      "Car On Cover"
+    ],
+    "musicbrainzId": "d97d9f3b-3dc1-3330-a240-b84b74e62044",
+    "cover": "/covers/370-tha-carter-ii.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 371,
+    "position": 371,
+    "title": "Anthology",
+    "artist": "The Temptations",
+    "year": 1973,
+    "decade": 1970,
+    "genres": [
+      "Soul",
+      "Oldies"
+    ],
+    "musicbrainzId": "1df9d775-7593-4e0a-bb55-3035948de6c5",
+    "cover": "/covers/371-anthology.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 372,
+    "position": 372,
+    "title": "Cheap Thrills",
+    "artist": "Big Brother and the Holding Company",
+    "year": 1968,
+    "decade": 1960,
+    "genres": [
+      "Rock",
+      "Psychedelic Rock",
+      "Blues Rock",
+      "Acid Rock",
+      "Hard Rock"
+    ],
+    "musicbrainzId": "02de8887-e93b-3ea6-8b6d-de072a159bba",
+    "cover": "/covers/372-cheap-thrills.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 373,
+    "position": 373,
+    "title": "Hot Buttered Soul",
+    "artist": "Isaac Hayes",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [
+      "Soul",
+      "Electronic",
+      "Funk",
+      "Jazz Funk",
+      "Funk Soul"
+    ],
+    "musicbrainzId": "e76d4f75-f09b-3f5b-aca9-44ac4489e58d",
+    "cover": "/covers/373-hot-buttered-soul.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 374,
+    "position": 374,
+    "title": "King of the Delta Blues Singers",
+    "artist": "Robert Johnson",
+    "year": 1961,
+    "decade": 1960,
+    "genres": [
+      "Blues",
+      "Delta Blues",
+      "Mississippi Delta Blues"
+    ],
+    "musicbrainzId": "2609603b-cd7d-3ccf-aa58-94c38defac2c",
+    "cover": "/covers/374-king-of-the-delta-blues-singers.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 375,
+    "position": 375,
+    "title": "Dookie",
+    "artist": "Green Day",
+    "year": 1994,
+    "decade": 1990,
+    "genres": [
+      "Pop Punk",
+      "Punk Rock",
+      "Punk",
+      "Alternative Rock",
+      "Rock"
+    ],
+    "musicbrainzId": "314cffd4-daa5-3337-85e5-e54165a96113",
+    "cover": "/covers/375-dookie.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 376,
+    "position": 376,
+    "title": "In the Aeroplane Over the Sea",
+    "artist": "Neutral Milk Hotel",
+    "year": 1998,
+    "decade": 1990,
+    "genres": [
+      "Indie Rock",
+      "Indie Folk",
+      "Lo Fi",
+      "Rock",
+      "Alternative Rock"
+    ],
+    "musicbrainzId": "8f310800-045b-3e12-8268-50b3d33a2267",
+    "cover": "/covers/376-in-the-aeroplane-over-the-sea.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 377,
+    "position": 377,
+    "title": "Fever to Tell",
+    "artist": "Yeah Yeah Yeahs",
+    "year": 2003,
+    "decade": 2000,
+    "genres": [
+      "Indie Rock",
+      "Rock",
+      "Alternative Rock",
+      "Garage Rock Revival",
+      "Garage Punk"
+    ],
+    "musicbrainzId": "e8e2d824-dd32-3b24-9c7c-24619fbe86a9",
+    "cover": "/covers/377-fever-to-tell.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 378,
+    "position": 378,
+    "title": "Run-D.M.C.",
+    "artist": "Run-DMC",
+    "year": 1983,
+    "decade": 1980,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 379,
+    "position": 379,
+    "title": "Moving Pictures",
+    "artist": "Rush",
+    "year": 1981,
+    "decade": 1980,
+    "genres": [
+      "Progressive Rock",
+      "Rock",
+      "Hard Rock",
+      "80s",
+      "English"
+    ],
+    "musicbrainzId": "40e30dc1-55ac-33e1-85d3-1f1508140bfc",
+    "cover": "/covers/379-moving-pictures.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 380,
+    "position": 380,
+    "title": "Mingus Ah Um",
+    "artist": "Charles Mingus",
+    "year": 1959,
+    "decade": 1950,
+    "genres": [
+      "Jazz",
+      "Hard Bop",
+      "Post Bop",
+      "Bop",
+      "Cool Jazz"
+    ],
+    "musicbrainzId": "48ec720b-2fc2-35dd-8130-5b186c4abcbc",
+    "cover": "/covers/380-mingus-ah-um.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 381,
+    "position": 381,
+    "title": "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)",
+    "artist": "Lynyrd Skynyrd",
+    "year": 1973,
+    "decade": 1970,
+    "genres": [
+      "Southern Rock",
+      "Hard Rock",
+      "Blues Rock",
+      "Rock",
+      "Album Rock"
+    ],
+    "musicbrainzId": "33446893-8c9f-30b6-aa73-d719df371430",
+    "cover": "/covers/381-pronounced-leh-nerd-skin-nerd.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 382,
+    "position": 382,
+    "title": "Currents",
+    "artist": "Tame Impala",
+    "year": 2015,
+    "decade": 2010,
+    "genres": [
+      "Psychedelic Rock",
+      "Neo Psychedelia",
+      "Rock",
+      "Psychedelic Pop",
+      "Electronic"
+    ],
+    "musicbrainzId": "08aa7a6c-3e43-4459-87b2-e47faf3a088a",
+    "cover": "/covers/382-currents.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 383,
+    "position": 383,
+    "title": "Mezzanine",
+    "artist": "Massive Attack",
+    "year": 1998,
+    "decade": 1990,
+    "genres": [
+      "Trip Hop",
+      "Electronic",
+      "Downtempo",
+      "Electronica",
+      "Leftfield"
+    ],
+    "musicbrainzId": "6f9f6899-c0d3-311d-ae87-a10ae6bc53a9",
+    "cover": "/covers/383-mezzanine.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 384,
+    "position": 384,
+    "title": "The Kinks Are the Village Green Preservation Society",
+    "artist": "The Kinks",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [
+      "Pop Rock",
+      "Rock",
+      "Classic Rock",
+      "Baroque Pop",
+      "Psychedelic Pop"
+    ],
+    "musicbrainzId": "4516a30e-939c-3b2b-a8ea-f94ae418d3a6",
+    "cover": "/covers/384-the-kinks-are-the-village-green-preservation-society.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 385,
+    "position": 385,
+    "title": "Rocket to Russia",
+    "artist": "Ramones",
+    "year": 1977,
+    "decade": 1970,
+    "genres": [
+      "Punk Rock",
+      "Punk",
+      "Rock",
+      "Pop Punk",
+      "Alternative And Punk"
+    ],
+    "musicbrainzId": "dd959091-dba1-32b8-8159-0090959ce75b",
+    "cover": "/covers/385-rocket-to-russia.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 386,
+    "position": 386,
+    "title": "Donuts",
+    "artist": "J Dilla",
+    "year": 2006,
+    "decade": 2000,
+    "genres": [
+      "Hip-Hop",
+      "Instrumental Hip Hop",
+      "Instrumental",
+      "Plunderphonics"
+    ],
+    "musicbrainzId": "6b78c33a-64c4-3472-99e9-be45a392acb4",
+    "cover": "/covers/386-donuts.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 387,
+    "position": 387,
+    "title": "In Rainbows",
+    "artist": "Radiohead",
+    "year": 2007,
+    "decade": 2000,
+    "genres": [
+      "Alternative Rock",
+      "Rock",
+      "Art Rock",
+      "Electronic",
+      "Indie Rock"
+    ],
+    "musicbrainzId": "6e335887-60ba-38f0-95af-fae7774336bf",
+    "cover": "/covers/387-in-rainbows.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 388,
+    "position": 388,
+    "title": "Young, Gifted and Black",
+    "artist": "Aretha Franklin",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Soul",
+      "Southern Soul",
+      "Deep Soul",
+      "Black Gospel",
+      "Gospel"
+    ],
+    "musicbrainzId": "f62ec525-7158-37c1-8535-6eaac62435b3",
+    "cover": "/covers/388-young-gifted-and-black.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 389,
+    "position": 389,
+    "title": "The Emancipation of Mimi",
+    "artist": "Mariah Carey",
+    "year": 2005,
+    "decade": 2000,
+    "genres": [
+      "Pop",
+      "Contemporary R And B",
+      "Dance Pop",
+      "Adult Contemporary",
+      "R B Pop"
+    ],
+    "musicbrainzId": "2391debf-38aa-3a90-888e-51f857131e98",
+    "cover": "/covers/389-the-emancipation-of-mimi.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 390,
+    "position": 390,
+    "title": "Surfer Rosa",
+    "artist": "Pixies",
+    "year": 1988,
+    "decade": 1980,
+    "genres": [
+      "Alternative Rock",
+      "Rock",
+      "Indie Rock",
+      "Alternative",
+      "College Rock"
+    ],
+    "musicbrainzId": "74e36cbc-a747-3ebf-a60e-51e656c87741",
+    "cover": "/covers/390-surfer-rosa.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 391,
+    "position": 391,
+    "title": "Kaleidoscope",
+    "artist": "Kelis",
+    "year": 1999,
+    "decade": 1990,
+    "genres": [
+      "Contemporary R And B",
+      "R And B",
+      "Hip-Hop",
+      "Neo Soul",
+      "Pop Rap"
+    ],
+    "musicbrainzId": "4ea68d9e-7e06-30ea-8b29-3d8195b302c7",
+    "cover": "/covers/391-kaleidoscope.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 392,
+    "position": 392,
+    "title": "Proud Mary: The Best of Ike and Tina Turner",
+    "artist": "Ike and Tina Turner",
+    "year": 1991,
+    "decade": 1990,
+    "genres": [
+      "Soul",
+      "Adult Contemporary",
+      "Blues",
+      "Funk"
+    ],
+    "musicbrainzId": "c504f95d-265a-3d94-b888-9571712351ec",
+    "cover": "/covers/392-proud-mary-the-best-of-ike-and-tina-turner.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 393,
+    "position": 393,
+    "title": "1989",
+    "artist": "Taylor Swift",
+    "year": 2014,
+    "decade": 2010,
+    "genres": [
+      "Pop",
+      "Synth Pop",
+      "Dance Pop",
+      "Electropop",
+      "Alternative Pop"
+    ],
+    "musicbrainzId": "4d9ec1c2-58ec-48a4-aa0a-916718adead0",
+    "cover": "/covers/393-1989.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 394,
+    "position": 394,
+    "title": "Diana",
+    "artist": "Diana Ross",
+    "year": 1980,
+    "decade": 1980,
+    "genres": [
+      "Soul",
+      "Disco",
+      "Funk",
+      "Pop",
+      "Contemporary R And B"
+    ],
+    "musicbrainzId": "fd07981b-fe56-3218-8df6-bcbe6992c96e",
+    "cover": "/covers/394-diana.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 395,
+    "position": 395,
+    "title": "Black Messiah",
+    "artist": "D’Angelo and the Vanguard",
+    "year": 2014,
+    "decade": 2010,
+    "genres": [
+      "Neo Soul",
+      "Funk",
+      "Funk Rock",
+      "Soul",
+      "Psychedelic Soul"
+    ],
+    "musicbrainzId": "b3d96626-4d46-4012-b6cb-e8d8b192a4f1",
+    "cover": "/covers/395-black-messiah.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 396,
+    "position": 396,
+    "title": "Something/Anything?",
+    "artist": "Todd Rundgren",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Pop Rock",
+      "Power Pop",
+      "Art Rock",
+      "Progressive Rock",
+      "Glam Rock"
+    ],
+    "musicbrainzId": "edbaf38a-ba3c-3d21-981c-879fe4ac6c76",
+    "cover": "/covers/396-something-anything.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 397,
+    "position": 397,
+    "title": "When We All Fall Asleep, Where Do We Go?",
+    "artist": "Billie Eilish",
+    "year": 2019,
+    "decade": 2010,
+    "genres": [
+      "Alternative Pop",
+      "Pop",
+      "Electropop",
+      "Ambient Pop",
+      "Art Pop"
+    ],
+    "musicbrainzId": "72375978-a9a1-4254-b957-85565c716b7e",
+    "cover": "/covers/397-when-we-all-fall-asleep-where-do-we-go.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 398,
+    "position": 398,
+    "title": "The Raincoats",
+    "artist": "The Raincoats",
+    "year": 1979,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Post Punk",
+      "Punk",
+      "New Wave"
+    ],
+    "musicbrainzId": "044a7a01-ab8f-4781-a4de-183718abb936",
+    "cover": "/covers/398-the-raincoats.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 399,
+    "position": 399,
+    "title": "Smile",
+    "artist": "Brian Wilson",
+    "year": 2004,
+    "decade": 2000,
+    "genres": [
+      "Pop",
+      "Rock",
+      "Psychedelic Rock",
+      "Classic Rock",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "7eea3a40-7c24-34f9-aa48-958edb5145c5",
+    "cover": "/covers/399-smile.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 400,
+    "position": 400,
+    "title": "Beauty and the Beat",
+    "artist": "The Go-Go’s",
+    "year": 1981,
+    "decade": 1980,
+    "genres": [],
+    "musicbrainzId": "5230e044-dc45-49d7-9fae-973b7e706a9f",
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 401,
+    "position": 401,
+    "title": "Blondie",
+    "artist": "Blondie",
+    "year": 1977,
+    "decade": 1970,
+    "genres": [
+      "Rock"
+    ],
+    "musicbrainzId": "ec4a417f-edd9-4dc2-96a8-51b93679a5ee",
+    "cover": "/covers/401-blondie.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 402,
+    "position": 402,
+    "title": "Expensive Shit",
+    "artist": "Fela Kuti and Africa 70",
+    "year": 1975,
+    "decade": 1970,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 403,
+    "position": 403,
+    "title": "Supreme Clientele",
+    "artist": "Ghostface Killah",
+    "year": 2000,
+    "decade": 2000,
+    "genres": [
+      "Hip-Hop",
+      "Hardcore Hip Hop",
+      "Rap",
+      "English",
+      "East Coast Rap"
+    ],
+    "musicbrainzId": "e54744e2-7646-304d-abb8-2952671da3bb",
+    "cover": "/covers/403-supreme-clientele.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 404,
+    "position": 404,
+    "title": "Rapture",
+    "artist": "Anita Baker",
+    "year": 1986,
+    "decade": 1980,
+    "genres": [
+      "Soul",
+      "R And B",
+      "Jazz",
+      "Smooth Jazz",
+      "Pop"
+    ],
+    "musicbrainzId": "b544c1b2-9190-34ac-8d03-348c86a77cb2",
+    "cover": "/covers/404-rapture.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 405,
+    "position": 405,
+    "title": "Nuggets: Original Artyfacts from the First Psychedelic Era",
+    "artist": "Various",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Garage Rock",
+      "Rock",
+      "Psychedelic Rock",
+      "Classic Rock",
+      "Pop"
+    ],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 406,
+    "position": 406,
+    "title": "69 Love Songs",
+    "artist": "Magnetic Fields",
+    "year": 1999,
+    "decade": 1990,
+    "genres": [
+      "Indie Pop",
+      "Electronic",
+      "Synth Pop",
+      "Indie Folk",
+      "Chamber Pop"
+    ],
+    "musicbrainzId": "5dfac852-1aed-35b2-93b6-e8f9c93fe521",
+    "cover": "/covers/406-69-love-songs.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 407,
+    "position": 407,
+    "title": "Everybody Knows This Is Nowhere",
+    "artist": "Neil Young",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [
+      "Rock",
+      "Country Rock",
+      "Folk Rock",
+      "Hard Rock",
+      "Singer-Songwriter"
+    ],
+    "musicbrainzId": "f61603ab-ef6b-386b-a5e0-aaefc00543f1",
+    "cover": "/covers/407-everybody-knows-this-is-nowhere.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 408,
+    "position": 408,
+    "title": "Ace of Spades",
+    "artist": "Motörhead",
+    "year": 1980,
+    "decade": 1980,
+    "genres": [
+      "Heavy Metal",
+      "Hard Rock",
+      "Rock",
+      "Metal",
+      "Speed Metal"
+    ],
+    "musicbrainzId": "51d51de2-0312-4798-8529-bed2ae2581c6",
+    "cover": "/covers/408-ace-of-spades.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 409,
+    "position": 409,
+    "title": "Workingman’s Dead",
+    "artist": "Grateful Dead",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Folk Rock",
+      "Country Rock",
+      "Album Rock",
+      "Alternative Rock"
+    ],
+    "musicbrainzId": "6fdb82d8-9aee-35ed-8092-8434866bab7f",
+    "cover": "/covers/409-workingman-s-dead.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 410,
+    "position": 410,
+    "title": "Wild Honey",
+    "artist": "The Beach Boys",
+    "year": 1967,
+    "decade": 1960,
+    "genres": [
+      "Pop",
+      "Am Pop",
+      "Rock",
+      "Pop Rock",
+      "Psychedelic"
+    ],
+    "musicbrainzId": "25db75ad-e1e3-3941-85bd-291009a5f00d",
+    "cover": "/covers/410-wild-honey.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 411,
+    "position": 411,
+    "title": "Love and Theft",
+    "artist": "Bob Dylan",
+    "year": 2001,
+    "decade": 2000,
+    "genres": [
+      "Folk Rock",
+      "Blues Rock",
+      "Rock",
+      "Folk",
+      "Classic Pop And Rock"
+    ],
+    "musicbrainzId": "9980ffe5-c5b5-3a83-8c1e-1ec6618f97ca",
+    "cover": "/covers/411-love-and-theft.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 412,
+    "position": 412,
+    "title": "Going to a Go Go",
+    "artist": "Smokey Robinson and the Miracles",
+    "year": 1965,
+    "decade": 1960,
+    "genres": [
+      "Soul",
+      "Pop Soul",
+      "Doo Wop",
+      "R&B",
+      "Motown"
+    ],
+    "musicbrainzId": "88762473-682d-3544-a9e7-1bb3c5dddaf1",
+    "cover": "/covers/412-going-to-a-go-go.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 413,
+    "position": 413,
+    "title": "Cosmo's Factory",
+    "artist": "Creedence Clearwater Revival",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Southern Rock",
+      "Blues Rock",
+      "Country Rock",
+      "Swamp Rock"
+    ],
+    "musicbrainzId": "3a31800f-1916-3f4c-a7ae-26b783d00670",
+    "cover": "/covers/413-cosmo-s-factory.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 414,
+    "position": 414,
+    "title": "Risqué",
+    "artist": "Chic",
+    "year": 1979,
+    "decade": 1970,
+    "genres": [
+      "Disco",
+      "Funk",
+      "Soul"
+    ],
+    "musicbrainzId": "baa74317-3f23-3f0b-a996-c68f52c61f13",
+    "cover": "/covers/414-risque.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 415,
+    "position": 415,
+    "title": "Looka Py Py",
+    "artist": "The Meters",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 416,
+    "position": 416,
+    "title": "Things Fall Apart",
+    "artist": "The Roots",
+    "year": 1999,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "Alternative Hip Hop",
+      "Neo Soul",
+      "Jazz Rap"
+    ],
+    "musicbrainzId": "8f341430-85b9-3a66-875f-ed1202868393",
+    "cover": "/covers/416-things-fall-apart.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 417,
+    "position": 417,
+    "title": "The Shape of Jazz to Come",
+    "artist": "Ornette Coleman",
+    "year": 1959,
+    "decade": 1950,
+    "genres": [
+      "Jazz",
+      "Free Jazz",
+      "Avant Garde Jazz"
+    ],
+    "musicbrainzId": "5879cfca-e1d0-3ef4-8014-3b284832ed18",
+    "cover": "/covers/417-the-shape-of-jazz-to-come.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 418,
+    "position": 418,
+    "title": "Brothers in Arms",
+    "artist": "Dire Straits",
+    "year": 1985,
+    "decade": 1980,
+    "genres": [
+      "Rock",
+      "Classic Rock",
+      "Album Rock",
+      "Pop Rock",
+      "Blues Rock"
+    ],
+    "musicbrainzId": "b02f651e-32a1-30ae-bc23-070b59170278",
+    "cover": "/covers/418-brothers-in-arms.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 419,
+    "position": 419,
+    "title": "Chief",
+    "artist": "Eric Church",
+    "year": 2011,
+    "decade": 2010,
+    "genres": [
+      "Country",
+      "Contemporary Country",
+      "Pop Rock",
+      "Neo Traditionalist Country"
+    ],
+    "musicbrainzId": "979e5e4d-0c1d-46c0-9fda-fa9b6fce89a6",
+    "cover": "/covers/419-chief.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 420,
+    "position": 420,
+    "title": "That’s the Way of the World",
+    "artist": "Earth, Wind and Fire",
+    "year": 1975,
+    "decade": 1970,
+    "genres": [
+      "Funk",
+      "Soul",
+      "Disco",
+      "R And B",
+      "Pop"
+    ],
+    "musicbrainzId": "e9845207-8ae3-36db-b0e1-2efcdb46687d",
+    "cover": "/covers/420-that-s-the-way-of-the-world.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 421,
+    "position": 421,
+    "title": "Arular",
+    "artist": "M.I.A.",
+    "year": 2005,
+    "decade": 2000,
+    "genres": [
+      "Electronic",
+      "Hip-Hop",
+      "Dance",
+      "Alternative Dance",
+      "Breakbeat"
+    ],
+    "musicbrainzId": "32d38e25-27e8-45bc-b79b-931f5a609546",
+    "cover": "/covers/421-arular.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 422,
+    "position": 422,
+    "title": "Let's Get It On",
+    "artist": "Marvin Gaye",
+    "year": 1973,
+    "decade": 1970,
+    "genres": [
+      "Soul",
+      "Pop",
+      "R And B Soul",
+      "Blues",
+      "Quiet Storm"
+    ],
+    "musicbrainzId": "120c822e-3cd2-3652-975c-d687256a7931",
+    "cover": "/covers/422-let-s-get-it-on.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 423,
+    "position": 423,
+    "title": "I Can Hear the Heart Beating As One",
+    "artist": "Yo La Tengo",
+    "year": 1997,
+    "decade": 1990,
+    "genres": [
+      "Rock",
+      "Indie Rock",
+      "Indie"
+    ],
+    "musicbrainzId": "901ddfef-b428-3022-a7b9-429f56513831",
+    "cover": "/covers/423-i-can-hear-the-heart-beating-as-one.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 424,
+    "position": 424,
+    "title": "Odelay",
+    "artist": "Beck",
+    "year": 1996,
+    "decade": 1990,
+    "genres": [
+      "Alternative Rock",
+      "Rock",
+      "Electronic",
+      "Downtempo",
+      "Neo Psychedelia"
+    ],
+    "musicbrainzId": "df0bfd42-78a9-40c3-a45f-a12e10d446f8",
+    "cover": "/covers/424-odelay.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 425,
+    "position": 425,
+    "title": "Paul Simon",
+    "artist": "Paul Simon",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Folk Rock",
+      "Rock",
+      "Pop",
+      "Folk Pop",
+      "Soft Rock"
+    ],
+    "musicbrainzId": "602d0c54-2901-3469-a683-a5a50f3e5260",
+    "cover": "/covers/425-paul-simon.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 426,
+    "position": 426,
+    "title": "Lucinda Williams",
+    "artist": "Lucinda Williams",
+    "year": 1988,
+    "decade": 1980,
+    "genres": [
+      "Country",
+      "Alternative Country",
+      "Rock"
+    ],
+    "musicbrainzId": "9868b6bf-6bf5-3d62-bdb9-a312694c34f1",
+    "cover": "/covers/426-lucinda-williams.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 427,
+    "position": 427,
+    "title": "Call Me",
+    "artist": "Al Green",
+    "year": 1973,
+    "decade": 1970,
+    "genres": [
+      "Soul",
+      "Funk Soul",
+      "Smooth Soul",
+      "Funk",
+      "Southern Soul"
+    ],
+    "musicbrainzId": "edafb37c-f392-3765-9dbd-80616dcb2ad7",
+    "cover": "/covers/427-call-me.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 428,
+    "position": 428,
+    "title": "New Day Rising",
+    "artist": "Hüsker Dü",
+    "year": 1985,
+    "decade": 1980,
+    "genres": [
+      "Alternative Rock",
+      "Hardcore Punk",
+      "Power Pop",
+      "Noise Pop",
+      "Post Hardcore"
+    ],
+    "musicbrainzId": "5ae570d2-65c1-3da5-9a1b-dbb98ca7c3d2",
+    "cover": "/covers/428-new-day-rising.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 429,
+    "position": 429,
+    "title": "Reach Out",
+    "artist": "The Four Tops",
+    "year": 1967,
+    "decade": 1960,
+    "genres": [],
+    "musicbrainzId": "33e4aabd-e964-48b8-a446-a61664835de3",
+    "cover": "/covers/429-reach-out.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 430,
+    "position": 430,
+    "title": "My Aim Is True",
+    "artist": "Elvis Costello",
+    "year": 1977,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "New Wave",
+      "Pub Rock",
+      "Pop Rock",
+      "Rock & Roll"
+    ],
+    "musicbrainzId": "c7a4740f-2729-3895-8498-08c521886a95",
+    "cover": "/covers/430-my-aim-is-true.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 431,
+    "position": 431,
+    "title": "How Will the Wolf Survive?",
+    "artist": "Los Lobos",
+    "year": 1984,
+    "decade": 1980,
+    "genres": [
+      "Rock",
+      "Latin",
+      "80s",
+      "Blues",
+      "Tex Mex"
+    ],
+    "musicbrainzId": "2478de4b-9470-311b-be17-68fb79388e89",
+    "cover": "/covers/431-how-will-the-wolf-survive.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 432,
+    "position": 432,
+    "title": "Confessions",
+    "artist": "Usher",
+    "year": 2004,
+    "decade": 2000,
+    "genres": [
+      "Hip-Hop",
+      "R And B",
+      "Contemporary R And B",
+      "Rnb Swing",
+      "English"
+    ],
+    "musicbrainzId": "0ee013ee-5f59-35d5-b6b8-26a0cb3e4372",
+    "cover": "/covers/432-confessions.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 433,
+    "position": 433,
+    "title": "Sound of Silver",
+    "artist": "LCD Soundsystem",
+    "year": 2007,
+    "decade": 2000,
+    "genres": [
+      "Electronic",
+      "Dance Punk",
+      "Alternative Dance",
+      "Indietronica",
+      "Alternative Rock"
+    ],
+    "musicbrainzId": "5cbcdd9f-4b7d-3b3c-b9f2-6b0e75971157",
+    "cover": "/covers/433-sound-of-silver.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 434,
+    "position": 434,
+    "title": "Crooked Rain, Crooked Rain",
+    "artist": "Pavement",
+    "year": 1994,
+    "decade": 1990,
+    "genres": [
+      "Rock",
+      "Indie Rock",
+      "Lo Fi",
+      "Alternative Rock",
+      "Pop"
+    ],
+    "musicbrainzId": "4f348977-6f44-39f9-b243-071927ecc6a4",
+    "cover": "/covers/434-crooked-rain-crooked-rain.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 435,
+    "position": 435,
+    "title": "Actually",
+    "artist": "Pet Shop Boys",
+    "year": 1987,
+    "decade": 1980,
+    "genres": [
+      "Synth Pop",
+      "Electronic",
+      "Synthpop",
+      "Dance Pop",
+      "Pop"
+    ],
+    "musicbrainzId": "6de9a233-13dd-30b5-ad30-61c5814774c5",
+    "cover": "/covers/435-actually.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 436,
+    "position": 436,
+    "title": "All Eyez on Me",
+    "artist": "2Pac",
+    "year": 1996,
+    "decade": 1990,
+    "genres": [
+      "Gangsta Rap",
+      "Hip-Hop",
+      "G Funk",
+      "West Coast Hip Hop",
+      "Rap"
+    ],
+    "musicbrainzId": "e2621417-9236-36b4-9f9e-376c416dc4b0",
+    "cover": "/covers/436-all-eyez-on-me.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 437,
+    "position": 437,
+    "title": "Screamadelica",
+    "artist": "Primal Scream",
+    "year": 1991,
+    "decade": 1990,
+    "genres": [
+      "Rock",
+      "Electronic",
+      "House",
+      "Acid House",
+      "Alternative Rock"
+    ],
+    "musicbrainzId": "48a1839c-f4e0-3223-831f-fc36ca6ff7cf",
+    "cover": "/covers/437-screamadelica.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 438,
+    "position": 438,
+    "title": "Parklife",
+    "artist": "Blur",
+    "year": 1994,
+    "decade": 1990,
+    "genres": [
+      "Britpop",
+      "Rock",
+      "Alternative Rock",
+      "Indie Rock",
+      "Uplifting"
+    ],
+    "musicbrainzId": "67461c8e-d864-3910-9bf4-39e44357aac9",
+    "cover": "/covers/438-parklife.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 439,
+    "position": 439,
+    "title": "Sex Machine",
+    "artist": "James Brown",
+    "year": 1970,
+    "decade": 1970,
+    "genres": [
+      "Funk",
+      "Soul",
+      "Funk Soul",
+      "Soundtracks",
+      "Blaxploitation"
+    ],
+    "musicbrainzId": "640919d2-e786-354d-a9d5-3151e4621cb4",
+    "cover": "/covers/439-sex-machine.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 440,
+    "position": 440,
+    "title": "Coal Miner's Daughter",
+    "artist": "Loretta Lynn",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [
+      "Country"
+    ],
+    "musicbrainzId": "edca17e1-d696-3fc8-a22a-06d232f1f48f",
+    "cover": "/covers/440-coal-miner-s-daughter.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 441,
+    "position": 441,
+    "title": "Blackout",
+    "artist": "Britney Spears",
+    "year": 2007,
+    "decade": 2000,
+    "genres": [
+      "Pop",
+      "Dance Pop",
+      "Electronic",
+      "Euro House",
+      "Electropop"
+    ],
+    "musicbrainzId": "0b8e14e1-d44d-3770-8617-5c6137a444a8",
+    "cover": "/covers/441-blackout.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 442,
+    "position": 442,
+    "title": "Beauty Behind the Madness",
+    "artist": "The Weeknd",
+    "year": 2015,
+    "decade": 2010,
+    "genres": [
+      "Alternative R And B",
+      "Contemporary R And B",
+      "Pop",
+      "Dance Pop",
+      "Hip-Hop"
+    ],
+    "musicbrainzId": "a85b8aff-fcbc-4431-95ba-d8c20bbfb77e",
+    "cover": "/covers/442-beauty-behind-the-madness.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 443,
+    "position": 443,
+    "title": "Scary Monsters",
+    "artist": "David Bowie",
+    "year": 1980,
+    "decade": 1980,
+    "genres": [
+      "Art Rock",
+      "Rock",
+      "Post Punk",
+      "New Wave",
+      "Album Rock"
+    ],
+    "musicbrainzId": "bb13cb45-254c-3a61-89a5-15d22a97e6d6",
+    "cover": "/covers/443-scary-monsters.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 444,
+    "position": 444,
+    "title": "Extraordinary Machine",
+    "artist": "Fiona Apple",
+    "year": 2005,
+    "decade": 2000,
+    "genres": [
+      "Rock",
+      "Indie Rock",
+      "Pop Rock",
+      "Pop",
+      "Alternative"
+    ],
+    "musicbrainzId": "81c98a74-56ba-355e-8d63-83e12a63dace",
+    "cover": "/covers/444-extraordinary-machine.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 445,
+    "position": 445,
+    "title": "Close to the Edge",
+    "artist": "Yes",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Progressive Rock",
+      "Rock",
+      "Art Rock",
+      "Classic Rock",
+      "Prog Rock"
+    ],
+    "musicbrainzId": "5a59b948-1961-32ff-80d9-e970c7d4ebe9",
+    "cover": "/covers/445-close-to-the-edge.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 446,
+    "position": 446,
+    "title": "Journey in Satchidanada",
+    "artist": "Alice Coltrane",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 447,
+    "position": 447,
+    "title": "X 100pre",
+    "artist": "Bad Bunny",
+    "year": 2018,
+    "decade": 2010,
+    "genres": [
+      "Reggaeton",
+      "Pop Rap",
+      "Alternative R And B",
+      "Trap Latino",
+      "Hip-Hop"
+    ],
+    "musicbrainzId": "68f8c63d-3e54-4f26-8ce3-41a7bc1ca7fd",
+    "cover": "/covers/447-x-100pre.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 448,
+    "position": 448,
+    "title": "Dictionary of Soul",
+    "artist": "Otis Redding",
+    "year": 1966,
+    "decade": 1960,
+    "genres": [
+      "Deep Soul",
+      "Soul",
+      "Southern Soul",
+      "R And B"
+    ],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 449,
+    "position": 449,
+    "title": "Elephant",
+    "artist": "The White Stripes",
+    "year": 2003,
+    "decade": 2000,
+    "genres": [
+      "Alternative Rock",
+      "Rock",
+      "Blues Rock",
+      "Punk Blues",
+      "Garage Rock Revival"
+    ],
+    "musicbrainzId": "d85b9684-4277-3565-b89b-115c8b4b7fd3",
+    "cover": "/covers/449-elephant.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 450,
+    "position": 450,
+    "title": "Ram",
+    "artist": "Paul and Linda McCartney",
+    "year": 1971,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Pop Rock",
+      "Blues Rock",
+      "Album Rock",
+      "Folk Pop"
+    ],
+    "musicbrainzId": "434d4068-8404-359a-9585-3376d3d1680d",
+    "cover": "/covers/450-ram.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 451,
+    "position": 451,
+    "title": "First Take",
+    "artist": "Roberta Flack",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [
+      "Soul",
+      "Vocal Jazz"
+    ],
+    "musicbrainzId": "4455c04d-9368-4dc5-b35d-6ff8c407921f",
+    "cover": "/covers/451-first-take.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 452,
+    "position": 452,
+    "title": "Anthology",
+    "artist": "Diana Ross and the Supremes",
+    "year": 1974,
+    "decade": 1970,
+    "genres": [
+      "R And B"
+    ],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 453,
+    "position": 453,
+    "title": "Pretty Hate Machine",
+    "artist": "Nine Inch Nails",
+    "year": 1989,
+    "decade": 1980,
+    "genres": [
+      "Industrial",
+      "Industrial Rock",
+      "Synthpop",
+      "Rock",
+      "Alternative Rock"
+    ],
+    "musicbrainzId": "fcb872a2-7ef9-3ed0-bd4a-7c55c78179b6",
+    "cover": "/covers/453-pretty-hate-machine.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 454,
+    "position": 454,
+    "title": "Ege Bamyasi",
+    "artist": "Can",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Krautrock",
+      "Rock"
+    ],
+    "musicbrainzId": "a4b405a6-0577-3b77-b46d-06af1b98fbd2",
+    "cover": "/covers/454-ege-bamyasi.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 455,
+    "position": 455,
+    "title": "Bo Diddley/Go Bo Diddley",
+    "artist": "Bo Diddley",
+    "year": 1958,
+    "decade": 1950,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 456,
+    "position": 456,
+    "title": "Greatest Hits",
+    "artist": "Al Green",
+    "year": 1975,
+    "decade": 1970,
+    "genres": [
+      "Soul",
+      "Rock",
+      "Blues",
+      "Funk",
+      "R&B"
+    ],
+    "musicbrainzId": "9421508e-362a-38e8-ba54-658513768862",
+    "cover": "/covers/456-greatest-hits.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 457,
+    "position": 457,
+    "title": "I Do Not Want What I Haven’t Got",
+    "artist": "Sinéad O’Connor",
+    "year": 1990,
+    "decade": 1990,
+    "genres": [
+      "Alternative Rock",
+      "Rock",
+      "Alt Rock",
+      "Pop",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "9747bcfe-7c42-35ac-8c3e-7ecac9f1227b",
+    "cover": "/covers/457-i-do-not-want-what-i-haven-t-got.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 458,
+    "position": 458,
+    "title": "Southeastern",
+    "artist": "Jason Isbell",
+    "year": 2013,
+    "decade": 2010,
+    "genres": [
+      "Southern Rock"
+    ],
+    "musicbrainzId": "47e4fe0d-8be7-4bdc-b5e7-5b0409ed6afc",
+    "cover": "/covers/458-southeastern.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 459,
+    "position": 459,
+    "title": "Man on the Moon: The End of the Day",
+    "artist": "Kid Cudi",
+    "year": 2009,
+    "decade": 2000,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 460,
+    "position": 460,
+    "title": "Melodrama",
+    "artist": "Lorde",
+    "year": 2017,
+    "decade": 2010,
+    "genres": [
+      "Synth Pop",
+      "Indie Pop",
+      "Electronic",
+      "Synthpop",
+      "Pop"
+    ],
+    "musicbrainzId": "668e80e0-b35e-4471-9788-0a3d797fe42c",
+    "cover": "/covers/460-melodrama.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 461,
+    "position": 461,
+    "title": "For Emma",
+    "artist": "Bon Iver",
+    "year": 2008,
+    "decade": 2000,
+    "genres": [
+      "Indie Folk",
+      "Rock",
+      "Singer-Songwriter",
+      "Indie Rock",
+      "Folk Rock"
+    ],
+    "musicbrainzId": "9e425f3d-119a-4511-8969-06adb9057ee6",
+    "cover": "/covers/461-for-emma.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 462,
+    "position": 462,
+    "title": "The Gilded Palace of Sin",
+    "artist": "The Flying Burrito Brothers",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [
+      "Country Rock",
+      "Rock"
+    ],
+    "musicbrainzId": "a7562b15-0ee5-35cf-b9ce-38d892475521",
+    "cover": "/covers/462-the-gilded-palace-of-sin.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 463,
+    "position": 463,
+    "title": "Eli & the 13th Confession",
+    "artist": "Laura Nyro",
+    "year": 1968,
+    "decade": 1960,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 464,
+    "position": 464,
+    "title": "3 + 3",
+    "artist": "The Isley Brothers",
+    "year": 1973,
+    "decade": 1970,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 465,
+    "position": 465,
+    "title": "The Best of the Classic Years",
+    "artist": "King Sunny Adé",
+    "year": 2003,
+    "decade": 2000,
+    "genres": [
+      "Juju"
+    ],
+    "musicbrainzId": "d66265fa-f8e3-3b79-ab11-23eddd92f3ce",
+    "cover": "/covers/465-the-best-of-the-classic-years.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 466,
+    "position": 466,
+    "title": "The Beach Boys Today!",
+    "artist": "The Beach Boys",
+    "year": 1965,
+    "decade": 1960,
+    "genres": [
+      "Pop",
+      "Baroque Pop",
+      "Pop Rock",
+      "Surf",
+      "Sunshine Pop"
+    ],
+    "musicbrainzId": "2b581513-39cc-3a81-9c50-79a8dbf5c031",
+    "cover": "/covers/466-the-beach-boys-today.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 467,
+    "position": 467,
+    "title": "BLACKsummers’night",
+    "artist": "Maxwell",
+    "year": 2009,
+    "decade": 2000,
+    "genres": [
+      "Pop",
+      "Neo Soul"
+    ],
+    "musicbrainzId": "65579f48-3ba4-489a-9b1a-6108925055c9",
+    "cover": "/covers/467-blacksummers-night.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 468,
+    "position": 468,
+    "title": "Some Girls",
+    "artist": "The Rolling Stones",
+    "year": 1978,
+    "decade": 1970,
+    "genres": [
+      "Rock",
+      "Blues Rock",
+      "Hard Rock",
+      "Classic Rock",
+      "Album Rock"
+    ],
+    "musicbrainzId": "b44bc358-a28f-3a1f-b07e-604910f12d37",
+    "cover": "/covers/468-some-girls.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 469,
+    "position": 469,
+    "title": "Clandestino",
+    "artist": "Manu Chao",
+    "year": 1998,
+    "decade": 1990,
+    "genres": [
+      "Electronic",
+      "Pop",
+      "Folk",
+      "Alternative Latin",
+      "Rock"
+    ],
+    "musicbrainzId": "24a451c9-a8f3-33f9-a4fc-5e2d00cb7816",
+    "cover": "/covers/469-clandestino.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 470,
+    "position": 470,
+    "title": "400 Degreez",
+    "artist": "Juvenile",
+    "year": 1998,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "Thug Rap",
+      "Blues",
+      "Dirty South",
+      "Bounce"
+    ],
+    "musicbrainzId": "08399f8b-c114-3080-b548-7599af1ebc5c",
+    "cover": "/covers/470-400-degreez.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 471,
+    "position": 471,
+    "title": "Surrealistic Pillow",
+    "artist": "Jefferson Airplane",
+    "year": 1967,
+    "decade": 1960,
+    "genres": [
+      "Psychedelic Rock",
+      "Rock",
+      "Folk Rock",
+      "Acid Rock",
+      "Classic Rock"
+    ],
+    "musicbrainzId": "e6440cd2-5e8e-367d-bc49-cc042b5ef524",
+    "cover": "/covers/471-surrealistic-pillow.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 472,
+    "position": 472,
+    "title": "Ctrl",
+    "artist": "SZA",
+    "year": 2017,
+    "decade": 2010,
+    "genres": [
+      "Contemporary R And B",
+      "R And B"
+    ],
+    "musicbrainzId": "8f892c1b-0709-4cf4-9711-493892a9eb9b",
+    "cover": "/covers/472-ctrl.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 473,
+    "position": 473,
+    "title": "Barrio Fino",
+    "artist": "Daddy Yankee",
+    "year": 2004,
+    "decade": 2000,
+    "genres": [
+      "Reggaeton",
+      "Hip-Hop",
+      "Latin",
+      "Latin Urban"
+    ],
+    "musicbrainzId": "5fa20be8-ea07-31bd-a915-f12a3ab8495e",
+    "cover": "/covers/473-barrio-fino.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 474,
+    "position": 474,
+    "title": "#1 Record",
+    "artist": "Big Star",
+    "year": 1972,
+    "decade": 1970,
+    "genres": [
+      "Power Pop",
+      "Rock"
+    ],
+    "musicbrainzId": "18ec10a7-864f-3f1b-8d68-5cb622165b20",
+    "cover": "/covers/474-1-record.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 475,
+    "position": 475,
+    "title": "Sheryl Crow",
+    "artist": "Sheryl Crow",
+    "year": 1996,
+    "decade": 1990,
+    "genres": [
+      "Rock",
+      "Alternative Rock",
+      "Country Rock",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "04ea2ea1-9ef0-4e57-8866-b2275be3ae21",
+    "cover": "/covers/475-sheryl-crow.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 476,
+    "position": 476,
+    "title": "Kimono My House",
+    "artist": "Sparks",
+    "year": 1974,
+    "decade": 1970,
+    "genres": [
+      "Glam Rock",
+      "Art Rock",
+      "Pop Rock",
+      "Art Pop",
+      "Bright"
+    ],
+    "musicbrainzId": "0539b843-2228-36f5-965d-f370d05f66c3",
+    "cover": "/covers/476-kimono-my-house.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 477,
+    "position": 477,
+    "title": "Moanin’ in the Moonlight",
+    "artist": "Howlin’ Wolf",
+    "year": 1959,
+    "decade": 1950,
+    "genres": [
+      "Chicago Blues",
+      "Blues"
+    ],
+    "musicbrainzId": "75d0f3a2-5938-3f4d-b845-174b81eace3b",
+    "cover": "/covers/477-moanin-in-the-moonlight.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 478,
+    "position": 478,
+    "title": "Something Else by the Kinks",
+    "artist": "The Kinks",
+    "year": 1968,
+    "decade": 1960,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 479,
+    "position": 479,
+    "title": "Amor Prohibido",
+    "artist": "Selena",
+    "year": 1994,
+    "decade": 1990,
+    "genres": [
+      "Latin",
+      "Cumbia",
+      "Tejano",
+      "Electronic",
+      "Pop"
+    ],
+    "musicbrainzId": "bc5e0495-4db9-3dae-9883-104d5df6b2cc",
+    "cover": "/covers/479-amor-prohibido.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 480,
+    "position": 480,
+    "title": "The Weight of These Wings",
+    "artist": "Miranda Lambert",
+    "year": 2016,
+    "decade": 2010,
+    "genres": [
+      "Country",
+      "Americana",
+      "Country Pop",
+      "Alternative Country",
+      "Double Album"
+    ],
+    "musicbrainzId": "6a9f6cf0-2316-46a7-b8e2-71d356ac737d",
+    "cover": "/covers/480-the-weight-of-these-wings.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 481,
+    "position": 481,
+    "title": "If You’re Feeling Sinister",
+    "artist": "Belle and Sebastian",
+    "year": 1996,
+    "decade": 1990,
+    "genres": [
+      "Indie Pop",
+      "Twee Pop",
+      "Chamber Pop",
+      "Rock",
+      "Indie Rock"
+    ],
+    "musicbrainzId": "66be5deb-75d5-3737-9037-1c745891d3ec",
+    "cover": "/covers/481-if-you-re-feeling-sinister.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 482,
+    "position": 482,
+    "title": "Bizarre Ride II the Pharcyde",
+    "artist": "The Pharcyde",
+    "year": 1992,
+    "decade": 1990,
+    "genres": [
+      "Hip-Hop",
+      "West Coast Hip Hop",
+      "Alternative Hip Hop",
+      "Boom Bap"
+    ],
+    "musicbrainzId": "c799ef0c-f038-364b-972b-51f52d794781",
+    "cover": "/covers/482-bizarre-ride-ii-the-pharcyde.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 483,
+    "position": 483,
+    "title": "The Anthology",
+    "artist": "Muddy Waters",
+    "year": 2001,
+    "decade": 2000,
+    "genres": [
+      "Blues",
+      "Chicago Blues"
+    ],
+    "musicbrainzId": "43c8d4a1-0e92-3600-ba93-d75359480498",
+    "cover": "/covers/483-the-anthology.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 484,
+    "position": 484,
+    "title": "Born This Way",
+    "artist": "Lady Gaga",
+    "year": 2011,
+    "decade": 2010,
+    "genres": [
+      "Pop",
+      "Dance Pop",
+      "Synth Pop",
+      "Electropop",
+      "Electro House"
+    ],
+    "musicbrainzId": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+    "cover": "/covers/484-born-this-way.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 485,
+    "position": 485,
+    "title": "I Want to See the Bright Lights Tonight",
+    "artist": "Richard and Linda Thompson",
+    "year": 1974,
+    "decade": 1970,
+    "genres": [
+      "Folk Rock",
+      "Folk",
+      "Rock"
+    ],
+    "musicbrainzId": "b35625b1-200d-3692-b02a-08bd4f693ef8",
+    "cover": "/covers/485-i-want-to-see-the-bright-lights-tonight.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 486,
+    "position": 486,
+    "title": "Continuum",
+    "artist": "John Mayer",
+    "year": 2006,
+    "decade": 2000,
+    "genres": [
+      "Alternative Rock",
+      "Blues",
+      "Rock",
+      "Pop Rock",
+      "Indie Rock"
+    ],
+    "musicbrainzId": "21e886f7-db66-3103-beb4-da9323adddc7",
+    "cover": "/covers/486-continuum.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 487,
+    "position": 487,
+    "title": "Damaged",
+    "artist": "Black Flag",
+    "year": 1981,
+    "decade": 1980,
+    "genres": [
+      "Hardcore Punk",
+      "Punk",
+      "Noise Rock"
+    ],
+    "musicbrainzId": "2cf40300-0f67-3136-9b84-57104f1f7a50",
+    "cover": "/covers/487-damaged.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 488,
+    "position": 488,
+    "title": "The Stooges",
+    "artist": "The Stooges",
+    "year": 1969,
+    "decade": 1960,
+    "genres": [
+      "Garage Rock",
+      "Rock",
+      "Punk",
+      "Hard Rock",
+      "Alternative And Punk"
+    ],
+    "musicbrainzId": "18037a41-2695-3a8f-a732-f6653a7f125b",
+    "cover": "/covers/488-the-stooges.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 489,
+    "position": 489,
+    "title": "Back to Mono (1958-1969)",
+    "artist": "Phil Spector and Various Artists",
+    "year": 1991,
+    "decade": 1990,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 490,
+    "position": 490,
+    "title": "Heart Like a Wheel",
+    "artist": "Linda Ronstadt",
+    "year": 1975,
+    "decade": 1970,
+    "genres": [],
+    "musicbrainzId": null,
+    "cover": "/covers/placeholder.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 491,
+    "position": 491,
+    "title": "Fine Line",
+    "artist": "Harry Styles",
+    "year": 2019,
+    "decade": 2010,
+    "genres": [
+      "Pop",
+      "Indie Pop",
+      "English",
+      "Offizielle Charts",
+      "Jahrescharts 2021"
+    ],
+    "musicbrainzId": "b9990da8-7953-4e64-aea5-065ca9cd3cb7",
+    "cover": "/covers/491-fine-line.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 492,
+    "position": 492,
+    "title": "Nick of Time",
+    "artist": "Bonnie Raitt",
+    "year": 1989,
+    "decade": 1980,
+    "genres": [
+      "Blues Rock",
+      "Adult Contemporary",
+      "Rock",
+      "Pop Rock",
+      "Americana"
+    ],
+    "musicbrainzId": "182a8072-0513-3aa2-b812-9f7a9692731a",
+    "cover": "/covers/492-nick-of-time.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 493,
+    "position": 493,
+    "title": "Here, My Dear",
+    "artist": "Marvin Gaye",
+    "year": 1978,
+    "decade": 1970,
+    "genres": [
+      "Soul",
+      "Smooth Soul"
+    ],
+    "musicbrainzId": "225a6648-d4d2-3b89-986b-6e515e7a94f0",
+    "cover": "/covers/493-here-my-dear.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 494,
+    "position": 494,
+    "title": "Presenting the Fabulous Ronettes",
+    "artist": "The Ronettes",
+    "year": 1964,
+    "decade": 1960,
+    "genres": [
+      "Rock",
+      "Pop",
+      "Girl Group",
+      "Baroque Pop",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "b24ffd1d-1cbc-32bd-bf45-b76b30792b8d",
+    "cover": "/covers/494-presenting-the-fabulous-ronettes.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 495,
+    "position": 495,
+    "title": "II",
+    "artist": "Boyz II Men",
+    "year": 1991,
+    "decade": 1990,
+    "genres": [
+      "Contemporary R And B",
+      "Hip-Hop",
+      "R&B",
+      "New Jack Swing",
+      "Pop"
+    ],
+    "musicbrainzId": "6eaebb45-8911-3d0b-8ef3-914726356144",
+    "cover": "/covers/495-ii.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 496,
+    "position": 496,
+    "title": "Dónde Están los Ladrones",
+    "artist": "Shakira",
+    "year": 1998,
+    "decade": 1990,
+    "genres": [
+      "Latin",
+      "Rock",
+      "Latin Pop",
+      "Pop",
+      "Pop Rock"
+    ],
+    "musicbrainzId": "3197ee5d-696e-374f-8df3-042f1c0fd3a5",
+    "cover": "/covers/496-donde-estan-los-ladrones.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 497,
+    "position": 497,
+    "title": "The Indestructible Beat of Soweto",
+    "artist": "Various Artists",
+    "year": 1985,
+    "decade": 1980,
+    "genres": [
+      "Mbaqanga"
+    ],
+    "musicbrainzId": "afa0750e-eee6-320f-845a-ad0ae891bd9b",
+    "cover": "/covers/497-the-indestructible-beat-of-soweto.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 498,
+    "position": 498,
+    "title": "Suicide",
+    "artist": "Suicide",
+    "year": 1977,
+    "decade": 1970,
+    "genres": [
+      "No Wave",
+      "Electronic",
+      "Electropunk",
+      "Minimal Synth",
+      "Synth Punk"
+    ],
+    "musicbrainzId": "702d4a53-9f00-3f57-a723-e5e267518454",
+    "cover": "/covers/498-suicide.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 499,
+    "position": 499,
+    "title": "Ask Rufus",
+    "artist": "Rufus Featuring Chaka Khan",
+    "year": 1977,
+    "decade": 1970,
+    "genres": [
+      "Funk",
+      "Soul",
+      "R&B",
+      "Funk Soul"
+    ],
+    "musicbrainzId": "cb6327b8-4ef5-3ca2-bbe2-260473c457cd",
+    "cover": "/covers/499-ask-rufus.webp",
+    "spotifyUrl": null
+  },
+  {
+    "id": 500,
+    "position": 500,
+    "title": "Funeral",
+    "artist": "Arcade Fire",
+    "year": 2004,
+    "decade": 2000,
+    "genres": [
+      "Indie Rock",
+      "Chamber Pop",
+      "Art Pop",
+      "Rock",
+      "Concept Album"
+    ],
+    "musicbrainzId": "05affa96-5959-32da-8d75-1c9eb985ca59",
+    "cover": "/covers/500-funeral.webp",
+    "spotifyUrl": null
+  }
+]

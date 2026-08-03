@@ -1,0 +1,3810 @@
+{
+  "summary": {
+    "total": 500,
+    "automaticMatches": 465,
+    "overrideMatches": 0,
+    "missingMusicBrainz": 35,
+    "missingCovers": 38,
+    "lowConfidence": 44,
+    "networkErrors": 15
+  },
+  "automaticMatches": [
+    {
+      "position": 1,
+      "title": "What's Going On",
+      "artist": "Marvin Gaye",
+      "musicbrainzId": "c1fa4d2c-ec62-37d5-b01d-6df7f8fd2c90"
+    },
+    {
+      "position": 2,
+      "title": "Pet Sounds",
+      "artist": "The Beach Boys",
+      "musicbrainzId": "fdd96703-7b21-365e-bdea-38029fbeb84e"
+    },
+    {
+      "position": 3,
+      "title": "Blue",
+      "artist": "Joni Mitchell",
+      "musicbrainzId": "42d725fb-a8b7-388c-8866-3b02789af326"
+    },
+    {
+      "position": 4,
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "musicbrainzId": "ea88b09b-fd34-33cf-a3e5-25a3a2fb4c6f"
+    },
+    {
+      "position": 5,
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "musicbrainzId": "9162580e-5df4-32de-80cc-f45a8d8a9b1d"
+    },
+    {
+      "position": 6,
+      "title": "Nevermind",
+      "artist": "Nirvana",
+      "musicbrainzId": "1b022e01-4da6-387b-8658-8678046e4cef"
+    },
+    {
+      "position": 7,
+      "title": "Rumours",
+      "artist": "Fleetwood Mac",
+      "musicbrainzId": "416bb5e5-c7d1-3977-8fd7-7c9daf6c2be6"
+    },
+    {
+      "position": 8,
+      "title": "Purple Rain",
+      "artist": "Prince and the Revolution",
+      "musicbrainzId": "b93a7c47-a6d4-33f2-9034-53fdd991f4ba"
+    },
+    {
+      "position": 9,
+      "title": "Blood on the Tracks",
+      "artist": "Bob Dylan",
+      "musicbrainzId": "9c1b8072-eb1d-33d2-af8c-984d46e40902"
+    },
+    {
+      "position": 10,
+      "title": "The Miseducation of Lauryn Hill",
+      "artist": "Lauryn Hill",
+      "musicbrainzId": "8691d12c-abd8-385c-b1eb-d841190124f7"
+    },
+    {
+      "position": 11,
+      "title": "Revolver",
+      "artist": "The Beatles",
+      "musicbrainzId": "72d15666-99a7-321e-b1f3-a3f8c09dff9f"
+    },
+    {
+      "position": 12,
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "musicbrainzId": "f32fab67-77dd-3937-addc-9062e28e4c37"
+    },
+    {
+      "position": 13,
+      "title": "I Never Loved a Man the Way I Love You",
+      "artist": "Aretha Franklin",
+      "musicbrainzId": "7d8f07a7-4c64-3afb-8daf-8f1d4df89a78"
+    },
+    {
+      "position": 14,
+      "title": "Exile on Main Street",
+      "artist": "The Rolling Stones",
+      "musicbrainzId": "83e19aeb-43ce-47b3-bc13-ac8241d5a3e4"
+    },
+    {
+      "position": 15,
+      "title": "It Takes a Nation of Millions to Hold Us Back",
+      "artist": "Public Enemy",
+      "musicbrainzId": "01921d99-9d15-3fce-8734-46e58327cfb7"
+    },
+    {
+      "position": 16,
+      "title": "London Calling",
+      "artist": "The Clash",
+      "musicbrainzId": "8d73e45e-7ca1-3cb4-ae28-6da76196c17c"
+    },
+    {
+      "position": 17,
+      "title": "My Beautiful Dark Twisted Fantasy",
+      "artist": "Kanye West",
+      "musicbrainzId": "5d6e21e1-deb5-428e-bb42-c2a567f3619b"
+    },
+    {
+      "position": 18,
+      "title": "Highway 61 Revisited",
+      "artist": "Bob Dylan",
+      "musicbrainzId": "fb48b1dc-412f-36aa-8820-1023c08c46c6"
+    },
+    {
+      "position": 19,
+      "title": "To Pimp a Butterfly",
+      "artist": "Kendrick Lamar",
+      "musicbrainzId": "d9103c72-3807-4378-9ce7-b6f3e8fdd547"
+    },
+    {
+      "position": 20,
+      "title": "Kid A",
+      "artist": "Radiohead",
+      "musicbrainzId": "e75c0549-ad55-39e3-8025-c72c5d4a3c5d"
+    },
+    {
+      "position": 21,
+      "title": "Born to Run",
+      "artist": "Bruce Springsteen",
+      "musicbrainzId": "39b22944-7503-3937-8bba-09b17281cc6a"
+    },
+    {
+      "position": 22,
+      "title": "Ready to Die",
+      "artist": "The Notorious B.I.G.",
+      "musicbrainzId": "5afcfeac-118a-35e6-af0d-35ec9003354d"
+    },
+    {
+      "position": 23,
+      "title": "The Velvet Underground and Nico",
+      "artist": "The Velvet Underground",
+      "musicbrainzId": "5cbd9d7b-597a-3c5e-bfd1-c2b364215560"
+    },
+    {
+      "position": 24,
+      "title": "Sgt. Pepper’s Lonely Hearts Club Band",
+      "artist": "The Beatles",
+      "musicbrainzId": "9f7a4c28-8fa2-3113-929c-c47a9f7982c3"
+    },
+    {
+      "position": 25,
+      "title": "Tapestry",
+      "artist": "Carole King",
+      "musicbrainzId": "6e4f39e6-3403-39d7-81c6-8e61a990d509"
+    },
+    {
+      "position": 26,
+      "title": "Horses",
+      "artist": "Patti Smith",
+      "musicbrainzId": "ff8f533c-3cb3-3877-9209-11f433edaad2"
+    },
+    {
+      "position": 27,
+      "title": "Enter the Wu-Tang(36 Chambers)",
+      "artist": "Wu-Tang Clan",
+      "musicbrainzId": "610fb60f-900a-3c42-ac7d-f6b6aa8035f9"
+    },
+    {
+      "position": 28,
+      "title": "Voodoo",
+      "artist": "D’Angelo",
+      "musicbrainzId": "9605c075-c64c-366b-ad7f-ec98523fc162"
+    },
+    {
+      "position": 29,
+      "title": "White Album",
+      "artist": "The Beatles",
+      "musicbrainzId": "d619fd21-b150-3f8f-b85e-8975bddc08de"
+    },
+    {
+      "position": 30,
+      "title": "Are You Experienced",
+      "artist": "Jimi Hendrix",
+      "musicbrainzId": "da40e720-2097-3730-8a7f-0c2ddbff4a96"
+    },
+    {
+      "position": 31,
+      "title": "Kind of Blue",
+      "artist": "Miles Davis",
+      "musicbrainzId": "8e8a594f-2175-38c7-a871-abb68ec363e7"
+    },
+    {
+      "position": 32,
+      "title": "Lemonade",
+      "artist": "Beyoncé",
+      "musicbrainzId": "c1f22e07-7bdf-4a4f-8b50-7747c1091ef6"
+    },
+    {
+      "position": 33,
+      "title": "Back to Black",
+      "artist": "Amy Winehouse",
+      "musicbrainzId": "6eac2e57-ee50-36f8-b0c4-c4c847a2c098"
+    },
+    {
+      "position": 34,
+      "title": "Innervisions",
+      "artist": "Stevie Wonder",
+      "musicbrainzId": "e626b377-74c5-3b97-8f16-8cef5e1c04ea"
+    },
+    {
+      "position": 35,
+      "title": "Rubber Soul",
+      "artist": "The Beatles",
+      "musicbrainzId": "dca03435-8adb-30a5-ba82-5a162267ff38"
+    },
+    {
+      "position": 36,
+      "title": "Off the Wall",
+      "artist": "Michael Jackson",
+      "musicbrainzId": "ee749c63-5699-38e0-b565-7e84414648d9"
+    },
+    {
+      "position": 37,
+      "title": "The Chronic",
+      "artist": "Dr. Dre",
+      "musicbrainzId": "ad444843-7160-33d7-b0c9-fc99f2c14a99"
+    },
+    {
+      "position": 38,
+      "title": "Blonde on Blonde",
+      "artist": "Bob Dylan",
+      "musicbrainzId": "329fb554-2a81-3d8a-8e22-ec2c66810019"
+    },
+    {
+      "position": 39,
+      "title": "Remain in Light",
+      "artist": "Talking Heads",
+      "musicbrainzId": "f6b1b900-6108-32f0-abbd-2855af9151eb"
+    },
+    {
+      "position": 40,
+      "title": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
+      "artist": "David Bowie",
+      "musicbrainzId": "6c9ae3dd-32ad-472c-96be-69d0a3536261"
+    },
+    {
+      "position": 41,
+      "title": "Let It Bleed",
+      "artist": "The Rolling Stones",
+      "musicbrainzId": "784c0edd-0f37-33a2-9ca5-dff87b4f999c"
+    },
+    {
+      "position": 42,
+      "title": "OK Computer",
+      "artist": "Radiohead",
+      "musicbrainzId": "b1392450-e666-3926-a536-22c65f834433"
+    },
+    {
+      "position": 43,
+      "title": "The Low End Theory",
+      "artist": "A Tribe Called Quest",
+      "musicbrainzId": "c3733436-fcba-3c08-b082-d548df5c5139"
+    },
+    {
+      "position": 44,
+      "title": "Illmatic",
+      "artist": "Nas",
+      "musicbrainzId": "28298e2c-4d70-3eed-a0f5-a3280c662b3d"
+    },
+    {
+      "position": 45,
+      "title": "Sign O' the Times",
+      "artist": "Prince",
+      "musicbrainzId": "a47f26f1-6166-46bd-9612-cb4c327ffe5f"
+    },
+    {
+      "position": 46,
+      "title": "Graceland",
+      "artist": "Paul Simon",
+      "musicbrainzId": "19847822-1430-3380-9cf1-bc45545b34ac"
+    },
+    {
+      "position": 47,
+      "title": "Ramones",
+      "artist": "Ramones",
+      "musicbrainzId": "7de1e321-4a53-3feb-b83e-f1dab88bf952"
+    },
+    {
+      "position": 48,
+      "title": "Legend",
+      "artist": "Bob Marley and the Wailers",
+      "musicbrainzId": "1a4c52cd-483a-347c-93f9-4d512767c7ba"
+    },
+    {
+      "position": 49,
+      "title": "Aquemini",
+      "artist": "OutKast",
+      "musicbrainzId": "eb655897-6cc5-3fc1-b9ed-5008eb80c682"
+    },
+    {
+      "position": 50,
+      "title": "The Blueprint",
+      "artist": "Jay-Z",
+      "musicbrainzId": "11ae8c9c-27c1-3308-9761-edb87c8f54ea"
+    },
+    {
+      "position": 51,
+      "title": "The Great Twenty-Eight",
+      "artist": "Chuck Berry",
+      "musicbrainzId": "d7da8113-a582-3656-9412-74e17a9a447e"
+    },
+    {
+      "position": 52,
+      "title": "Station to Station",
+      "artist": "David Bowie",
+      "musicbrainzId": "686cdbd1-b400-32d8-8cb8-9317a2e41a58"
+    },
+    {
+      "position": 53,
+      "title": "Electric Ladyland",
+      "artist": "Jimi Hendrix",
+      "musicbrainzId": "47ba2d59-5544-34a4-b108-dc08c0956298"
+    },
+    {
+      "position": 54,
+      "title": "Star Time",
+      "artist": "James Brown",
+      "musicbrainzId": "7f5132f0-1d58-3d83-be6a-e32d22219e17"
+    },
+    {
+      "position": 55,
+      "title": "The Dark Side of the Moon",
+      "artist": "Pink Floyd",
+      "musicbrainzId": "f5093c06-23e3-404f-aeaa-40f72885ee3a"
+    },
+    {
+      "position": 56,
+      "title": "Exile in Guyville",
+      "artist": "Liz Phair",
+      "musicbrainzId": "c186db82-9988-367e-8486-2e38e9b6c8db"
+    },
+    {
+      "position": 57,
+      "title": "The Band",
+      "artist": "The Band",
+      "musicbrainzId": "ea337405-285f-3846-9049-5e3addf149fc"
+    },
+    {
+      "position": 58,
+      "title": "Led Zeppelin IV",
+      "artist": "Led Zeppelin",
+      "musicbrainzId": "2e61da88-39e9-3473-81d2-c964cb394952"
+    },
+    {
+      "position": 59,
+      "title": "Talking Book",
+      "artist": "Stevie Wonder",
+      "musicbrainzId": "58c6d809-bfa7-3b25-acf3-a99d53402b08"
+    },
+    {
+      "position": 60,
+      "title": "Astral Weeks",
+      "artist": "Van Morrison",
+      "musicbrainzId": "7d568f14-d86e-3584-97d0-c1824599de04"
+    },
+    {
+      "position": 61,
+      "title": "Paid in Full",
+      "artist": "Eric B. and Rakim",
+      "musicbrainzId": "e124668d-731c-3d2f-bd38-facf91df5e27"
+    },
+    {
+      "position": 62,
+      "title": "Appetite for Destruction",
+      "artist": "Guns N’ Roses",
+      "musicbrainzId": "a0b94d0a-210b-4b15-bd1d-93be2196c14a"
+    },
+    {
+      "position": 63,
+      "title": "Aja",
+      "artist": "Steely Dan",
+      "musicbrainzId": "8588c5a5-b491-37a4-8d51-2227346a072e"
+    },
+    {
+      "position": 64,
+      "title": "Stankonia",
+      "artist": "OutKast",
+      "musicbrainzId": "00d2cd53-21c9-3738-b683-56847b7b0040"
+    },
+    {
+      "position": 65,
+      "title": "Live at the Apollo",
+      "artist": "James Brown",
+      "musicbrainzId": "a2bad96f-a572-38f2-b362-5865dedc0d35"
+    },
+    {
+      "position": 66,
+      "title": "A Love Supreme",
+      "artist": "John Coltrane",
+      "musicbrainzId": "77cf47ba-58cd-3f3d-a5f9-79bf89860421"
+    },
+    {
+      "position": 67,
+      "title": "Reasonable Doubt",
+      "artist": "Jay-Z",
+      "musicbrainzId": "a7f852ba-08bc-36f1-92f3-4dc127f4b70a"
+    },
+    {
+      "position": 68,
+      "title": "Hounds of Love",
+      "artist": "Kate Bush",
+      "musicbrainzId": "017f2a37-a78f-3578-9611-fa40408e5d90"
+    },
+    {
+      "position": 69,
+      "title": "Jagged Little Pill",
+      "artist": "Alanis Morissette",
+      "musicbrainzId": "ee3d18ed-d6a8-37c7-a964-41bbdb6d59f1"
+    },
+    {
+      "position": 70,
+      "title": "Straight Outta Compton",
+      "artist": "N.W.A",
+      "musicbrainzId": "fed1608d-80b7-38d2-aeb8-c6357f0d4c23"
+    },
+    {
+      "position": 71,
+      "title": "Exodus",
+      "artist": "Bob Marley and the Wailers",
+      "musicbrainzId": "c5650313-60f3-34d3-92e4-300545133792"
+    },
+    {
+      "position": 72,
+      "title": "Harvest",
+      "artist": "Neil Young",
+      "musicbrainzId": "b25419cf-71bf-3a54-8cd4-2161c61056a0"
+    },
+    {
+      "position": 73,
+      "title": "Loveless",
+      "artist": "My Bloody Valentine",
+      "musicbrainzId": "cb76227e-3ac0-3002-9a10-615a5b73cc59"
+    },
+    {
+      "position": 74,
+      "title": "The College Dropout",
+      "artist": "Kanye West",
+      "musicbrainzId": "8a01217e-6947-3927-a39b-6691104694f1"
+    },
+    {
+      "position": 75,
+      "title": "Lady Soul",
+      "artist": "Aretha Franklin",
+      "musicbrainzId": "05571372-5b11-39b7-89c5-1c02589a27c8"
+    },
+    {
+      "position": 76,
+      "title": "Superfly",
+      "artist": "Curtis Mayfield",
+      "musicbrainzId": "3f68cf91-b4f0-39ef-8318-93dc064a53ba"
+    },
+    {
+      "position": 77,
+      "title": "Who's Next",
+      "artist": "The Who",
+      "musicbrainzId": "9584e28b-66a7-3846-8d52-b3008a283539"
+    },
+    {
+      "position": 78,
+      "title": "The Sun Sessions",
+      "artist": "Elvis Presley",
+      "musicbrainzId": "2ac479cc-0126-3709-bb55-7028e4c559ef"
+    },
+    {
+      "position": 81,
+      "title": "Beyoncé",
+      "artist": "Beyoncé",
+      "musicbrainzId": "8596171e-23b2-4bdd-8f1c-11960df0ecbe"
+    },
+    {
+      "position": 82,
+      "title": "There’s a Riot Goin’ On",
+      "artist": "Sly and the Family Stone",
+      "musicbrainzId": "d8b8448a-2634-3e92-ac86-cf55e018f825"
+    },
+    {
+      "position": 83,
+      "title": "Dusty in Memphis",
+      "artist": "Dusty Springfield",
+      "musicbrainzId": "aac8700b-8f62-30fc-ac2a-23b6cb37e3c3"
+    },
+    {
+      "position": 84,
+      "title": "Back in Black",
+      "artist": "AC/DC",
+      "musicbrainzId": "d3bc1a64-7561-3787-b680-0003aa50f8f1"
+    },
+    {
+      "position": 85,
+      "title": "Plastic Ono Band",
+      "artist": "John Lennon",
+      "musicbrainzId": "8be83468-4917-390d-82b6-d890f058cd22"
+    },
+    {
+      "position": 86,
+      "title": "The Doors",
+      "artist": "The Doors",
+      "musicbrainzId": "8ebffd15-06c3-3b88-a761-ec18c5513287"
+    },
+    {
+      "position": 87,
+      "title": "Bitches Brew",
+      "artist": "Miles Davis",
+      "musicbrainzId": "a9e30282-5b37-3f92-b897-b9659a1a312b"
+    },
+    {
+      "position": 88,
+      "title": "Hunky Dory",
+      "artist": "David Bowie",
+      "musicbrainzId": "743b0b2e-a23a-3182-950e-232f8cb0dfb7"
+    },
+    {
+      "position": 89,
+      "title": "Baduizm",
+      "artist": "Erykah Badu",
+      "musicbrainzId": "45536412-c62c-34fc-9524-0bac1d2542c1"
+    },
+    {
+      "position": 90,
+      "title": "After the Gold Rush",
+      "artist": "Neil Young",
+      "musicbrainzId": "b6a3952b-9977-351c-a80a-73e023143858"
+    },
+    {
+      "position": 91,
+      "title": "Darkness on the Edge of Town",
+      "artist": "Bruce Springsteen",
+      "musicbrainzId": "b613123b-a234-3f48-9c45-e05bf4e6b9e7"
+    },
+    {
+      "position": 92,
+      "title": "Axis: Bold as Love",
+      "artist": "The Jimi Hendrix Experience",
+      "musicbrainzId": "d0b1e21e-cef6-4575-8d92-1afea1894ca3"
+    },
+    {
+      "position": 93,
+      "title": "Supa Dupa Fly",
+      "artist": "Missy “Misdemeanor” Elliott",
+      "musicbrainzId": "45a68d94-6923-38c1-a6dd-4cfc1cdc193a"
+    },
+    {
+      "position": 94,
+      "title": "Fun House",
+      "artist": "The Stooges",
+      "musicbrainzId": "edd57263-df77-3f1a-8803-8beb5d5b1a64"
+    },
+    {
+      "position": 95,
+      "title": "Take Care",
+      "artist": "Drake",
+      "musicbrainzId": "47809021-4515-4215-beea-db3f5dfb6267"
+    },
+    {
+      "position": 96,
+      "title": "Automatic for the People",
+      "artist": "R.E.M.",
+      "musicbrainzId": "c86c6af9-d10e-3079-b34b-30b682a797eb"
+    },
+    {
+      "position": 97,
+      "title": "Master of Puppets",
+      "artist": "Metallica",
+      "musicbrainzId": "3d00fb45-f8ab-3436-a8e1-b4bfc4d66913"
+    },
+    {
+      "position": 98,
+      "title": "Car Wheels on a Gravel Road",
+      "artist": "Lucinda Williams",
+      "musicbrainzId": "493de006-33bf-3404-9bb7-1f3b0c22ce05"
+    },
+    {
+      "position": 99,
+      "title": "Red",
+      "artist": "Taylor Swift",
+      "musicbrainzId": "a73cecde-0923-40ad-aad1-e8c24ba6c3d2"
+    },
+    {
+      "position": 100,
+      "title": "Music From Big Pink",
+      "artist": "The Band",
+      "musicbrainzId": "466fddac-8006-3e71-bbe7-7aa0f587aa88"
+    },
+    {
+      "position": 101,
+      "title": "Led Zeppelin",
+      "artist": "Led Zeppelin",
+      "musicbrainzId": "0f18ec88-aa87-38a9-8a65-f03d81763560"
+    },
+    {
+      "position": 102,
+      "title": "The Clash",
+      "artist": "The Clash",
+      "musicbrainzId": "ca91cb5a-7ecc-3c46-84a0-0d4951889374"
+    },
+    {
+      "position": 104,
+      "title": "Sticky Fingers",
+      "artist": "The Rolling Stones",
+      "musicbrainzId": "4a4213d0-f224-3d51-bcca-476f61162681"
+    },
+    {
+      "position": 105,
+      "title": "At Fillmore East",
+      "artist": "The Allman Brothers",
+      "musicbrainzId": "d757b87e-4a3b-38ec-9246-548baeff5ceb"
+    },
+    {
+      "position": 106,
+      "title": "Live Through This",
+      "artist": "Hole",
+      "musicbrainzId": "fe676d05-f97c-303a-890b-da53c69e5d42"
+    },
+    {
+      "position": 107,
+      "title": "Marquee Moon",
+      "artist": "Television",
+      "musicbrainzId": "2b9f99d8-becf-3fc3-86a6-2bdd4cef93fe"
+    },
+    {
+      "position": 109,
+      "title": "Transformer",
+      "artist": "Lou Reed",
+      "musicbrainzId": "6c8345df-f822-33af-b64a-eff2e46941b9"
+    },
+    {
+      "position": 110,
+      "title": "Court and Spark",
+      "artist": "Joni Mitchell",
+      "musicbrainzId": "3bd19e28-698e-3b7e-a8ec-f872bf001651"
+    },
+    {
+      "position": 111,
+      "title": "Control",
+      "artist": "Janet Jackson",
+      "musicbrainzId": "b23d3137-df51-3047-a6a5-b5efbde50f22"
+    },
+    {
+      "position": 112,
+      "title": "Goodbye Yellow Brick Road",
+      "artist": "Elton John",
+      "musicbrainzId": "80df0f1b-4ce7-348a-aa1b-0d31ebff111a"
+    },
+    {
+      "position": 113,
+      "title": "The Queen Is Dead",
+      "artist": "The Smiths",
+      "musicbrainzId": "d8dde278-482c-3cc8-a530-fea70476f3a5"
+    },
+    {
+      "position": 114,
+      "title": "Is This It",
+      "artist": "The Strokes",
+      "musicbrainzId": "efea26d1-a016-30f6-b8e2-bc8c02336b0a"
+    },
+    {
+      "position": 115,
+      "title": "good kid, m.A.A.d city",
+      "artist": "Kendrick Lamar",
+      "musicbrainzId": "499c19c8-0dab-4824-884b-6191d145e95b"
+    },
+    {
+      "position": 116,
+      "title": "Disintegration",
+      "artist": "The Cure",
+      "musicbrainzId": "494bf606-d2f7-36d0-8340-eadad8601d2b"
+    },
+    {
+      "position": 117,
+      "title": "Late Registration",
+      "artist": "Kanye West",
+      "musicbrainzId": "c563d738-3841-31ce-b29d-ec6b40fd1e7b"
+    },
+    {
+      "position": 119,
+      "title": "Stand!",
+      "artist": "Sly and the Family Stone",
+      "musicbrainzId": "86871123-60e4-30a5-aae3-36e810e0964b"
+    },
+    {
+      "position": 120,
+      "title": "Moondance",
+      "artist": "Van Morrison",
+      "musicbrainzId": "16506432-d133-3b2f-a504-dc88966dad2a"
+    },
+    {
+      "position": 121,
+      "title": "This Year’s Model",
+      "artist": "Elvis Costello",
+      "musicbrainzId": "5e8117f4-a87f-3732-be5f-313c7e5b308d"
+    },
+    {
+      "position": 122,
+      "title": "The Downward Spiral",
+      "artist": "Nine Inch Nails",
+      "musicbrainzId": "7c4cab8d-dead-3870-b501-93c90fd0a580"
+    },
+    {
+      "position": 123,
+      "title": "Led Zeppelin II",
+      "artist": "Led Zeppelin",
+      "musicbrainzId": "33b4653d-006e-3cc1-8afb-386b15a6cd6e"
+    },
+    {
+      "position": 124,
+      "title": "Achtung Baby",
+      "artist": "U2",
+      "musicbrainzId": "744c7a1b-ac79-35c4-bd92-7e2c6a24c8d8"
+    },
+    {
+      "position": 125,
+      "title": "Paul's Boutique",
+      "artist": "Beastie Boys",
+      "musicbrainzId": "b534aa01-d621-31ba-9278-38a500e3cdca"
+    },
+    {
+      "position": 126,
+      "title": "My Life",
+      "artist": "Mary J. Blige",
+      "musicbrainzId": "49acb129-7958-3132-988c-bb85955b1c3c"
+    },
+    {
+      "position": 127,
+      "title": "Modern Sounds in Country and Western Music",
+      "artist": "Ray Charles",
+      "musicbrainzId": "38671d62-32bd-399d-abbd-0f685c2fd4a3"
+    },
+    {
+      "position": 128,
+      "title": "A Night at the Opera",
+      "artist": "Queen",
+      "musicbrainzId": "6b47c9a0-b9e1-3df9-a5e8-50a6ce0dbdbd"
+    },
+    {
+      "position": 129,
+      "title": "The Wall",
+      "artist": "Pink Floyd",
+      "musicbrainzId": "f2026101-945b-3d05-9ef4-aa718fc3feef"
+    },
+    {
+      "position": 130,
+      "title": "1999",
+      "artist": "Prince",
+      "musicbrainzId": "561be5b7-a39c-3866-859d-d86f30816ae7"
+    },
+    {
+      "position": 131,
+      "title": "Dummy",
+      "artist": "Portishead",
+      "musicbrainzId": "48140466-cff6-3222-bd55-63c27e43190d"
+    },
+    {
+      "position": 132,
+      "title": "40 Greatest Hits",
+      "artist": "Hank Williams",
+      "musicbrainzId": "4a48eaed-2b09-3147-b310-187bfc692849"
+    },
+    {
+      "position": 133,
+      "title": "Hejira",
+      "artist": "Joni Mitchell",
+      "musicbrainzId": "039f2ae4-36dd-3608-9103-67ce7f6c9288"
+    },
+    {
+      "position": 134,
+      "title": "The Score",
+      "artist": "Fugees",
+      "musicbrainzId": "dd2203dd-a149-316b-ad7f-a303dc4fc459"
+    },
+    {
+      "position": 135,
+      "title": "The Joshua Tree",
+      "artist": "U2",
+      "musicbrainzId": "6f3e9fa6-be7a-3de8-a2b2-2072ece8a54d"
+    },
+    {
+      "position": 136,
+      "title": "Maggot Brain",
+      "artist": "Funkadelic",
+      "musicbrainzId": "a334e612-e736-3b4f-82b4-c4dfb774983c"
+    },
+    {
+      "position": 137,
+      "title": "21",
+      "artist": "Adele",
+      "musicbrainzId": "e4174758-d333-4a8e-a31f-dd0edd51518e"
+    },
+    {
+      "position": 138,
+      "title": "The Immaculate Collection",
+      "artist": "Madonna",
+      "musicbrainzId": "b14e9927-081e-4a07-b0f7-8ddf22319b27"
+    },
+    {
+      "position": 139,
+      "title": "Paranoid",
+      "artist": "Black Sabbath",
+      "musicbrainzId": "cc053745-c447-3566-8f27-bed5438c9133"
+    },
+    {
+      "position": 141,
+      "title": "Doolittle",
+      "artist": "Pixies",
+      "musicbrainzId": "1aa41b19-5a72-341b-bd91-4cf61d1dab6b"
+    },
+    {
+      "position": 142,
+      "title": "Born in the U.S.A.",
+      "artist": "Bruce Springsteen",
+      "musicbrainzId": "3c39a076-8e52-38f2-8076-260d0672fb23"
+    },
+    {
+      "position": 143,
+      "title": "The Velvet Underground",
+      "artist": "The Velvet Underground",
+      "musicbrainzId": "a616dcf5-7a1f-3afe-a53b-27281c2bf75e"
+    },
+    {
+      "position": 144,
+      "title": "Physical Graffiti",
+      "artist": "Led Zeppelin",
+      "musicbrainzId": "116c9490-6af4-3827-8261-2d5b1f508fe7"
+    },
+    {
+      "position": 145,
+      "title": "The Marshall Mathers LP",
+      "artist": "Eminem",
+      "musicbrainzId": "b0fa91c8-0996-38f1-ab84-797f58d7c4eb"
+    },
+    {
+      "position": 146,
+      "title": "Parallel Lines",
+      "artist": "Blondie",
+      "musicbrainzId": "0c1a4d70-5926-3ae8-aa25-466fe65639fe"
+    },
+    {
+      "position": 147,
+      "title": "Grace",
+      "artist": "Jeff Buckley",
+      "musicbrainzId": "ea29c347-696f-3165-986d-7bad1394b178"
+    },
+    {
+      "position": 148,
+      "title": "Channel Orange",
+      "artist": "Frank Ocean",
+      "musicbrainzId": "f8f4167d-897c-4b25-a171-638374d1dfa4"
+    },
+    {
+      "position": 149,
+      "title": "John Prine",
+      "artist": "John Prine",
+      "musicbrainzId": "a13154a4-14a1-3344-ae14-3bea728ebe58"
+    },
+    {
+      "position": 150,
+      "title": "Nebraska",
+      "artist": "Bruce Springsteen",
+      "musicbrainzId": "324aee0c-36ec-35c1-9c93-b67a1d428037"
+    },
+    {
+      "position": 151,
+      "title": "Faith",
+      "artist": "George Michael",
+      "musicbrainzId": "4e61585f-f341-3174-85cf-afad8df46fbe"
+    },
+    {
+      "position": 153,
+      "title": "Rid of Me",
+      "artist": "PJ Harvey",
+      "musicbrainzId": "c1bb54cc-751d-300c-ba29-d7502d571c2d"
+    },
+    {
+      "position": 154,
+      "title": "Amazing Grace",
+      "artist": "Aretha Franklin",
+      "musicbrainzId": "9e9b6cb5-2398-3aa7-b0c3-80c73e30b663"
+    },
+    {
+      "position": 155,
+      "title": "The Black Album",
+      "artist": "Jay-Z",
+      "musicbrainzId": "77befaa0-662e-3d84-ba45-c862e16dc109"
+    },
+    {
+      "position": 156,
+      "title": "Let It Be",
+      "artist": "The Replacements",
+      "musicbrainzId": "2c644807-3b5d-39d4-8c65-dec603bf3f3a"
+    },
+    {
+      "position": 157,
+      "title": "(What's the Story) Morning Glory?",
+      "artist": "Oasis",
+      "musicbrainzId": "cc7e6348-cc55-31fa-aeb2-748a46a81cb3"
+    },
+    {
+      "position": 158,
+      "title": "Mama's Gun",
+      "artist": "Erykah Badu",
+      "musicbrainzId": "25bdfd28-72ca-3d1f-88fc-dcf67df91720"
+    },
+    {
+      "position": 159,
+      "title": "Synchronicity",
+      "artist": "The Police",
+      "musicbrainzId": "f6df6292-fd40-37c3-bd61-22c53abfe773"
+    },
+    {
+      "position": 160,
+      "title": "Ten",
+      "artist": "Pearl Jam",
+      "musicbrainzId": "cea5d18a-1924-3cda-bebc-38933834b25d"
+    },
+    {
+      "position": 161,
+      "title": "Crosby, Stills & Nash",
+      "artist": "Crosby, Stills & Nash",
+      "musicbrainzId": "a2735d5f-27c0-3176-85df-e77f669dcca1"
+    },
+    {
+      "position": 162,
+      "title": "Different Class",
+      "artist": "Pulp",
+      "musicbrainzId": "88f69eab-8f07-343b-847c-b944ad33dfcf"
+    },
+    {
+      "position": 163,
+      "title": "Saturday Night Fever",
+      "artist": "Various Artists",
+      "musicbrainzId": "6e9a06a8-c8bb-3ea9-877a-417e74bb1c2e"
+    },
+    {
+      "position": 164,
+      "title": "At Folsom Prison",
+      "artist": "Johnny Cash",
+      "musicbrainzId": "6b4ea595-3378-3019-be5f-058412670791"
+    },
+    {
+      "position": 165,
+      "title": "Murmur",
+      "artist": "R.E.M.",
+      "musicbrainzId": "de790d3d-a35c-364c-a8fb-adfb73084a45"
+    },
+    {
+      "position": 166,
+      "title": "20 Golden Greats",
+      "artist": "Buddy Holly",
+      "musicbrainzId": "5e762b33-2f63-3124-9912-251dbb1c0a83"
+    },
+    {
+      "position": 167,
+      "title": "Violator",
+      "artist": "Depeche Mode",
+      "musicbrainzId": "71f1482e-e63f-3b2c-811b-939f62708f2a"
+    },
+    {
+      "position": 168,
+      "title": "Can’t Buy a Thrill",
+      "artist": "Steely Dan",
+      "musicbrainzId": "9d73a864-2976-3286-b6c1-8aabc7407737"
+    },
+    {
+      "position": 169,
+      "title": "The Stranger",
+      "artist": "Billy Joel",
+      "musicbrainzId": "735bcee6-6be6-3957-af15-d21ba2bd355b"
+    },
+    {
+      "position": 170,
+      "title": "Disraeli Gears",
+      "artist": "Cream",
+      "musicbrainzId": "bbd66e31-ac27-3432-81a7-0d4b4b4c5de5"
+    },
+    {
+      "position": 171,
+      "title": "Daydream Nation",
+      "artist": "Sonic Youth",
+      "musicbrainzId": "24769a99-8189-3d8c-947e-dbc8574dad5c"
+    },
+    {
+      "position": 172,
+      "title": "Bridge Over Troubled Water",
+      "artist": "Simon and Garfunkel",
+      "musicbrainzId": "c39f7f80-d42f-3669-9653-230f8e922083"
+    },
+    {
+      "position": 173,
+      "title": "In Utero",
+      "artist": "Nirvana",
+      "musicbrainzId": "2a0981fb-9593-3019-864b-ce934d97a16e"
+    },
+    {
+      "position": 175,
+      "title": "DAMN.",
+      "artist": "Kendrick Lamar",
+      "musicbrainzId": "b88655ba-7469-48b8-a296-b9011ab73ef3"
+    },
+    {
+      "position": 176,
+      "title": "Fear of a Black Planet",
+      "artist": "Public Enemy",
+      "musicbrainzId": "13cf2244-c850-304d-bc46-b30e3f10e0cc"
+    },
+    {
+      "position": 177,
+      "title": "Every Picture Tells a Story",
+      "artist": "Rod Stewart",
+      "musicbrainzId": "d4e7be0c-6db3-372e-aee6-e048dbb9ac51"
+    },
+    {
+      "position": 179,
+      "title": "Life After Death",
+      "artist": "Notorious B.I.G.",
+      "musicbrainzId": "132d78be-baa5-3301-aba5-933409e3f848"
+    },
+    {
+      "position": 180,
+      "title": "Forever Changes",
+      "artist": "Love",
+      "musicbrainzId": "c7035bc6-6101-326f-992c-401d451c1716"
+    },
+    {
+      "position": 181,
+      "title": "Bringing It All Back Home",
+      "artist": "Bob Dylan",
+      "musicbrainzId": "6cadda7c-fbd0-3b19-9546-56915e3305d8"
+    },
+    {
+      "position": 182,
+      "title": "Sweet Baby James",
+      "artist": "James Taylor",
+      "musicbrainzId": "a3a2756d-93b4-37c6-8b82-513070ef58d6"
+    },
+    {
+      "position": 183,
+      "title": "Brown Sugar",
+      "artist": "D'Angelo",
+      "musicbrainzId": "a4591f67-48d9-36ae-bc68-2deb954d0a15"
+    },
+    {
+      "position": 184,
+      "title": "She’s So Unusual",
+      "artist": "Cyndi Lauper",
+      "musicbrainzId": "46d415e9-39b7-3978-9e3d-d9d8a32c6751"
+    },
+    {
+      "position": 185,
+      "title": "Beggars Banquet",
+      "artist": "The Rolling Stones",
+      "musicbrainzId": "6e672bbd-7c7f-32f8-8335-c603be99d13b"
+    },
+    {
+      "position": 186,
+      "title": "Blood Sugar Sex Magik",
+      "artist": "Red Hot Chili Peppers",
+      "musicbrainzId": "68bee70d-b425-3813-aca7-dd7b912c3d11"
+    },
+    {
+      "position": 187,
+      "title": "AmeriKKKa’s Most Wanted",
+      "artist": "Ice Cube",
+      "musicbrainzId": "f7e8792d-4aaf-389c-b0e5-a4bbae2bacdf"
+    },
+    {
+      "position": 188,
+      "title": "Electric Warrior",
+      "artist": "T. Rex",
+      "musicbrainzId": "e53310bf-8ccc-3d7f-a0b7-5ca4dbababcb"
+    },
+    {
+      "position": 189,
+      "title": "Dig Me Out",
+      "artist": "Sleater-Kinney",
+      "musicbrainzId": "209b45b7-8b2f-3e07-b194-efff9cde80dd"
+    },
+    {
+      "position": 190,
+      "title": "Tommy",
+      "artist": "The Who",
+      "musicbrainzId": "0e587339-406a-3d21-8678-73e46e250379"
+    },
+    {
+      "position": 192,
+      "title": "Licensed to Ill",
+      "artist": "Beastie Boys",
+      "musicbrainzId": "57f5e7c8-2a6e-34a0-b4cd-0e77695bc36f"
+    },
+    {
+      "position": 193,
+      "title": "Willy and the Poor Boys",
+      "artist": "Creedence Clearwater Revival",
+      "musicbrainzId": "5fdea541-32fc-3b17-b7c4-50b40f65203d"
+    },
+    {
+      "position": 194,
+      "title": "Bad",
+      "artist": "Michael Jackson",
+      "musicbrainzId": "a5711a77-42d1-3f4c-830c-e27a96f0800f"
+    },
+    {
+      "position": 195,
+      "title": "Songs of Leonard Cohen",
+      "artist": "Leonard Cohen",
+      "musicbrainzId": "34291a49-8df9-304e-bd39-16b11d829d5f"
+    },
+    {
+      "position": 196,
+      "title": "Body Talk",
+      "artist": "Robyn",
+      "musicbrainzId": "1e151a63-e906-4903-b108-b3ecf21218b4"
+    },
+    {
+      "position": 197,
+      "title": "Meet the Beatles!",
+      "artist": "The Beatles",
+      "musicbrainzId": "c2c696fc-6beb-3dfb-bb15-7bb021ebeb5d"
+    },
+    {
+      "position": 198,
+      "title": "The B-52's",
+      "artist": "The B-52's",
+      "musicbrainzId": "41403803-d532-4274-9878-d026de4c74ff"
+    },
+    {
+      "position": 199,
+      "title": "Slanted and Enchanted",
+      "artist": "Pavement",
+      "musicbrainzId": "869f9eac-2a40-3a41-80a3-6bf2297a7cbc"
+    },
+    {
+      "position": 200,
+      "title": "Diamond Life",
+      "artist": "Sade",
+      "musicbrainzId": "af2a0c41-e612-3232-949d-bdca340c407c"
+    },
+    {
+      "position": 201,
+      "title": "Midnight Marauders",
+      "artist": "A Tribe Called Quest",
+      "musicbrainzId": "c2afedfb-034a-3683-ad47-e4404cd7c485"
+    },
+    {
+      "position": 202,
+      "title": "Homogenic",
+      "artist": "Björk",
+      "musicbrainzId": "810272e0-aef1-3d85-b2d3-e512e87fc38c"
+    },
+    {
+      "position": 204,
+      "title": "Graduation",
+      "artist": "Kanye West",
+      "musicbrainzId": "d44c50ad-61fd-3fce-95fc-27024d7f1d30"
+    },
+    {
+      "position": 205,
+      "title": "Tea for the Tillerman",
+      "artist": "Cat Stevens",
+      "musicbrainzId": "418678e7-2807-3bed-a305-11b4181e533e"
+    },
+    {
+      "position": 206,
+      "title": "Low",
+      "artist": "David Bowie",
+      "musicbrainzId": "f6a51281-56c4-3538-b915-65a9d4eb29b5"
+    },
+    {
+      "position": 207,
+      "title": "Eagles",
+      "artist": "Eagles",
+      "musicbrainzId": "23eafc30-3978-37fb-bfa0-8058aa1eb81a"
+    },
+    {
+      "position": 208,
+      "title": "Tha Carter III",
+      "artist": "Lil Wayne",
+      "musicbrainzId": "cb688885-74b2-4e9b-a18c-6102866151f2"
+    },
+    {
+      "position": 210,
+      "title": "The Birth of Soul",
+      "artist": "Ray Charles",
+      "musicbrainzId": "e4463406-ea59-39a6-a39b-aaa82a166633"
+    },
+    {
+      "position": 211,
+      "title": "Unknown Pleasures",
+      "artist": "Joy Division",
+      "musicbrainzId": "42352def-1aab-3000-b548-895ebd869cb6"
+    },
+    {
+      "position": 212,
+      "title": "Wild Is the Wind",
+      "artist": "Nina Simone",
+      "musicbrainzId": "b4433a3e-d5ad-3d99-965c-96bfb6a0f071"
+    },
+    {
+      "position": 213,
+      "title": "The Idler Wheel",
+      "artist": "Fiona Apple",
+      "musicbrainzId": "6086062c-f943-4b85-b1cb-43558425ec1c"
+    },
+    {
+      "position": 214,
+      "title": "Wildflowers",
+      "artist": "Tom Petty",
+      "musicbrainzId": "80a0451a-d135-3517-96e4-3629dc4f66b9"
+    },
+    {
+      "position": 215,
+      "title": "American Beauty",
+      "artist": "Grateful Dead",
+      "musicbrainzId": "994c2c59-d32f-304e-8f53-bda17a254f52"
+    },
+    {
+      "position": 216,
+      "title": "Either/Or",
+      "artist": "Elliott Smith",
+      "musicbrainzId": "dfb85157-313b-3f5f-8739-a5162bcb6345"
+    },
+    {
+      "position": 217,
+      "title": "Definitely Maybe",
+      "artist": "Oasis",
+      "musicbrainzId": "451dca98-c118-32e1-9244-c47ca9c3c0f9"
+    },
+    {
+      "position": 218,
+      "title": "CrazySexyCool",
+      "artist": "TLC",
+      "musicbrainzId": "3d886c06-a4c7-3431-be87-2b2940f07acd"
+    },
+    {
+      "position": 219,
+      "title": "Only Built 4 Cuban Linx",
+      "artist": "Raekwon",
+      "musicbrainzId": "ab981b48-9a7b-34c4-b46a-f6266317ce7c"
+    },
+    {
+      "position": 220,
+      "title": "Déjà Vu",
+      "artist": "Crosby, Stills, Nash, and Young",
+      "musicbrainzId": "3412fd44-c6e6-3a3b-b91a-964a055192ec"
+    },
+    {
+      "position": 221,
+      "title": "Rage Against the Machine",
+      "artist": "Rage Against the Machine",
+      "musicbrainzId": "1305859b-8937-397f-9c33-39f62eb672fb"
+    },
+    {
+      "position": 222,
+      "title": "Ray of Light",
+      "artist": "Madonna",
+      "musicbrainzId": "cb93e87f-5d21-3447-a6e8-22d44f9b0d7a"
+    },
+    {
+      "position": 223,
+      "title": "Imagine",
+      "artist": "John Lennon",
+      "musicbrainzId": "f242f304-0f1f-33a5-81a2-7a965b30e3b5"
+    },
+    {
+      "position": 224,
+      "title": "Fly",
+      "artist": "Dixie Chicks",
+      "musicbrainzId": "e1fbdc3d-2aa4-345d-ae0e-40bfb1552431"
+    },
+    {
+      "position": 225,
+      "title": "Yankee Hotel Foxtrot",
+      "artist": "Wilco",
+      "musicbrainzId": "95f2ba4b-2dd9-38d1-8158-a416a391489c"
+    },
+    {
+      "position": 226,
+      "title": "Layla and Other Assorted Love Songs",
+      "artist": "Derek and the Dominos",
+      "musicbrainzId": "ba53dcbd-9328-3cf7-bc72-179b4512867e"
+    },
+    {
+      "position": 227,
+      "title": "Here’s Little Richard",
+      "artist": "Little Richard",
+      "musicbrainzId": "a987042b-4fe0-35bb-9cca-7ff44b1ff5b4"
+    },
+    {
+      "position": 228,
+      "title": "De La Soul Is Dead",
+      "artist": "De La Soul",
+      "musicbrainzId": "0be4cdd5-ed37-3842-82ba-7f9983a34473"
+    },
+    {
+      "position": 229,
+      "title": "The Ultimate Collection",
+      "artist": "Patsy Cline",
+      "musicbrainzId": "c9557863-40a4-31ce-afba-6322dea9e254"
+    },
+    {
+      "position": 230,
+      "title": "Anti",
+      "artist": "Rihanna",
+      "musicbrainzId": "0c482acd-35a2-466b-b833-ef5f2f1297d4"
+    },
+    {
+      "position": 231,
+      "title": "Damn the Torpedoes",
+      "artist": "Tom Petty and the Heartbreakers",
+      "musicbrainzId": "871631b9-651c-3c2e-88ae-3a2491d9eb6b"
+    },
+    {
+      "position": 232,
+      "title": "Giant Steps",
+      "artist": "John Coltrane",
+      "musicbrainzId": "2cdca11d-3e45-3152-93e5-4d2a4ddb1bc6"
+    },
+    {
+      "position": 233,
+      "title": "Little Earthquakes",
+      "artist": "Tori Amos",
+      "musicbrainzId": "cb10018e-e795-3b62-b9d6-f143d188e496"
+    },
+    {
+      "position": 234,
+      "title": "Master of Reality",
+      "artist": "Black Sabbath",
+      "musicbrainzId": "e51e9779-2edc-3b39-959c-299fdb5ed940"
+    },
+    {
+      "position": 236,
+      "title": "Discovery",
+      "artist": "Daft Punk",
+      "musicbrainzId": "48117b90-a16e-34ca-a514-19c702df1158"
+    },
+    {
+      "position": 237,
+      "title": "Red Headed Stranger",
+      "artist": "Willie Nelson",
+      "musicbrainzId": "b51ba291-2490-3132-a85d-2094de795b63"
+    },
+    {
+      "position": 238,
+      "title": "Trans Europe Express",
+      "artist": "Kraftwerk",
+      "musicbrainzId": "0e2b636a-3813-476e-898d-d027218e05d2"
+    },
+    {
+      "position": 239,
+      "title": "Criminal Minded",
+      "artist": "Boogie Down Productions",
+      "musicbrainzId": "420e3df4-6322-3399-8144-29ef7eb62e42"
+    },
+    {
+      "position": 240,
+      "title": "Live at the Harlem Square Club, 1963",
+      "artist": "Sam Cooke",
+      "musicbrainzId": "1c17ea9a-97d1-33ed-930f-f4c28222d37f"
+    },
+    {
+      "position": 241,
+      "title": "Blue Lines",
+      "artist": "Massive Attack",
+      "musicbrainzId": "8b6f133a-2fdf-3cc2-b84d-1c889adc0939"
+    },
+    {
+      "position": 242,
+      "title": "Loaded",
+      "artist": "The Velvet Underground",
+      "musicbrainzId": "4be9d91f-6ed7-34b8-aa5e-45be79819273"
+    },
+    {
+      "position": 243,
+      "title": "Odessey and Oracle",
+      "artist": "The Zombies",
+      "musicbrainzId": "9a4a9ebf-f4f7-3dba-9b80-0b274cbc80f9"
+    },
+    {
+      "position": 244,
+      "title": "808s & Heartbreak",
+      "artist": "Kanye West",
+      "musicbrainzId": "1c1b50ec-828b-3d7c-9b1b-54cb1fe97d55"
+    },
+    {
+      "position": 245,
+      "title": "Heaven or Las Vegas",
+      "artist": "Cocteau Twins",
+      "musicbrainzId": "12fab6b9-4eaf-33b0-963e-cae03ac332fe"
+    },
+    {
+      "position": 246,
+      "title": "Mama Said Knock You Out",
+      "artist": "LL Cool J",
+      "musicbrainzId": "0a458415-3667-3a61-ac39-f0c3235149f2"
+    },
+    {
+      "position": 247,
+      "title": "Love Deluxe",
+      "artist": "Sade",
+      "musicbrainzId": "e4a67add-6aab-390c-bb82-53939fb9cd0a"
+    },
+    {
+      "position": 248,
+      "title": "American Idiot",
+      "artist": "Green Day",
+      "musicbrainzId": "de9bf827-a9b0-348b-a7c9-556c03c3fb07"
+    },
+    {
+      "position": 249,
+      "title": "Whitney Houston",
+      "artist": "Whitney Houston",
+      "musicbrainzId": "131d12c0-e720-31df-a2f9-d9abd868ceaf"
+    },
+    {
+      "position": 250,
+      "title": "Singles Going Steady",
+      "artist": "Buzzcocks",
+      "musicbrainzId": "6a537b72-0bd3-38c5-8aa1-0527e6e9a2f3"
+    },
+    {
+      "position": 251,
+      "title": "Honky Château",
+      "artist": "Elton John",
+      "musicbrainzId": "e17f2d6e-7849-37f9-a6d8-cda4d59cea28"
+    },
+    {
+      "position": 252,
+      "title": "Q: Are We Not Men? A: We Are Devo!",
+      "artist": "Devo",
+      "musicbrainzId": "60a754f9-50e1-346a-97db-925a1e2ad7e0"
+    },
+    {
+      "position": 253,
+      "title": "The Piper at the Gates of Dawn",
+      "artist": "Pink Floyd",
+      "musicbrainzId": "6792b6d1-4e65-3c3c-9d20-d08aa1dcfc60"
+    },
+    {
+      "position": 254,
+      "title": "Head Hunters",
+      "artist": "Herbie Hancock",
+      "musicbrainzId": "322f18bb-5491-38e9-9044-c0a468651eec"
+    },
+    {
+      "position": 255,
+      "title": "The Freewheelin' Bob Dylan",
+      "artist": "Bob Dylan",
+      "musicbrainzId": "169b62aa-c3a5-3ed9-bed1-cc47c4bc51ad"
+    },
+    {
+      "position": 256,
+      "title": "Tracy Chapman",
+      "artist": "Tracy Chapman",
+      "musicbrainzId": "a738bdf1-f610-30aa-9ae7-9a4f90d6f2d7"
+    },
+    {
+      "position": 257,
+      "title": "Coat of Many Colors",
+      "artist": "Dolly Parton",
+      "musicbrainzId": "2c98f21a-e2af-3412-a253-de9a1e06d7f7"
+    },
+    {
+      "position": 258,
+      "title": "The Hissing of Summer Lawns",
+      "artist": "Joni Mitchell",
+      "musicbrainzId": "169a1a7e-f91e-3b10-a136-d94eba6eee2e"
+    },
+    {
+      "position": 259,
+      "title": "Pearl",
+      "artist": "Janis Joplin",
+      "musicbrainzId": "99878359-e736-3cdc-a225-548ad17d1c76"
+    },
+    {
+      "position": 260,
+      "title": "Cut",
+      "artist": "The Slits",
+      "musicbrainzId": "116b94a2-4361-3ec2-af92-270d97dc10f9"
+    },
+    {
+      "position": 261,
+      "title": "Check Your Head",
+      "artist": "Beastie Boys",
+      "musicbrainzId": "b0935b00-1380-3777-b79d-bd49ef5fb9c0"
+    },
+    {
+      "position": 262,
+      "title": "Power, Corruption & Lies",
+      "artist": "New Order",
+      "musicbrainzId": "16cc9dfc-594d-3fb9-b789-3e1bfcb6f9f8"
+    },
+    {
+      "position": 263,
+      "title": "A Hard Day's Night",
+      "artist": "The Beatles",
+      "musicbrainzId": "06281c4d-112d-33b0-a25b-df63b420eae7"
+    },
+    {
+      "position": 264,
+      "title": "Wish You Were Here",
+      "artist": "Pink Floyd",
+      "musicbrainzId": "1a272023-10d3-38ee-bab3-317b55fcc21d"
+    },
+    {
+      "position": 265,
+      "title": "Wowee Zowee",
+      "artist": "Pavement",
+      "musicbrainzId": "fa79988d-62b5-3039-9169-ed0d17d53296"
+    },
+    {
+      "position": 266,
+      "title": "Help!",
+      "artist": "The Beatles",
+      "musicbrainzId": "0d44e1cb-c6e0-3453-8b68-4d2082f05421"
+    },
+    {
+      "position": 267,
+      "title": "Double Nickels on the Dime",
+      "artist": "Minutemen",
+      "musicbrainzId": "0bcb9f3e-e341-3ed5-ac5b-8ed5e17f9a7e"
+    },
+    {
+      "position": 268,
+      "title": "Sail Away",
+      "artist": "Randy Newman",
+      "musicbrainzId": "d1c0b3db-6b93-3b9d-9479-0d60486120cb"
+    },
+    {
+      "position": 269,
+      "title": "Yeezus",
+      "artist": "Kanye West",
+      "musicbrainzId": "5d4d0f2d-9be7-4922-bc9a-cbd2880b12c2"
+    },
+    {
+      "position": 270,
+      "title": "Golden Hour",
+      "artist": "Kacey Musgraves",
+      "musicbrainzId": "56713bde-f9de-4097-bbe3-41d9d7af32c4"
+    },
+    {
+      "position": 271,
+      "title": "What’s the 411?",
+      "artist": "Mary J. Blige",
+      "musicbrainzId": "8debe6e5-7fd1-35ee-9d3f-96523536b9f8"
+    },
+    {
+      "position": 272,
+      "title": "White Light/White Heat",
+      "artist": "The Velvet Underground",
+      "musicbrainzId": "fc0885e0-0284-3f9d-81ee-17c5e7196346"
+    },
+    {
+      "position": 273,
+      "title": "Entertainment!",
+      "artist": "Gang of Four",
+      "musicbrainzId": "d0493944-992b-3534-9174-8320c1879837"
+    },
+    {
+      "position": 274,
+      "title": "Sweetheart of the Rodeo",
+      "artist": "The Byrds",
+      "musicbrainzId": "2a02ea31-7a7f-3a46-8a46-aebfac434a81"
+    },
+    {
+      "position": 275,
+      "title": "Curtis",
+      "artist": "Curtis Mayfield",
+      "musicbrainzId": "0c24e81f-b710-3e24-a4fa-12950e153585"
+    },
+    {
+      "position": 276,
+      "title": "The Bends",
+      "artist": "Radiohead",
+      "musicbrainzId": "b8048f24-c026-3398-b23a-b5e50716cbc7"
+    },
+    {
+      "position": 277,
+      "title": "The Diary of Alicia Keys",
+      "artist": "Alicia Keys",
+      "musicbrainzId": "e53e291f-9a9c-38a0-96e0-86a9b63b776d"
+    },
+    {
+      "position": 278,
+      "title": "Houses of the Holy",
+      "artist": "Led Zeppelin",
+      "musicbrainzId": "9b5006e5-b276-3a05-bcdd-8d986842320b"
+    },
+    {
+      "position": 279,
+      "title": "MTV Unplugged in New York",
+      "artist": "Nirvana",
+      "musicbrainzId": "fb3770f6-83fb-32b7-85c4-1f522a92287e"
+    },
+    {
+      "position": 280,
+      "title": "Get Rich or Die Tryin'",
+      "artist": "50 Cent",
+      "musicbrainzId": "f624ead2-e4ba-4e52-bea5-4362b1c67b14"
+    },
+    {
+      "position": 282,
+      "title": "In the Wee Small Hours",
+      "artist": "Frank Sinatra",
+      "musicbrainzId": "5a5d9938-38a9-3f32-b03b-8f14f62b880a"
+    },
+    {
+      "position": 283,
+      "title": "Bad Girls",
+      "artist": "Donna Summer",
+      "musicbrainzId": "f7568cc7-4c09-3a47-abbc-593e7aaac7d6"
+    },
+    {
+      "position": 286,
+      "title": "Californication",
+      "artist": "Red Hot Chili Peppers",
+      "musicbrainzId": "ca5dfcc3-83fb-3eee-9061-c27296b77b2c"
+    },
+    {
+      "position": 287,
+      "title": "Mr. Tambourine Man",
+      "artist": "The Byrds",
+      "musicbrainzId": "2b83d3e4-d461-31d6-9e2a-c99b69421e28"
+    },
+    {
+      "position": 288,
+      "title": "The Modern Lovers",
+      "artist": "The Modern Lovers",
+      "musicbrainzId": "91e1f88a-f081-3639-9972-0d46b3d3b616"
+    },
+    {
+      "position": 289,
+      "title": "Post",
+      "artist": "Björk",
+      "musicbrainzId": "b2a6e057-087d-3ae5-a6e5-7f5fa39808ff"
+    },
+    {
+      "position": 291,
+      "title": "The Writing’s on the Wall",
+      "artist": "Destiny's Child",
+      "musicbrainzId": "7bfda0d3-5747-3f7c-a60f-065b6ea29db1"
+    },
+    {
+      "position": 292,
+      "title": "Van Halen",
+      "artist": "Van Halen",
+      "musicbrainzId": "43a0e8b5-6059-397f-81e6-b8df5a648496"
+    },
+    {
+      "position": 293,
+      "title": "Last Splash",
+      "artist": "The Breeders",
+      "musicbrainzId": "7aaf0618-292c-3474-bfbc-d831baf710cf"
+    },
+    {
+      "position": 295,
+      "title": "Random Access Memories",
+      "artist": "Daft Punk",
+      "musicbrainzId": "aa997ea0-2936-40bd-884d-3af8a0e064dc"
+    },
+    {
+      "position": 296,
+      "title": "Rust Never Sleeps",
+      "artist": "Neil Young",
+      "musicbrainzId": "a710c7c7-46e6-36ca-9c3c-87c8e79f8daf"
+    },
+    {
+      "position": 297,
+      "title": "So",
+      "artist": "Peter Gabriel",
+      "musicbrainzId": "be3cc3e7-bdb0-3c13-a60b-a985b30eb603"
+    },
+    {
+      "position": 298,
+      "title": "Full Moon Fever",
+      "artist": "Tom Petty",
+      "musicbrainzId": "ffbef03e-3651-39db-8a2f-e140dc5aa219"
+    },
+    {
+      "position": 299,
+      "title": "Live at the Regal",
+      "artist": "B.B. King",
+      "musicbrainzId": "a4d2a86c-bbd6-352b-b9fa-f9da86df842c"
+    },
+    {
+      "position": 300,
+      "title": "Come on Over",
+      "artist": "Shania Twain",
+      "musicbrainzId": "45bcf3e0-a274-3bdd-9130-299a5ef780ea"
+    },
+    {
+      "position": 301,
+      "title": "New York Dolls",
+      "artist": "New York Dolls",
+      "musicbrainzId": "4cdd4c59-e38f-382b-b01c-e69829faa69c"
+    },
+    {
+      "position": 302,
+      "title": "Tonight's the Night",
+      "artist": "Neil Young",
+      "musicbrainzId": "e0207e33-af06-3862-baba-f42ca722de0d"
+    },
+    {
+      "position": 303,
+      "title": "The Definitive Collection",
+      "artist": "ABBA",
+      "musicbrainzId": "e2996feb-86b9-3550-88ec-f1c9c9af3961"
+    },
+    {
+      "position": 304,
+      "title": "Just As I Am",
+      "artist": "Bill Withers",
+      "musicbrainzId": "a72ee504-15b5-343c-bfd7-e71f9272e0e5"
+    },
+    {
+      "position": 305,
+      "title": "Alive!",
+      "artist": "Kiss",
+      "musicbrainzId": "aa876c87-138c-339b-8176-abacb4e45259"
+    },
+    {
+      "position": 306,
+      "title": "I'm Still in Love With You",
+      "artist": "Al Green",
+      "musicbrainzId": "4a40960b-44b3-313c-8540-cde054d41bd9"
+    },
+    {
+      "position": 307,
+      "title": "Portrait of a Legend",
+      "artist": "Sam Cooke",
+      "musicbrainzId": "38d697fd-bdf6-3800-bbff-2078456d4c4c"
+    },
+    {
+      "position": 309,
+      "title": "Closer",
+      "artist": "Joy Division",
+      "musicbrainzId": "852f9715-24b3-37d5-b8a5-456f5e19b41e"
+    },
+    {
+      "position": 310,
+      "title": "Pink Flag",
+      "artist": "Wire",
+      "musicbrainzId": "9facb8b5-4b02-3f28-9f4a-61cb9b8fd7aa"
+    },
+    {
+      "position": 311,
+      "title": "On the Beach",
+      "artist": "Neil Young",
+      "musicbrainzId": "f4174531-b783-3786-b75f-4fe61a8f6333"
+    },
+    {
+      "position": 312,
+      "title": "A Seat at the Table",
+      "artist": "Solange",
+      "musicbrainzId": "331a7ba1-fae2-4881-b434-554f46c13746"
+    },
+    {
+      "position": 313,
+      "title": "Stories From the City, Stories From the Sea",
+      "artist": "PJ Harvey",
+      "musicbrainzId": "71641af7-d122-326a-b0bb-f76a8d09810c"
+    },
+    {
+      "position": 314,
+      "title": "One in a Million",
+      "artist": "Aaliyah",
+      "musicbrainzId": "776a71f8-2071-3743-aab4-83436df1b366"
+    },
+    {
+      "position": 315,
+      "title": "El Mal Querer",
+      "artist": "Rosalía",
+      "musicbrainzId": "bb525db3-81e4-4c05-b529-23fa05f35c12"
+    },
+    {
+      "position": 316,
+      "title": "The Who Sell Out",
+      "artist": "The Who",
+      "musicbrainzId": "aa02a102-f7b5-3584-8d21-bd9c560effb6"
+    },
+    {
+      "position": 317,
+      "title": "Lady in Satin",
+      "artist": "Billie Holiday",
+      "musicbrainzId": "cf7bc239-a3ba-3d87-80e5-261f750cb560"
+    },
+    {
+      "position": 318,
+      "title": "The Velvet Rope",
+      "artist": "Janet Jackson",
+      "musicbrainzId": "5bb501c6-2e78-393d-bcac-27d7d1b44a27"
+    },
+    {
+      "position": 319,
+      "title": "The Stone Roses",
+      "artist": "The Stone Roses",
+      "musicbrainzId": "88b86fe0-26f5-3949-817a-8082145e704d"
+    },
+    {
+      "position": 320,
+      "title": "Los Angeles",
+      "artist": "X",
+      "musicbrainzId": "700da083-bd95-3301-91f1-af571a001414"
+    },
+    {
+      "position": 321,
+      "title": "Norman Fucking Rockwell!",
+      "artist": "Lana Del Rey",
+      "musicbrainzId": "24fd0887-9e83-42e3-b27e-e7f89ead4c03"
+    },
+    {
+      "position": 322,
+      "title": "From Elvis in Memphis",
+      "artist": "Elvis Presley",
+      "musicbrainzId": "2a753764-89d5-3b72-8dff-8c599f1ea925"
+    },
+    {
+      "position": 323,
+      "title": "Sandinista!",
+      "artist": "The Clash",
+      "musicbrainzId": "ff729e76-b7c5-3877-bf7d-bbad4fde43cb"
+    },
+    {
+      "position": 324,
+      "title": "A Rush of Blood to the Head",
+      "artist": "Coldplay",
+      "musicbrainzId": "120c786d-a3b2-3c19-b4ff-2b7b3b4435bf"
+    },
+    {
+      "position": 325,
+      "title": "All Killer No Filler!",
+      "artist": "Jerry Lee Lewis",
+      "musicbrainzId": "d452a649-644b-326d-b9cf-418f39ac2902"
+    },
+    {
+      "position": 326,
+      "title": "Dirty Mind",
+      "artist": "Prince",
+      "musicbrainzId": "4f19b946-6ecb-3801-9248-cc44e9e9a284"
+    },
+    {
+      "position": 327,
+      "title": "Live at Leeds",
+      "artist": "The Who",
+      "musicbrainzId": "0ba3b960-9b4b-3191-bcc5-1e51169e5955"
+    },
+    {
+      "position": 328,
+      "title": "Modern Vampires of the City",
+      "artist": "Vampire Weekend",
+      "musicbrainzId": "eb143c5a-9a85-4bce-a78c-f7faf72c0169"
+    },
+    {
+      "position": 329,
+      "title": "Endtroducing.....",
+      "artist": "DJ Shadow",
+      "musicbrainzId": "4b2186f5-ff00-3227-ae11-783ba93e1089"
+    },
+    {
+      "position": 330,
+      "title": "Aftermath",
+      "artist": "The Rolling Stones",
+      "musicbrainzId": "26987c39-5914-483b-a897-d43ce6aad9b1"
+    },
+    {
+      "position": 331,
+      "title": "Like a Prayer",
+      "artist": "Madonna",
+      "musicbrainzId": "1f75a8df-176c-3d23-8f1f-b0c8935682ec"
+    },
+    {
+      "position": 332,
+      "title": "Elvis Presley",
+      "artist": "Elvis Presley",
+      "musicbrainzId": "2ebeec96-6ef7-3d4d-943c-0b4a2af1d7cc"
+    },
+    {
+      "position": 333,
+      "title": "Still Bill",
+      "artist": "Bill Withers",
+      "musicbrainzId": "63544e97-de86-3096-8702-250590ae5f90"
+    },
+    {
+      "position": 334,
+      "title": "Abraxas",
+      "artist": "Santana",
+      "musicbrainzId": "43424c73-fc58-36b0-b9cf-f8b057ac0603"
+    },
+    {
+      "position": 335,
+      "title": "The Basement Tapes",
+      "artist": "Bob Dylan and the Band",
+      "musicbrainzId": "47873729-6db0-3431-99e7-0292e939dadf"
+    },
+    {
+      "position": 336,
+      "title": "Avalon",
+      "artist": "Roxy Music",
+      "musicbrainzId": "4b51d75c-ca0e-3ea7-9950-639eda1f7d1a"
+    },
+    {
+      "position": 337,
+      "title": "John Wesley Harding",
+      "artist": "Bob Dylan",
+      "musicbrainzId": "32981714-597a-32dd-9f29-b2f7566fed89"
+    },
+    {
+      "position": 339,
+      "title": "Rhythm Nation 1814",
+      "artist": "Janet Jackson",
+      "musicbrainzId": "20aaac17-e4e8-373c-99cc-211321b82832"
+    },
+    {
+      "position": 340,
+      "title": "Doggystyle",
+      "artist": "Snoop Doggy Dogg",
+      "musicbrainzId": "649762c9-8785-3d9c-803d-2f0496f168e5"
+    },
+    {
+      "position": 341,
+      "title": "Siamese Dream",
+      "artist": "The Smashing Pumpkins",
+      "musicbrainzId": "cb94282e-44f3-48ec-b46d-cde8f9c15b6d"
+    },
+    {
+      "position": 342,
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "musicbrainzId": "bff544a7-56e0-3ed6-9e0f-3b676cca9111"
+    },
+    {
+      "position": 343,
+      "title": "Greatest Hits",
+      "artist": "Sly and the Family Stone",
+      "musicbrainzId": "320b576b-aa9c-3c5e-8631-178e81841866"
+    },
+    {
+      "position": 344,
+      "title": "Funky Kingston",
+      "artist": "Toots and the Maytals",
+      "musicbrainzId": "dc7f2fc9-19ff-33e9-aa0d-3c81f91ca633"
+    },
+    {
+      "position": 345,
+      "title": "The Wild, the Innocent & the E Street Shuffle",
+      "artist": "Bruce Springsteen",
+      "musicbrainzId": "4b443e66-52a7-3cc9-a522-0dc64a6a51dc"
+    },
+    {
+      "position": 346,
+      "title": "AM",
+      "artist": "Arctic Monkeys",
+      "musicbrainzId": "a348ba2f-f8b3-4686-b928-e63d8d94d543"
+    },
+    {
+      "position": 347,
+      "title": "Liquid Swords",
+      "artist": "GZA",
+      "musicbrainzId": "6075a004-e983-3a00-8a13-50af32f0e200"
+    },
+    {
+      "position": 348,
+      "title": "Time (The Revelator)",
+      "artist": "Gillian Welch",
+      "musicbrainzId": "4f9a9d35-b16d-3b7b-80d0-32b29683633f"
+    },
+    {
+      "position": 349,
+      "title": "Kick Out the Jams",
+      "artist": "MC5",
+      "musicbrainzId": "44410403-45d3-30fa-ba48-d16664bf6fb3"
+    },
+    {
+      "position": 350,
+      "title": "Music of My Mind",
+      "artist": "Stevie Wonder",
+      "musicbrainzId": "5a253b10-e9f8-334c-b343-7f14e92402c2"
+    },
+    {
+      "position": 351,
+      "title": "For Your Pleasure",
+      "artist": "Roxy Music",
+      "musicbrainzId": "72fd9993-17b8-3402-9f8d-c39cb3d2c27e"
+    },
+    {
+      "position": 352,
+      "title": "The Slim Shady LP",
+      "artist": "Eminem",
+      "musicbrainzId": "be725de4-4633-3c8a-9a03-f2c4392b6e0d"
+    },
+    {
+      "position": 353,
+      "title": "The Cars",
+      "artist": "The Cars",
+      "musicbrainzId": "36172f3d-9b55-37f1-9fd4-0cbd2f3af0ce"
+    },
+    {
+      "position": 354,
+      "title": "Germfree Adolescents",
+      "artist": "X-Ray Spex",
+      "musicbrainzId": "02c1c972-b5a1-3b8f-be3f-83dfb9373def"
+    },
+    {
+      "position": 355,
+      "title": "Black Sabbath",
+      "artist": "Black Sabbath",
+      "musicbrainzId": "d38fc9a6-62bd-40bd-8162-7a4146d3e519"
+    },
+    {
+      "position": 356,
+      "title": "Gris-Gris",
+      "artist": "Dr. John",
+      "musicbrainzId": "8ceb6d06-3a60-37eb-81de-9cc8fe538e16"
+    },
+    {
+      "position": 357,
+      "title": "Rain Dogs",
+      "artist": "Tom Waits",
+      "musicbrainzId": "fb25a883-2270-3ec4-8c62-85c7ed857e6f"
+    },
+    {
+      "position": 358,
+      "title": "Goo",
+      "artist": "Sonic Youth",
+      "musicbrainzId": "8114542a-d659-3b5f-a11f-cf86ed7fa84d"
+    },
+    {
+      "position": 359,
+      "title": "Radio City",
+      "artist": "Big Star",
+      "musicbrainzId": "dea0867d-45d1-3366-8147-1b78f924a137"
+    },
+    {
+      "position": 360,
+      "title": "One Nation Under a Groove",
+      "artist": "Funkadelic",
+      "musicbrainzId": "9d084107-b712-3599-ab62-ac76fe3756b5"
+    },
+    {
+      "position": 361,
+      "title": "The Black Parade",
+      "artist": "My Chemical Romance",
+      "musicbrainzId": "bcba43e7-2f72-3b60-b234-577e77fd2d9e"
+    },
+    {
+      "position": 362,
+      "title": "Never Too Much",
+      "artist": "Luther Vandross",
+      "musicbrainzId": "6e49186d-ce5c-3686-86cd-021f0ce1eda3"
+    },
+    {
+      "position": 363,
+      "title": "The Mothership Connection",
+      "artist": "Parliament",
+      "musicbrainzId": "9085b6be-d1ff-472c-9cc6-ad657e177b2b"
+    },
+    {
+      "position": 364,
+      "title": "More Songs About Buildings and Food",
+      "artist": "Talking Heads",
+      "musicbrainzId": "2cecb2c0-cac3-3c55-8083-577308746230"
+    },
+    {
+      "position": 366,
+      "title": "Rocks",
+      "artist": "Aerosmith",
+      "musicbrainzId": "775d9a2d-effc-35c8-b80a-f9a4e4206d27"
+    },
+    {
+      "position": 367,
+      "title": "If You're Reading This It's Too Late",
+      "artist": "Drake",
+      "musicbrainzId": "68d79778-aceb-486c-88a7-0abb3665344b"
+    },
+    {
+      "position": 368,
+      "title": "All Things Must Pass",
+      "artist": "George Harrison",
+      "musicbrainzId": "d4b0f3e2-e3eb-3531-b305-ed8105cb5be4"
+    },
+    {
+      "position": 369,
+      "title": "The Infamous",
+      "artist": "Mobb Deep",
+      "musicbrainzId": "03f3c216-bd40-322b-ac8a-254816ff5573"
+    },
+    {
+      "position": 370,
+      "title": "Tha Carter II",
+      "artist": "Lil Wayne",
+      "musicbrainzId": "d97d9f3b-3dc1-3330-a240-b84b74e62044"
+    },
+    {
+      "position": 371,
+      "title": "Anthology",
+      "artist": "The Temptations",
+      "musicbrainzId": "1df9d775-7593-4e0a-bb55-3035948de6c5"
+    },
+    {
+      "position": 372,
+      "title": "Cheap Thrills",
+      "artist": "Big Brother and the Holding Company",
+      "musicbrainzId": "02de8887-e93b-3ea6-8b6d-de072a159bba"
+    },
+    {
+      "position": 373,
+      "title": "Hot Buttered Soul",
+      "artist": "Isaac Hayes",
+      "musicbrainzId": "e76d4f75-f09b-3f5b-aca9-44ac4489e58d"
+    },
+    {
+      "position": 374,
+      "title": "King of the Delta Blues Singers",
+      "artist": "Robert Johnson",
+      "musicbrainzId": "2609603b-cd7d-3ccf-aa58-94c38defac2c"
+    },
+    {
+      "position": 375,
+      "title": "Dookie",
+      "artist": "Green Day",
+      "musicbrainzId": "314cffd4-daa5-3337-85e5-e54165a96113"
+    },
+    {
+      "position": 376,
+      "title": "In the Aeroplane Over the Sea",
+      "artist": "Neutral Milk Hotel",
+      "musicbrainzId": "8f310800-045b-3e12-8268-50b3d33a2267"
+    },
+    {
+      "position": 377,
+      "title": "Fever to Tell",
+      "artist": "Yeah Yeah Yeahs",
+      "musicbrainzId": "e8e2d824-dd32-3b24-9c7c-24619fbe86a9"
+    },
+    {
+      "position": 379,
+      "title": "Moving Pictures",
+      "artist": "Rush",
+      "musicbrainzId": "40e30dc1-55ac-33e1-85d3-1f1508140bfc"
+    },
+    {
+      "position": 380,
+      "title": "Mingus Ah Um",
+      "artist": "Charles Mingus",
+      "musicbrainzId": "48ec720b-2fc2-35dd-8130-5b186c4abcbc"
+    },
+    {
+      "position": 381,
+      "title": "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)",
+      "artist": "Lynyrd Skynyrd",
+      "musicbrainzId": "33446893-8c9f-30b6-aa73-d719df371430"
+    },
+    {
+      "position": 382,
+      "title": "Currents",
+      "artist": "Tame Impala",
+      "musicbrainzId": "08aa7a6c-3e43-4459-87b2-e47faf3a088a"
+    },
+    {
+      "position": 383,
+      "title": "Mezzanine",
+      "artist": "Massive Attack",
+      "musicbrainzId": "6f9f6899-c0d3-311d-ae87-a10ae6bc53a9"
+    },
+    {
+      "position": 384,
+      "title": "The Kinks Are the Village Green Preservation Society",
+      "artist": "The Kinks",
+      "musicbrainzId": "4516a30e-939c-3b2b-a8ea-f94ae418d3a6"
+    },
+    {
+      "position": 385,
+      "title": "Rocket to Russia",
+      "artist": "Ramones",
+      "musicbrainzId": "dd959091-dba1-32b8-8159-0090959ce75b"
+    },
+    {
+      "position": 386,
+      "title": "Donuts",
+      "artist": "J Dilla",
+      "musicbrainzId": "6b78c33a-64c4-3472-99e9-be45a392acb4"
+    },
+    {
+      "position": 387,
+      "title": "In Rainbows",
+      "artist": "Radiohead",
+      "musicbrainzId": "6e335887-60ba-38f0-95af-fae7774336bf"
+    },
+    {
+      "position": 388,
+      "title": "Young, Gifted and Black",
+      "artist": "Aretha Franklin",
+      "musicbrainzId": "f62ec525-7158-37c1-8535-6eaac62435b3"
+    },
+    {
+      "position": 389,
+      "title": "The Emancipation of Mimi",
+      "artist": "Mariah Carey",
+      "musicbrainzId": "2391debf-38aa-3a90-888e-51f857131e98"
+    },
+    {
+      "position": 390,
+      "title": "Surfer Rosa",
+      "artist": "Pixies",
+      "musicbrainzId": "74e36cbc-a747-3ebf-a60e-51e656c87741"
+    },
+    {
+      "position": 391,
+      "title": "Kaleidoscope",
+      "artist": "Kelis",
+      "musicbrainzId": "4ea68d9e-7e06-30ea-8b29-3d8195b302c7"
+    },
+    {
+      "position": 392,
+      "title": "Proud Mary: The Best of Ike and Tina Turner",
+      "artist": "Ike and Tina Turner",
+      "musicbrainzId": "c504f95d-265a-3d94-b888-9571712351ec"
+    },
+    {
+      "position": 393,
+      "title": "1989",
+      "artist": "Taylor Swift",
+      "musicbrainzId": "4d9ec1c2-58ec-48a4-aa0a-916718adead0"
+    },
+    {
+      "position": 394,
+      "title": "Diana",
+      "artist": "Diana Ross",
+      "musicbrainzId": "fd07981b-fe56-3218-8df6-bcbe6992c96e"
+    },
+    {
+      "position": 395,
+      "title": "Black Messiah",
+      "artist": "D’Angelo and the Vanguard",
+      "musicbrainzId": "b3d96626-4d46-4012-b6cb-e8d8b192a4f1"
+    },
+    {
+      "position": 396,
+      "title": "Something/Anything?",
+      "artist": "Todd Rundgren",
+      "musicbrainzId": "edbaf38a-ba3c-3d21-981c-879fe4ac6c76"
+    },
+    {
+      "position": 397,
+      "title": "When We All Fall Asleep, Where Do We Go?",
+      "artist": "Billie Eilish",
+      "musicbrainzId": "72375978-a9a1-4254-b957-85565c716b7e"
+    },
+    {
+      "position": 398,
+      "title": "The Raincoats",
+      "artist": "The Raincoats",
+      "musicbrainzId": "044a7a01-ab8f-4781-a4de-183718abb936"
+    },
+    {
+      "position": 399,
+      "title": "Smile",
+      "artist": "Brian Wilson",
+      "musicbrainzId": "7eea3a40-7c24-34f9-aa48-958edb5145c5"
+    },
+    {
+      "position": 400,
+      "title": "Beauty and the Beat",
+      "artist": "The Go-Go’s",
+      "musicbrainzId": "5230e044-dc45-49d7-9fae-973b7e706a9f"
+    },
+    {
+      "position": 401,
+      "title": "Blondie",
+      "artist": "Blondie",
+      "musicbrainzId": "ec4a417f-edd9-4dc2-96a8-51b93679a5ee"
+    },
+    {
+      "position": 403,
+      "title": "Supreme Clientele",
+      "artist": "Ghostface Killah",
+      "musicbrainzId": "e54744e2-7646-304d-abb8-2952671da3bb"
+    },
+    {
+      "position": 404,
+      "title": "Rapture",
+      "artist": "Anita Baker",
+      "musicbrainzId": "b544c1b2-9190-34ac-8d03-348c86a77cb2"
+    },
+    {
+      "position": 406,
+      "title": "69 Love Songs",
+      "artist": "Magnetic Fields",
+      "musicbrainzId": "5dfac852-1aed-35b2-93b6-e8f9c93fe521"
+    },
+    {
+      "position": 407,
+      "title": "Everybody Knows This Is Nowhere",
+      "artist": "Neil Young",
+      "musicbrainzId": "f61603ab-ef6b-386b-a5e0-aaefc00543f1"
+    },
+    {
+      "position": 408,
+      "title": "Ace of Spades",
+      "artist": "Motörhead",
+      "musicbrainzId": "51d51de2-0312-4798-8529-bed2ae2581c6"
+    },
+    {
+      "position": 409,
+      "title": "Workingman’s Dead",
+      "artist": "Grateful Dead",
+      "musicbrainzId": "6fdb82d8-9aee-35ed-8092-8434866bab7f"
+    },
+    {
+      "position": 410,
+      "title": "Wild Honey",
+      "artist": "The Beach Boys",
+      "musicbrainzId": "25db75ad-e1e3-3941-85bd-291009a5f00d"
+    },
+    {
+      "position": 411,
+      "title": "Love and Theft",
+      "artist": "Bob Dylan",
+      "musicbrainzId": "9980ffe5-c5b5-3a83-8c1e-1ec6618f97ca"
+    },
+    {
+      "position": 412,
+      "title": "Going to a Go Go",
+      "artist": "Smokey Robinson and the Miracles",
+      "musicbrainzId": "88762473-682d-3544-a9e7-1bb3c5dddaf1"
+    },
+    {
+      "position": 413,
+      "title": "Cosmo's Factory",
+      "artist": "Creedence Clearwater Revival",
+      "musicbrainzId": "3a31800f-1916-3f4c-a7ae-26b783d00670"
+    },
+    {
+      "position": 414,
+      "title": "Risqué",
+      "artist": "Chic",
+      "musicbrainzId": "baa74317-3f23-3f0b-a996-c68f52c61f13"
+    },
+    {
+      "position": 416,
+      "title": "Things Fall Apart",
+      "artist": "The Roots",
+      "musicbrainzId": "8f341430-85b9-3a66-875f-ed1202868393"
+    },
+    {
+      "position": 417,
+      "title": "The Shape of Jazz to Come",
+      "artist": "Ornette Coleman",
+      "musicbrainzId": "5879cfca-e1d0-3ef4-8014-3b284832ed18"
+    },
+    {
+      "position": 418,
+      "title": "Brothers in Arms",
+      "artist": "Dire Straits",
+      "musicbrainzId": "b02f651e-32a1-30ae-bc23-070b59170278"
+    },
+    {
+      "position": 419,
+      "title": "Chief",
+      "artist": "Eric Church",
+      "musicbrainzId": "979e5e4d-0c1d-46c0-9fda-fa9b6fce89a6"
+    },
+    {
+      "position": 420,
+      "title": "That’s the Way of the World",
+      "artist": "Earth, Wind and Fire",
+      "musicbrainzId": "e9845207-8ae3-36db-b0e1-2efcdb46687d"
+    },
+    {
+      "position": 421,
+      "title": "Arular",
+      "artist": "M.I.A.",
+      "musicbrainzId": "32d38e25-27e8-45bc-b79b-931f5a609546"
+    },
+    {
+      "position": 422,
+      "title": "Let's Get It On",
+      "artist": "Marvin Gaye",
+      "musicbrainzId": "120c822e-3cd2-3652-975c-d687256a7931"
+    },
+    {
+      "position": 423,
+      "title": "I Can Hear the Heart Beating As One",
+      "artist": "Yo La Tengo",
+      "musicbrainzId": "901ddfef-b428-3022-a7b9-429f56513831"
+    },
+    {
+      "position": 424,
+      "title": "Odelay",
+      "artist": "Beck",
+      "musicbrainzId": "df0bfd42-78a9-40c3-a45f-a12e10d446f8"
+    },
+    {
+      "position": 425,
+      "title": "Paul Simon",
+      "artist": "Paul Simon",
+      "musicbrainzId": "602d0c54-2901-3469-a683-a5a50f3e5260"
+    },
+    {
+      "position": 426,
+      "title": "Lucinda Williams",
+      "artist": "Lucinda Williams",
+      "musicbrainzId": "9868b6bf-6bf5-3d62-bdb9-a312694c34f1"
+    },
+    {
+      "position": 427,
+      "title": "Call Me",
+      "artist": "Al Green",
+      "musicbrainzId": "edafb37c-f392-3765-9dbd-80616dcb2ad7"
+    },
+    {
+      "position": 428,
+      "title": "New Day Rising",
+      "artist": "Hüsker Dü",
+      "musicbrainzId": "5ae570d2-65c1-3da5-9a1b-dbb98ca7c3d2"
+    },
+    {
+      "position": 429,
+      "title": "Reach Out",
+      "artist": "The Four Tops",
+      "musicbrainzId": "33e4aabd-e964-48b8-a446-a61664835de3"
+    },
+    {
+      "position": 430,
+      "title": "My Aim Is True",
+      "artist": "Elvis Costello",
+      "musicbrainzId": "c7a4740f-2729-3895-8498-08c521886a95"
+    },
+    {
+      "position": 431,
+      "title": "How Will the Wolf Survive?",
+      "artist": "Los Lobos",
+      "musicbrainzId": "2478de4b-9470-311b-be17-68fb79388e89"
+    },
+    {
+      "position": 432,
+      "title": "Confessions",
+      "artist": "Usher",
+      "musicbrainzId": "0ee013ee-5f59-35d5-b6b8-26a0cb3e4372"
+    },
+    {
+      "position": 433,
+      "title": "Sound of Silver",
+      "artist": "LCD Soundsystem",
+      "musicbrainzId": "5cbcdd9f-4b7d-3b3c-b9f2-6b0e75971157"
+    },
+    {
+      "position": 434,
+      "title": "Crooked Rain, Crooked Rain",
+      "artist": "Pavement",
+      "musicbrainzId": "4f348977-6f44-39f9-b243-071927ecc6a4"
+    },
+    {
+      "position": 435,
+      "title": "Actually",
+      "artist": "Pet Shop Boys",
+      "musicbrainzId": "6de9a233-13dd-30b5-ad30-61c5814774c5"
+    },
+    {
+      "position": 436,
+      "title": "All Eyez on Me",
+      "artist": "2Pac",
+      "musicbrainzId": "e2621417-9236-36b4-9f9e-376c416dc4b0"
+    },
+    {
+      "position": 437,
+      "title": "Screamadelica",
+      "artist": "Primal Scream",
+      "musicbrainzId": "48a1839c-f4e0-3223-831f-fc36ca6ff7cf"
+    },
+    {
+      "position": 438,
+      "title": "Parklife",
+      "artist": "Blur",
+      "musicbrainzId": "67461c8e-d864-3910-9bf4-39e44357aac9"
+    },
+    {
+      "position": 439,
+      "title": "Sex Machine",
+      "artist": "James Brown",
+      "musicbrainzId": "640919d2-e786-354d-a9d5-3151e4621cb4"
+    },
+    {
+      "position": 440,
+      "title": "Coal Miner's Daughter",
+      "artist": "Loretta Lynn",
+      "musicbrainzId": "edca17e1-d696-3fc8-a22a-06d232f1f48f"
+    },
+    {
+      "position": 441,
+      "title": "Blackout",
+      "artist": "Britney Spears",
+      "musicbrainzId": "0b8e14e1-d44d-3770-8617-5c6137a444a8"
+    },
+    {
+      "position": 442,
+      "title": "Beauty Behind the Madness",
+      "artist": "The Weeknd",
+      "musicbrainzId": "a85b8aff-fcbc-4431-95ba-d8c20bbfb77e"
+    },
+    {
+      "position": 443,
+      "title": "Scary Monsters",
+      "artist": "David Bowie",
+      "musicbrainzId": "bb13cb45-254c-3a61-89a5-15d22a97e6d6"
+    },
+    {
+      "position": 444,
+      "title": "Extraordinary Machine",
+      "artist": "Fiona Apple",
+      "musicbrainzId": "81c98a74-56ba-355e-8d63-83e12a63dace"
+    },
+    {
+      "position": 445,
+      "title": "Close to the Edge",
+      "artist": "Yes",
+      "musicbrainzId": "5a59b948-1961-32ff-80d9-e970c7d4ebe9"
+    },
+    {
+      "position": 447,
+      "title": "X 100pre",
+      "artist": "Bad Bunny",
+      "musicbrainzId": "68f8c63d-3e54-4f26-8ce3-41a7bc1ca7fd"
+    },
+    {
+      "position": 449,
+      "title": "Elephant",
+      "artist": "The White Stripes",
+      "musicbrainzId": "d85b9684-4277-3565-b89b-115c8b4b7fd3"
+    },
+    {
+      "position": 450,
+      "title": "Ram",
+      "artist": "Paul and Linda McCartney",
+      "musicbrainzId": "434d4068-8404-359a-9585-3376d3d1680d"
+    },
+    {
+      "position": 451,
+      "title": "First Take",
+      "artist": "Roberta Flack",
+      "musicbrainzId": "4455c04d-9368-4dc5-b35d-6ff8c407921f"
+    },
+    {
+      "position": 453,
+      "title": "Pretty Hate Machine",
+      "artist": "Nine Inch Nails",
+      "musicbrainzId": "fcb872a2-7ef9-3ed0-bd4a-7c55c78179b6"
+    },
+    {
+      "position": 454,
+      "title": "Ege Bamyasi",
+      "artist": "Can",
+      "musicbrainzId": "a4b405a6-0577-3b77-b46d-06af1b98fbd2"
+    },
+    {
+      "position": 456,
+      "title": "Greatest Hits",
+      "artist": "Al Green",
+      "musicbrainzId": "9421508e-362a-38e8-ba54-658513768862"
+    },
+    {
+      "position": 457,
+      "title": "I Do Not Want What I Haven’t Got",
+      "artist": "Sinéad O’Connor",
+      "musicbrainzId": "9747bcfe-7c42-35ac-8c3e-7ecac9f1227b"
+    },
+    {
+      "position": 458,
+      "title": "Southeastern",
+      "artist": "Jason Isbell",
+      "musicbrainzId": "47e4fe0d-8be7-4bdc-b5e7-5b0409ed6afc"
+    },
+    {
+      "position": 460,
+      "title": "Melodrama",
+      "artist": "Lorde",
+      "musicbrainzId": "668e80e0-b35e-4471-9788-0a3d797fe42c"
+    },
+    {
+      "position": 461,
+      "title": "For Emma",
+      "artist": "Bon Iver",
+      "musicbrainzId": "9e425f3d-119a-4511-8969-06adb9057ee6"
+    },
+    {
+      "position": 462,
+      "title": "The Gilded Palace of Sin",
+      "artist": "The Flying Burrito Brothers",
+      "musicbrainzId": "a7562b15-0ee5-35cf-b9ce-38d892475521"
+    },
+    {
+      "position": 465,
+      "title": "The Best of the Classic Years",
+      "artist": "King Sunny Adé",
+      "musicbrainzId": "d66265fa-f8e3-3b79-ab11-23eddd92f3ce"
+    },
+    {
+      "position": 466,
+      "title": "The Beach Boys Today!",
+      "artist": "The Beach Boys",
+      "musicbrainzId": "2b581513-39cc-3a81-9c50-79a8dbf5c031"
+    },
+    {
+      "position": 467,
+      "title": "BLACKsummers’night",
+      "artist": "Maxwell",
+      "musicbrainzId": "65579f48-3ba4-489a-9b1a-6108925055c9"
+    },
+    {
+      "position": 468,
+      "title": "Some Girls",
+      "artist": "The Rolling Stones",
+      "musicbrainzId": "b44bc358-a28f-3a1f-b07e-604910f12d37"
+    },
+    {
+      "position": 469,
+      "title": "Clandestino",
+      "artist": "Manu Chao",
+      "musicbrainzId": "24a451c9-a8f3-33f9-a4fc-5e2d00cb7816"
+    },
+    {
+      "position": 470,
+      "title": "400 Degreez",
+      "artist": "Juvenile",
+      "musicbrainzId": "08399f8b-c114-3080-b548-7599af1ebc5c"
+    },
+    {
+      "position": 471,
+      "title": "Surrealistic Pillow",
+      "artist": "Jefferson Airplane",
+      "musicbrainzId": "e6440cd2-5e8e-367d-bc49-cc042b5ef524"
+    },
+    {
+      "position": 472,
+      "title": "Ctrl",
+      "artist": "SZA",
+      "musicbrainzId": "8f892c1b-0709-4cf4-9711-493892a9eb9b"
+    },
+    {
+      "position": 473,
+      "title": "Barrio Fino",
+      "artist": "Daddy Yankee",
+      "musicbrainzId": "5fa20be8-ea07-31bd-a915-f12a3ab8495e"
+    },
+    {
+      "position": 474,
+      "title": "#1 Record",
+      "artist": "Big Star",
+      "musicbrainzId": "18ec10a7-864f-3f1b-8d68-5cb622165b20"
+    },
+    {
+      "position": 475,
+      "title": "Sheryl Crow",
+      "artist": "Sheryl Crow",
+      "musicbrainzId": "04ea2ea1-9ef0-4e57-8866-b2275be3ae21"
+    },
+    {
+      "position": 476,
+      "title": "Kimono My House",
+      "artist": "Sparks",
+      "musicbrainzId": "0539b843-2228-36f5-965d-f370d05f66c3"
+    },
+    {
+      "position": 477,
+      "title": "Moanin’ in the Moonlight",
+      "artist": "Howlin’ Wolf",
+      "musicbrainzId": "75d0f3a2-5938-3f4d-b845-174b81eace3b"
+    },
+    {
+      "position": 479,
+      "title": "Amor Prohibido",
+      "artist": "Selena",
+      "musicbrainzId": "bc5e0495-4db9-3dae-9883-104d5df6b2cc"
+    },
+    {
+      "position": 480,
+      "title": "The Weight of These Wings",
+      "artist": "Miranda Lambert",
+      "musicbrainzId": "6a9f6cf0-2316-46a7-b8e2-71d356ac737d"
+    },
+    {
+      "position": 481,
+      "title": "If You’re Feeling Sinister",
+      "artist": "Belle and Sebastian",
+      "musicbrainzId": "66be5deb-75d5-3737-9037-1c745891d3ec"
+    },
+    {
+      "position": 482,
+      "title": "Bizarre Ride II the Pharcyde",
+      "artist": "The Pharcyde",
+      "musicbrainzId": "c799ef0c-f038-364b-972b-51f52d794781"
+    },
+    {
+      "position": 483,
+      "title": "The Anthology",
+      "artist": "Muddy Waters",
+      "musicbrainzId": "43c8d4a1-0e92-3600-ba93-d75359480498"
+    },
+    {
+      "position": 484,
+      "title": "Born This Way",
+      "artist": "Lady Gaga",
+      "musicbrainzId": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb"
+    },
+    {
+      "position": 485,
+      "title": "I Want to See the Bright Lights Tonight",
+      "artist": "Richard and Linda Thompson",
+      "musicbrainzId": "b35625b1-200d-3692-b02a-08bd4f693ef8"
+    },
+    {
+      "position": 486,
+      "title": "Continuum",
+      "artist": "John Mayer",
+      "musicbrainzId": "21e886f7-db66-3103-beb4-da9323adddc7"
+    },
+    {
+      "position": 487,
+      "title": "Damaged",
+      "artist": "Black Flag",
+      "musicbrainzId": "2cf40300-0f67-3136-9b84-57104f1f7a50"
+    },
+    {
+      "position": 488,
+      "title": "The Stooges",
+      "artist": "The Stooges",
+      "musicbrainzId": "18037a41-2695-3a8f-a732-f6653a7f125b"
+    },
+    {
+      "position": 491,
+      "title": "Fine Line",
+      "artist": "Harry Styles",
+      "musicbrainzId": "b9990da8-7953-4e64-aea5-065ca9cd3cb7"
+    },
+    {
+      "position": 492,
+      "title": "Nick of Time",
+      "artist": "Bonnie Raitt",
+      "musicbrainzId": "182a8072-0513-3aa2-b812-9f7a9692731a"
+    },
+    {
+      "position": 493,
+      "title": "Here, My Dear",
+      "artist": "Marvin Gaye",
+      "musicbrainzId": "225a6648-d4d2-3b89-986b-6e515e7a94f0"
+    },
+    {
+      "position": 494,
+      "title": "Presenting the Fabulous Ronettes",
+      "artist": "The Ronettes",
+      "musicbrainzId": "b24ffd1d-1cbc-32bd-bf45-b76b30792b8d"
+    },
+    {
+      "position": 495,
+      "title": "II",
+      "artist": "Boyz II Men",
+      "musicbrainzId": "6eaebb45-8911-3d0b-8ef3-914726356144"
+    },
+    {
+      "position": 496,
+      "title": "Dónde Están los Ladrones",
+      "artist": "Shakira",
+      "musicbrainzId": "3197ee5d-696e-374f-8df3-042f1c0fd3a5"
+    },
+    {
+      "position": 497,
+      "title": "The Indestructible Beat of Soweto",
+      "artist": "Various Artists",
+      "musicbrainzId": "afa0750e-eee6-320f-845a-ad0ae891bd9b"
+    },
+    {
+      "position": 498,
+      "title": "Suicide",
+      "artist": "Suicide",
+      "musicbrainzId": "702d4a53-9f00-3f57-a723-e5e267518454"
+    },
+    {
+      "position": 499,
+      "title": "Ask Rufus",
+      "artist": "Rufus Featuring Chaka Khan",
+      "musicbrainzId": "cb6327b8-4ef5-3ca2-bbe2-260473c457cd"
+    },
+    {
+      "position": 500,
+      "title": "Funeral",
+      "artist": "Arcade Fire",
+      "musicbrainzId": "05affa96-5959-32da-8d75-1c9eb985ca59"
+    }
+  ],
+  "overrideMatches": [],
+  "missingMusicBrainz": [
+    {
+      "position": 79,
+      "title": "Blond",
+      "artist": "Frank Ocean",
+      "musicbrainzId": null
+    },
+    {
+      "position": 80,
+      "title": "Never Mind the Bollocks Here’s the Sex Pistols",
+      "artist": "The Sex Pistols",
+      "musicbrainzId": null
+    },
+    {
+      "position": 103,
+      "title": "Three Feet High And Rising",
+      "artist": "De La Soul",
+      "musicbrainzId": null
+    },
+    {
+      "position": 108,
+      "title": "When the Pawn ...",
+      "artist": "Fiona Apple",
+      "musicbrainzId": null
+    },
+    {
+      "position": 118,
+      "title": "Hotel California",
+      "artist": "The Eagles",
+      "musicbrainzId": null
+    },
+    {
+      "position": 140,
+      "title": "Catch a Fire",
+      "artist": "Bob Marley and the Wailers",
+      "musicbrainzId": null
+    },
+    {
+      "position": 152,
+      "title": "Pretenders",
+      "artist": "The Pretenders",
+      "musicbrainzId": null
+    },
+    {
+      "position": 174,
+      "title": "The Harder They Come: Original Soundtrack",
+      "artist": "Jimmy Cliff and Various Artists",
+      "musicbrainzId": null
+    },
+    {
+      "position": 178,
+      "title": "Otis Blue",
+      "artist": "Otis Redding",
+      "musicbrainzId": null
+    },
+    {
+      "position": 191,
+      "title": "At Last!",
+      "artist": "Etta James",
+      "musicbrainzId": null
+    },
+    {
+      "position": 203,
+      "title": "Pink Moon",
+      "artist": "Nick Drake",
+      "musicbrainzId": null
+    },
+    {
+      "position": 209,
+      "title": "Raising Hell",
+      "artist": "Run-DMC",
+      "musicbrainzId": null
+    },
+    {
+      "position": 235,
+      "title": "Metallica (The Black Album)",
+      "artist": "Metallica",
+      "musicbrainzId": null
+    },
+    {
+      "position": 281,
+      "title": "Nilsson Schmilsson",
+      "artist": "Harry Nilsson",
+      "musicbrainzId": null
+    },
+    {
+      "position": 284,
+      "title": "Down Every Road 1962-1994",
+      "artist": "Merle Haggard",
+      "musicbrainzId": null
+    },
+    {
+      "position": 285,
+      "title": "Third/Sister Lovers",
+      "artist": "Big Star",
+      "musicbrainzId": null
+    },
+    {
+      "position": 290,
+      "title": "Speakerboxxx/The Love Below",
+      "artist": "OutKast",
+      "musicbrainzId": null
+    },
+    {
+      "position": 294,
+      "title": "Weezer (The Blue Album)",
+      "artist": "Weezer",
+      "musicbrainzId": null
+    },
+    {
+      "position": 308,
+      "title": "Here Come the Warm Jets",
+      "artist": "Brian Eno",
+      "musicbrainzId": null
+    },
+    {
+      "position": 338,
+      "title": "Another Green World",
+      "artist": "Brian Eno",
+      "musicbrainzId": null
+    },
+    {
+      "position": 365,
+      "title": "Madvillainy",
+      "artist": "Madvillain",
+      "musicbrainzId": null
+    },
+    {
+      "position": 378,
+      "title": "Run-D.M.C.",
+      "artist": "Run-DMC",
+      "musicbrainzId": null
+    },
+    {
+      "position": 402,
+      "title": "Expensive Shit",
+      "artist": "Fela Kuti and Africa 70",
+      "musicbrainzId": null
+    },
+    {
+      "position": 405,
+      "title": "Nuggets: Original Artyfacts from the First Psychedelic Era",
+      "artist": "Various",
+      "musicbrainzId": null
+    },
+    {
+      "position": 415,
+      "title": "Looka Py Py",
+      "artist": "The Meters",
+      "musicbrainzId": null
+    },
+    {
+      "position": 446,
+      "title": "Journey in Satchidanada",
+      "artist": "Alice Coltrane",
+      "musicbrainzId": null
+    },
+    {
+      "position": 448,
+      "title": "Dictionary of Soul",
+      "artist": "Otis Redding",
+      "musicbrainzId": null
+    },
+    {
+      "position": 452,
+      "title": "Anthology",
+      "artist": "Diana Ross and the Supremes",
+      "musicbrainzId": null
+    },
+    {
+      "position": 455,
+      "title": "Bo Diddley/Go Bo Diddley",
+      "artist": "Bo Diddley",
+      "musicbrainzId": null
+    },
+    {
+      "position": 459,
+      "title": "Man on the Moon: The End of the Day",
+      "artist": "Kid Cudi",
+      "musicbrainzId": null
+    },
+    {
+      "position": 463,
+      "title": "Eli & the 13th Confession",
+      "artist": "Laura Nyro",
+      "musicbrainzId": null
+    },
+    {
+      "position": 464,
+      "title": "3 + 3",
+      "artist": "The Isley Brothers",
+      "musicbrainzId": null
+    },
+    {
+      "position": 478,
+      "title": "Something Else by the Kinks",
+      "artist": "The Kinks",
+      "musicbrainzId": null
+    },
+    {
+      "position": 489,
+      "title": "Back to Mono (1958-1969)",
+      "artist": "Phil Spector and Various Artists",
+      "musicbrainzId": null
+    },
+    {
+      "position": 490,
+      "title": "Heart Like a Wheel",
+      "artist": "Linda Ronstadt",
+      "musicbrainzId": null
+    }
+  ],
+  "missingCovers": [
+    {
+      "position": 79,
+      "title": "Blond",
+      "artist": "Frank Ocean",
+      "musicbrainzId": null
+    },
+    {
+      "position": 80,
+      "title": "Never Mind the Bollocks Here’s the Sex Pistols",
+      "artist": "The Sex Pistols",
+      "musicbrainzId": null
+    },
+    {
+      "position": 103,
+      "title": "Three Feet High And Rising",
+      "artist": "De La Soul",
+      "musicbrainzId": null
+    },
+    {
+      "position": 108,
+      "title": "When the Pawn ...",
+      "artist": "Fiona Apple",
+      "musicbrainzId": null
+    },
+    {
+      "position": 118,
+      "title": "Hotel California",
+      "artist": "The Eagles",
+      "musicbrainzId": null
+    },
+    {
+      "position": 140,
+      "title": "Catch a Fire",
+      "artist": "Bob Marley and the Wailers",
+      "musicbrainzId": null
+    },
+    {
+      "position": 152,
+      "title": "Pretenders",
+      "artist": "The Pretenders",
+      "musicbrainzId": null
+    },
+    {
+      "position": 174,
+      "title": "The Harder They Come: Original Soundtrack",
+      "artist": "Jimmy Cliff and Various Artists",
+      "musicbrainzId": null
+    },
+    {
+      "position": 178,
+      "title": "Otis Blue",
+      "artist": "Otis Redding",
+      "musicbrainzId": null
+    },
+    {
+      "position": 191,
+      "title": "At Last!",
+      "artist": "Etta James",
+      "musicbrainzId": null
+    },
+    {
+      "position": 203,
+      "title": "Pink Moon",
+      "artist": "Nick Drake",
+      "musicbrainzId": null
+    },
+    {
+      "position": 209,
+      "title": "Raising Hell",
+      "artist": "Run-DMC",
+      "musicbrainzId": null
+    },
+    {
+      "position": 235,
+      "title": "Metallica (The Black Album)",
+      "artist": "Metallica",
+      "musicbrainzId": null
+    },
+    {
+      "position": 238,
+      "title": "Trans Europe Express",
+      "artist": "Kraftwerk",
+      "musicbrainzId": "0e2b636a-3813-476e-898d-d027218e05d2"
+    },
+    {
+      "position": 281,
+      "title": "Nilsson Schmilsson",
+      "artist": "Harry Nilsson",
+      "musicbrainzId": null
+    },
+    {
+      "position": 284,
+      "title": "Down Every Road 1962-1994",
+      "artist": "Merle Haggard",
+      "musicbrainzId": null
+    },
+    {
+      "position": 285,
+      "title": "Third/Sister Lovers",
+      "artist": "Big Star",
+      "musicbrainzId": null
+    },
+    {
+      "position": 290,
+      "title": "Speakerboxxx/The Love Below",
+      "artist": "OutKast",
+      "musicbrainzId": null
+    },
+    {
+      "position": 294,
+      "title": "Weezer (The Blue Album)",
+      "artist": "Weezer",
+      "musicbrainzId": null
+    },
+    {
+      "position": 308,
+      "title": "Here Come the Warm Jets",
+      "artist": "Brian Eno",
+      "musicbrainzId": null
+    },
+    {
+      "position": 338,
+      "title": "Another Green World",
+      "artist": "Brian Eno",
+      "musicbrainzId": null
+    },
+    {
+      "position": 341,
+      "title": "Siamese Dream",
+      "artist": "The Smashing Pumpkins",
+      "musicbrainzId": "cb94282e-44f3-48ec-b46d-cde8f9c15b6d"
+    },
+    {
+      "position": 365,
+      "title": "Madvillainy",
+      "artist": "Madvillain",
+      "musicbrainzId": null
+    },
+    {
+      "position": 378,
+      "title": "Run-D.M.C.",
+      "artist": "Run-DMC",
+      "musicbrainzId": null
+    },
+    {
+      "position": 400,
+      "title": "Beauty and the Beat",
+      "artist": "The Go-Go’s",
+      "musicbrainzId": "5230e044-dc45-49d7-9fae-973b7e706a9f"
+    },
+    {
+      "position": 402,
+      "title": "Expensive Shit",
+      "artist": "Fela Kuti and Africa 70",
+      "musicbrainzId": null
+    },
+    {
+      "position": 405,
+      "title": "Nuggets: Original Artyfacts from the First Psychedelic Era",
+      "artist": "Various",
+      "musicbrainzId": null
+    },
+    {
+      "position": 415,
+      "title": "Looka Py Py",
+      "artist": "The Meters",
+      "musicbrainzId": null
+    },
+    {
+      "position": 446,
+      "title": "Journey in Satchidanada",
+      "artist": "Alice Coltrane",
+      "musicbrainzId": null
+    },
+    {
+      "position": 448,
+      "title": "Dictionary of Soul",
+      "artist": "Otis Redding",
+      "musicbrainzId": null
+    },
+    {
+      "position": 452,
+      "title": "Anthology",
+      "artist": "Diana Ross and the Supremes",
+      "musicbrainzId": null
+    },
+    {
+      "position": 455,
+      "title": "Bo Diddley/Go Bo Diddley",
+      "artist": "Bo Diddley",
+      "musicbrainzId": null
+    },
+    {
+      "position": 459,
+      "title": "Man on the Moon: The End of the Day",
+      "artist": "Kid Cudi",
+      "musicbrainzId": null
+    },
+    {
+      "position": 463,
+      "title": "Eli & the 13th Confession",
+      "artist": "Laura Nyro",
+      "musicbrainzId": null
+    },
+    {
+      "position": 464,
+      "title": "3 + 3",
+      "artist": "The Isley Brothers",
+      "musicbrainzId": null
+    },
+    {
+      "position": 478,
+      "title": "Something Else by the Kinks",
+      "artist": "The Kinks",
+      "musicbrainzId": null
+    },
+    {
+      "position": 489,
+      "title": "Back to Mono (1958-1969)",
+      "artist": "Phil Spector and Various Artists",
+      "musicbrainzId": null
+    },
+    {
+      "position": 490,
+      "title": "Heart Like a Wheel",
+      "artist": "Linda Ronstadt",
+      "musicbrainzId": null
+    }
+  ],
+  "lowConfidence": [
+    {
+      "position": 10,
+      "expectedTitle": "The Miseducation of Lauryn Hill",
+      "expectedArtist": "Lauryn Hill",
+      "selectedTitle": "The Miseducation of Lauryn Hill",
+      "selectedArtist": "Ms. Lauryn Hill",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "8691d12c-abd8-385c-b1eb-d841190124f7"
+    },
+    {
+      "position": 17,
+      "expectedTitle": "My Beautiful Dark Twisted Fantasy",
+      "expectedArtist": "Kanye West",
+      "selectedTitle": "My Beautiful Dark Twisted Fantasy",
+      "selectedArtist": "Ye",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "5d6e21e1-deb5-428e-bb42-c2a567f3619b"
+    },
+    {
+      "position": 23,
+      "expectedTitle": "The Velvet Underground and Nico",
+      "expectedArtist": "The Velvet Underground",
+      "selectedTitle": "The Velvet Underground & Nico",
+      "selectedArtist": "The Velvet Underground & Nico",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "5cbd9d7b-597a-3c5e-bfd1-c2b364215560"
+    },
+    {
+      "position": 29,
+      "expectedTitle": "White Album",
+      "expectedArtist": "The Beatles",
+      "selectedTitle": "White Album Sessions, Volume 2",
+      "selectedArtist": "The Beatles",
+      "score": 89,
+      "yearDifference": 24,
+      "musicbrainzId": "d619fd21-b150-3f8f-b85e-8975bddc08de"
+    },
+    {
+      "position": 30,
+      "expectedTitle": "Are You Experienced",
+      "expectedArtist": "Jimi Hendrix",
+      "selectedTitle": "Are You Experienced",
+      "selectedArtist": "The Jimi Hendrix Experience",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "da40e720-2097-3730-8a7f-0c2ddbff4a96"
+    },
+    {
+      "position": 45,
+      "expectedTitle": "Sign O' the Times",
+      "expectedArtist": "Prince",
+      "selectedTitle": "Sign o’ the Times Live!",
+      "selectedArtist": "Prince",
+      "score": 100,
+      "yearDifference": 17,
+      "musicbrainzId": "a47f26f1-6166-46bd-9612-cb4c327ffe5f"
+    },
+    {
+      "position": 48,
+      "expectedTitle": "Legend",
+      "expectedArtist": "Bob Marley and the Wailers",
+      "selectedTitle": "Legend: The Best of Bob Marley and The Wailers",
+      "selectedArtist": "Bob Marley & The Wailers",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "1a4c52cd-483a-347c-93f9-4d512767c7ba"
+    },
+    {
+      "position": 53,
+      "expectedTitle": "Electric Ladyland",
+      "expectedArtist": "Jimi Hendrix",
+      "selectedTitle": "Electric Ladyland",
+      "selectedArtist": "The Jimi Hendrix Experience",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "47ba2d59-5544-34a4-b108-dc08c0956298"
+    },
+    {
+      "position": 65,
+      "expectedTitle": "Live at the Apollo",
+      "expectedArtist": "James Brown",
+      "selectedTitle": "Live at the Apollo, 1962",
+      "selectedArtist": "James Brown",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "a2bad96f-a572-38f2-b362-5865dedc0d35"
+    },
+    {
+      "position": 74,
+      "expectedTitle": "The College Dropout",
+      "expectedArtist": "Kanye West",
+      "selectedTitle": "The College Dropout",
+      "selectedArtist": "Ye",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "8a01217e-6947-3927-a39b-6691104694f1"
+    },
+    {
+      "position": 85,
+      "expectedTitle": "Plastic Ono Band",
+      "expectedArtist": "John Lennon",
+      "selectedTitle": "John Lennon/Plastic Ono Band",
+      "selectedArtist": "John Lennon / Plastic Ono Band",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "8be83468-4917-390d-82b6-d890f058cd22"
+    },
+    {
+      "position": 93,
+      "expectedTitle": "Supa Dupa Fly",
+      "expectedArtist": "Missy “Misdemeanor” Elliott",
+      "selectedTitle": "Supa Dupa Fly",
+      "selectedArtist": "Missy Elliott",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "45a68d94-6923-38c1-a6dd-4cfc1cdc193a"
+    },
+    {
+      "position": 105,
+      "expectedTitle": "At Fillmore East",
+      "expectedArtist": "The Allman Brothers",
+      "selectedTitle": "At Fillmore East",
+      "selectedArtist": "The Allman Brothers Band",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "d757b87e-4a3b-38ec-9246-548baeff5ceb"
+    },
+    {
+      "position": 117,
+      "expectedTitle": "Late Registration",
+      "expectedArtist": "Kanye West",
+      "selectedTitle": "Late Registration",
+      "selectedArtist": "Ye",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "c563d738-3841-31ce-b29d-ec6b40fd1e7b"
+    },
+    {
+      "position": 163,
+      "expectedTitle": "Saturday Night Fever",
+      "expectedArtist": "Various Artists",
+      "selectedTitle": "Saturday Night Fever: The Original Movie Sound Track",
+      "selectedArtist": "Various Artists",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "6e9a06a8-c8bb-3ea9-877a-417e74bb1c2e"
+    },
+    {
+      "position": 178,
+      "expectedTitle": "Otis Blue",
+      "expectedArtist": "Otis Redding",
+      "selectedTitle": "Otis Blue / Otis Redding Sings Soul",
+      "selectedArtist": "Otis Redding",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": null
+    },
+    {
+      "position": 198,
+      "expectedTitle": "The B-52's",
+      "expectedArtist": "The B-52's",
+      "selectedTitle": "The B‐52’s / Cosmic Thing",
+      "selectedArtist": "The B‐52s",
+      "score": 100,
+      "yearDifference": 18,
+      "musicbrainzId": "41403803-d532-4274-9878-d026de4c74ff"
+    },
+    {
+      "position": 204,
+      "expectedTitle": "Graduation",
+      "expectedArtist": "Kanye West",
+      "selectedTitle": "Graduation",
+      "selectedArtist": "Ye",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "d44c50ad-61fd-3fce-95fc-27024d7f1d30"
+    },
+    {
+      "position": 213,
+      "expectedTitle": "The Idler Wheel",
+      "expectedArtist": "Fiona Apple",
+      "selectedTitle": "The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do",
+      "selectedArtist": "Fiona Apple",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "6086062c-f943-4b85-b1cb-43558425ec1c"
+    },
+    {
+      "position": 224,
+      "expectedTitle": "Fly",
+      "expectedArtist": "Dixie Chicks",
+      "selectedTitle": "Fly",
+      "selectedArtist": "The Chicks",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "e1fbdc3d-2aa4-345d-ae0e-40bfb1552431"
+    },
+    {
+      "position": 238,
+      "expectedTitle": "Trans Europe Express",
+      "expectedArtist": "Kraftwerk",
+      "selectedTitle": "Trans Europe Express",
+      "selectedArtist": "Kraftwerk",
+      "score": 100,
+      "yearDifference": 22,
+      "musicbrainzId": "0e2b636a-3813-476e-898d-d027218e05d2"
+    },
+    {
+      "position": 244,
+      "expectedTitle": "808s & Heartbreak",
+      "expectedArtist": "Kanye West",
+      "selectedTitle": "808s & Heartbreak",
+      "selectedArtist": "Ye",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "1c1b50ec-828b-3d7c-9b1b-54cb1fe97d55"
+    },
+    {
+      "position": 269,
+      "expectedTitle": "Yeezus",
+      "expectedArtist": "Kanye West",
+      "selectedTitle": "Yeezus",
+      "selectedArtist": "Ye",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "5d4d0f2d-9be7-4922-bc9a-cbd2880b12c2"
+    },
+    {
+      "position": 283,
+      "expectedTitle": "Bad Girls",
+      "expectedArtist": "Donna Summer",
+      "selectedTitle": "Bad Girls",
+      "selectedArtist": "Donna Summer",
+      "score": 100,
+      "yearDifference": 4,
+      "musicbrainzId": "f7568cc7-4c09-3a47-abbc-593e7aaac7d6"
+    },
+    {
+      "position": 296,
+      "expectedTitle": "Rust Never Sleeps",
+      "expectedArtist": "Neil Young",
+      "selectedTitle": "Rust Never Sleeps",
+      "selectedArtist": "Neil Young & Crazy Horse",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "a710c7c7-46e6-36ca-9c3c-87c8e79f8daf"
+    },
+    {
+      "position": 307,
+      "expectedTitle": "Portrait of a Legend",
+      "expectedArtist": "Sam Cooke",
+      "selectedTitle": "Portrait of a Legend 1951–1964",
+      "selectedArtist": "Sam Cooke",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "38d697fd-bdf6-3800-bbff-2078456d4c4c"
+    },
+    {
+      "position": 325,
+      "expectedTitle": "All Killer No Filler!",
+      "expectedArtist": "Jerry Lee Lewis",
+      "selectedTitle": "All Killer No Filler! The Jerry Lee Lewis Anthology",
+      "selectedArtist": "Jerry Lee Lewis",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "d452a649-644b-326d-b9cf-418f39ac2902"
+    },
+    {
+      "position": 340,
+      "expectedTitle": "Doggystyle",
+      "expectedArtist": "Snoop Doggy Dogg",
+      "selectedTitle": "Doggystyle",
+      "selectedArtist": "Snoop Dogg",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "649762c9-8785-3d9c-803d-2f0496f168e5"
+    },
+    {
+      "position": 341,
+      "expectedTitle": "Siamese Dream",
+      "expectedArtist": "The Smashing Pumpkins",
+      "selectedTitle": "B‐Sides From Siamese Dream",
+      "selectedArtist": "The Smashing Pumpkins",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "cb94282e-44f3-48ec-b46d-cde8f9c15b6d"
+    },
+    {
+      "position": 347,
+      "expectedTitle": "Liquid Swords",
+      "expectedArtist": "GZA",
+      "selectedTitle": "Liquid Swords",
+      "selectedArtist": "GZA/Genius",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "6075a004-e983-3a00-8a13-50af32f0e200"
+    },
+    {
+      "position": 363,
+      "expectedTitle": "The Mothership Connection",
+      "expectedArtist": "Parliament",
+      "selectedTitle": "The Mothership Connection (Live From Houston)",
+      "selectedArtist": "George Clinton, Parliament, Funkadelic",
+      "score": 80,
+      "yearDifference": 11,
+      "musicbrainzId": "9085b6be-d1ff-472c-9cc6-ad657e177b2b"
+    },
+    {
+      "position": 400,
+      "expectedTitle": "Beauty and the Beat",
+      "expectedArtist": "The Go-Go’s",
+      "selectedTitle": "Beauty And The Beat (30th Anniversary Deluxe Edition)",
+      "selectedArtist": "The Go-Go’s",
+      "score": 100,
+      "yearDifference": 999,
+      "musicbrainzId": "5230e044-dc45-49d7-9fae-973b7e706a9f"
+    },
+    {
+      "position": 401,
+      "expectedTitle": "Blondie",
+      "expectedArtist": "Blondie",
+      "selectedTitle": "Blondie Chaplin",
+      "selectedArtist": "Blondie Chaplin",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "ec4a417f-edd9-4dc2-96a8-51b93679a5ee"
+    },
+    {
+      "position": 405,
+      "expectedTitle": "Nuggets: Original Artyfacts from the First Psychedelic Era",
+      "expectedArtist": "Various",
+      "selectedTitle": "Nuggets: Original Artyfacts From the First Psychedelic Era, 1965–1968",
+      "selectedArtist": "Various Artists",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": null
+    },
+    {
+      "position": 407,
+      "expectedTitle": "Everybody Knows This Is Nowhere",
+      "expectedArtist": "Neil Young",
+      "selectedTitle": "Everybody Knows This Is Nowhere",
+      "selectedArtist": "Neil Young with Crazy Horse",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "f61603ab-ef6b-386b-a5e0-aaefc00543f1"
+    },
+    {
+      "position": 412,
+      "expectedTitle": "Going to a Go Go",
+      "expectedArtist": "Smokey Robinson and the Miracles",
+      "selectedTitle": "Going to a Go‐Go",
+      "selectedArtist": "The Miracles",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "88762473-682d-3544-a9e7-1bb3c5dddaf1"
+    },
+    {
+      "position": 429,
+      "expectedTitle": "Reach Out",
+      "expectedArtist": "The Four Tops",
+      "selectedTitle": "Reach Out, I'll Be There",
+      "selectedArtist": "Four Tops",
+      "score": 100,
+      "yearDifference": 39,
+      "musicbrainzId": "33e4aabd-e964-48b8-a446-a61664835de3"
+    },
+    {
+      "position": 443,
+      "expectedTitle": "Scary Monsters",
+      "expectedArtist": "David Bowie",
+      "selectedTitle": "Scary Monsters… and Super Creeps",
+      "selectedArtist": "David Bowie",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "bb13cb45-254c-3a61-89a5-15d22a97e6d6"
+    },
+    {
+      "position": 448,
+      "expectedTitle": "Dictionary of Soul",
+      "expectedArtist": "Otis Redding",
+      "selectedTitle": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+      "selectedArtist": "Otis Redding",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": null
+    },
+    {
+      "position": 450,
+      "expectedTitle": "Ram",
+      "expectedArtist": "Paul and Linda McCartney",
+      "selectedTitle": "RAM",
+      "selectedArtist": "Paul McCartney & Linda McCartney",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "434d4068-8404-359a-9585-3376d3d1680d"
+    },
+    {
+      "position": 452,
+      "expectedTitle": "Anthology",
+      "expectedArtist": "Diana Ross and the Supremes",
+      "selectedTitle": "Anthology",
+      "selectedArtist": "The Supremes",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": null
+    },
+    {
+      "position": 454,
+      "expectedTitle": "Ege Bamyasi",
+      "expectedArtist": "Can",
+      "selectedTitle": "Ege Bamyası",
+      "selectedArtist": "Can",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "a4b405a6-0577-3b77-b46d-06af1b98fbd2"
+    },
+    {
+      "position": 462,
+      "expectedTitle": "The Gilded Palace of Sin",
+      "expectedArtist": "The Flying Burrito Brothers",
+      "selectedTitle": "The Gilded Palace of Sin / Burrito Deluxe",
+      "selectedArtist": "The Flying Burrito Brothers",
+      "score": 100,
+      "yearDifference": 28,
+      "musicbrainzId": "a7562b15-0ee5-35cf-b9ce-38d892475521"
+    },
+    {
+      "position": 494,
+      "expectedTitle": "Presenting the Fabulous Ronettes",
+      "expectedArtist": "The Ronettes",
+      "selectedTitle": "Presenting the Fabulous Ronettes Featuring Veronica",
+      "selectedArtist": "The Ronettes",
+      "score": 100,
+      "yearDifference": 0,
+      "musicbrainzId": "b24ffd1d-1cbc-32bd-bf45-b76b30792b8d"
+    }
+  ],
+  "networkErrors": [
+    {
+      "position": 140,
+      "title": "Catch a Fire",
+      "artist": "Bob Marley and the Wailers",
+      "musicbrainzId": null,
+      "source": "MusicBrainz",
+      "message": "The operation was aborted due to timeout"
+    },
+    {
+      "position": 178,
+      "title": "Otis Blue",
+      "artist": "Otis Redding",
+      "musicbrainzId": null,
+      "source": "MusicBrainz",
+      "message": "The operation was aborted due to timeout"
+    },
+    {
+      "position": 191,
+      "title": "At Last!",
+      "artist": "Etta James",
+      "musicbrainzId": null,
+      "source": "MusicBrainz",
+      "message": "The operation was aborted due to timeout"
+    },
+    {
+      "position": 203,
+      "title": "Pink Moon",
+      "artist": "Nick Drake",
+      "musicbrainzId": null,
+      "source": "MusicBrainz",
+      "message": "The operation was aborted due to timeout"
+    },
+    {
+      "position": 308,
+      "title": "Here Come the Warm Jets",
+      "artist": "Brian Eno",
+      "musicbrainzId": null,
+      "source": "MusicBrainz",
+      "message": "The operation was aborted due to timeout"
+    },
+    {
+      "position": 365,
+      "title": "Madvillainy",
+      "artist": "Madvillain",
+      "musicbrainzId": null,
+      "source": "MusicBrainz",
+      "message": "The operation was aborted due to timeout"
+    },
+    {
+      "position": 400,
+      "title": "Beauty and the Beat",
+      "artist": "The Go-Go’s",
+      "musicbrainzId": "5230e044-dc45-49d7-9fae-973b7e706a9f",
+      "source": "Cover Art Archive",
+      "message": "Download da capa HTTP 404"
+    },
+    {
+      "position": 402,
+      "title": "Expensive Shit",
+      "artist": "Fela Kuti and Africa 70",
+      "musicbrainzId": null,
+      "source": "MusicBrainz",
+      "message": "The operation was aborted due to timeout"
+    },
+    {
+      "position": 405,
+      "title": "Nuggets: Original Artyfacts from the First Psychedelic Era",
+      "artist": "Various",
+      "musicbrainzId": null,
+      "source": "MusicBrainz",
+      "message": "The operation was aborted due to timeout"
+    },
+    {
+      "position": 448,
+      "title": "Dictionary of Soul",
+      "artist": "Otis Redding",
+      "musicbrainzId": null,
+      "source": "MusicBrainz",
+      "message": "The operation was aborted due to timeout"
+    },
+    {
+      "position": 452,
+      "title": "Anthology",
+      "artist": "Diana Ross and the Supremes",
+      "musicbrainzId": null,
+      "source": "MusicBrainz",
+      "message": "The operation was aborted due to timeout"
+    },
+    {
+      "position": 455,
+      "title": "Bo Diddley/Go Bo Diddley",
+      "artist": "Bo Diddley",
+      "musicbrainzId": null,
+      "source": "MusicBrainz",
+      "message": "The operation was aborted due to timeout"
+    },
+    {
+      "position": 464,
+      "title": "3 + 3",
+      "artist": "The Isley Brothers",
+      "musicbrainzId": null,
+      "source": "MusicBrainz",
+      "message": "The operation was aborted due to timeout"
+    },
+    {
+      "position": 478,
+      "title": "Something Else by the Kinks",
+      "artist": "The Kinks",
+      "musicbrainzId": null,
+      "source": "MusicBrainz",
+      "message": "The operation was aborted due to timeout"
+    },
+    {
+      "position": 490,
+      "title": "Heart Like a Wheel",
+      "artist": "Linda Ronstadt",
+      "musicbrainzId": null,
+      "source": "MusicBrainz",
+      "message": "The operation was aborted due to timeout"
+    }
+  ]
+}

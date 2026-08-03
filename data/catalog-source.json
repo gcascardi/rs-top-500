@@ -1,0 +1,19 @@
+{
+  "edition": 2020,
+  "sourceRepository": "https://github.com/mminute/RollingStone500GreatestAlbums2020",
+  "sourceFile": "https://raw.githubusercontent.com/mminute/RollingStone500GreatestAlbums2020/main/rollingStone500GreatestAlbums2020.csv",
+  "fieldsUsed": ["Ranking", "Title", "Artist", "Year"],
+  "excludedFields": ["Publisher", "Description"],
+  "crossCheckSource": "https://github.com/nussbaum596/Rolling-Stone-EDA/blob/main/list_top500_2020_clean.csv",
+  "manualCorrections": [
+    { "position": 211, "field": "artist", "sourceValue": "Joy Divison", "correctedValue": "Joy Division" },
+    { "position": 211, "field": "year", "sourceValue": 1980, "correctedValue": 1979 },
+    { "position": 263, "field": "title", "sourceValue": "Hard Day's Night", "correctedValue": "A Hard Day's Night" },
+    { "position": 289, "field": "artist", "sourceValue": "Björk", "correctedValue": "Björk" },
+    { "position": 309, "field": "artist", "sourceValue": "Joy Divison", "correctedValue": "Joy Division" },
+    { "position": 315, "field": "artist", "sourceValue": "Rosalía", "correctedValue": "Rosalía" },
+    { "position": 338, "field": "year", "sourceValue": 19755, "correctedValue": 1975 },
+    { "position": 435, "field": "year", "sourceValue": null, "correctedValue": 1987 }
+  ],
+  "notes": "Snapshot público da lista de 2020, cruzado com uma segunda transcrição. Somente posição, título, artista e ano são importados; nenhum texto editorial é mantido."
+}

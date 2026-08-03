@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "position": 1,
+    "title": "What's Going On",
+    "artist": "Marvin Gaye",
+    "year": 1971
+  },
+  {
+    "id": 2,
+    "position": 2,
+    "title": "Pet Sounds",
+    "artist": "The Beach Boys",
+    "year": 1966
+  },
+  {
+    "id": 3,
+    "position": 3,
+    "title": "Blue",
+    "artist": "Joni Mitchell",
+    "year": 1971
+  },
+  {
+    "id": 4,
+    "position": 4,
+    "title": "Songs in the Key of Life",
+    "artist": "Stevie Wonder",
+    "year": 1976
+  },
+  {
+    "id": 5,
+    "position": 5,
+    "title": "Abbey Road",
+    "artist": "The Beatles",
+    "year": 1969
+  },
+  {
+    "id": 6,
+    "position": 6,
+    "title": "Nevermind",
+    "artist": "Nirvana",
+    "year": 1991
+  },
+  {
+    "id": 7,
+    "position": 7,
+    "title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "year": 1977
+  },
+  {
+    "id": 8,
+    "position": 8,
+    "title": "Purple Rain",
+    "artist": "Prince and the Revolution",
+    "year": 1984
+  },
+  {
+    "id": 9,
+    "position": 9,
+    "title": "Blood on the Tracks",
+    "artist": "Bob Dylan",
+    "year": 1975
+  },
+  {
+    "id": 10,
+    "position": 10,
+    "title": "The Miseducation of Lauryn Hill",
+    "artist": "Lauryn Hill",
+    "year": 1998
+  },
+  {
+    "id": 11,
+    "position": 11,
+    "title": "Revolver",
+    "artist": "The Beatles",
+    "year": 1966
+  },
+  {
+    "id": 12,
+    "position": 12,
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "year": 1982
+  },
+  {
+    "id": 13,
+    "position": 13,
+    "title": "I Never Loved a Man the Way I Love You",
+    "artist": "Aretha Franklin",
+    "year": 1967
+  },
+  {
+    "id": 14,
+    "position": 14,
+    "title": "Exile on Main Street",
+    "artist": "The Rolling Stones",
+    "year": 1972
+  },
+  {
+    "id": 15,
+    "position": 15,
+    "title": "It Takes a Nation of Millions to Hold Us Back",
+    "artist": "Public Enemy",
+    "year": 1988
+  },
+  {
+    "id": 16,
+    "position": 16,
+    "title": "London Calling",
+    "artist": "The Clash",
+    "year": 1979
+  },
+  {
+    "id": 17,
+    "position": 17,
+    "title": "My Beautiful Dark Twisted Fantasy",
+    "artist": "Kanye West",
+    "year": 2010
+  },
+  {
+    "id": 18,
+    "position": 18,
+    "title": "Highway 61 Revisited",
+    "artist": "Bob Dylan",
+    "year": 1965
+  },
+  {
+    "id": 19,
+    "position": 19,
+    "title": "To Pimp a Butterfly",
+    "artist": "Kendrick Lamar",
+    "year": 2015
+  },
+  {
+    "id": 20,
+    "position": 20,
+    "title": "Kid A",
+    "artist": "Radiohead",
+    "year": 2000
+  },
+  {
+    "id": 21,
+    "position": 21,
+    "title": "Born to Run",
+    "artist": "Bruce Springsteen",
+    "year": 1975
+  },
+  {
+    "id": 22,
+    "position": 22,
+    "title": "Ready to Die",
+    "artist": "The Notorious B.I.G.",
+    "year": 1994
+  },
+  {
+    "id": 23,
+    "position": 23,
+    "title": "The Velvet Underground and Nico",
+    "artist": "The Velvet Underground",
+    "year": 1967
+  },
+  {
+    "id": 24,
+    "position": 24,
+    "title": "Sgt. Pepper’s Lonely Hearts Club Band",
+    "artist": "The Beatles",
+    "year": 1967
+  },
+  {
+    "id": 25,
+    "position": 25,
+    "title": "Tapestry",
+    "artist": "Carole King",
+    "year": 1971
+  },
+  {
+    "id": 26,
+    "position": 26,
+    "title": "Horses",
+    "artist": "Patti Smith",
+    "year": 1975
+  },
+  {
+    "id": 27,
+    "position": 27,
+    "title": "Enter the Wu-Tang(36 Chambers)",
+    "artist": "Wu-Tang Clan",
+    "year": 1993
+  },
+  {
+    "id": 28,
+    "position": 28,
+    "title": "Voodoo",
+    "artist": "D’Angelo",
+    "year": 2000
+  },
+  {
+    "id": 29,
+    "position": 29,
+    "title": "White Album",
+    "artist": "The Beatles",
+    "year": 1968
+  },
+  {
+    "id": 30,
+    "position": 30,
+    "title": "Are You Experienced",
+    "artist": "Jimi Hendrix",
+    "year": 1967
+  },
+  {
+    "id": 31,
+    "position": 31,
+    "title": "Kind of Blue",
+    "artist": "Miles Davis",
+    "year": 1959
+  },
+  {
+    "id": 32,
+    "position": 32,
+    "title": "Lemonade",
+    "artist": "Beyoncé",
+    "year": 2016
+  },
+  {
+    "id": 33,
+    "position": 33,
+    "title": "Back to Black",
+    "artist": "Amy Winehouse",
+    "year": 2006
+  },
+  {
+    "id": 34,
+    "position": 34,
+    "title": "Innervisions",
+    "artist": "Stevie Wonder",
+    "year": 1973
+  },
+  {
+    "id": 35,
+    "position": 35,
+    "title": "Rubber Soul",
+    "artist": "The Beatles",
+    "year": 1965
+  },
+  {
+    "id": 36,
+    "position": 36,
+    "title": "Off the Wall",
+    "artist": "Michael Jackson",
+    "year": 1979
+  },
+  {
+    "id": 37,
+    "position": 37,
+    "title": "The Chronic",
+    "artist": "Dr. Dre",
+    "year": 1992
+  },
+  {
+    "id": 38,
+    "position": 38,
+    "title": "Blonde on Blonde",
+    "artist": "Bob Dylan",
+    "year": 1966
+  },
+  {
+    "id": 39,
+    "position": 39,
+    "title": "Remain in Light",
+    "artist": "Talking Heads",
+    "year": 1980
+  },
+  {
+    "id": 40,
+    "position": 40,
+    "title": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
+    "artist": "David Bowie",
+    "year": 1972
+  },
+  {
+    "id": 41,
+    "position": 41,
+    "title": "Let It Bleed",
+    "artist": "The Rolling Stones",
+    "year": 1969
+  },
+  {
+    "id": 42,
+    "position": 42,
+    "title": "OK Computer",
+    "artist": "Radiohead",
+    "year": 1997
+  },
+  {
+    "id": 43,
+    "position": 43,
+    "title": "The Low End Theory",
+    "artist": "A Tribe Called Quest",
+    "year": 1991
+  },
+  {
+    "id": 44,
+    "position": 44,
+    "title": "Illmatic",
+    "artist": "Nas",
+    "year": 1994
+  },
+  {
+    "id": 45,
+    "position": 45,
+    "title": "Sign O' the Times",
+    "artist": "Prince",
+    "year": 1987
+  },
+  {
+    "id": 46,
+    "position": 46,
+    "title": "Graceland",
+    "artist": "Paul Simon",
+    "year": 1986
+  },
+  {
+    "id": 47,
+    "position": 47,
+    "title": "Ramones",
+    "artist": "Ramones",
+    "year": 1976
+  },
+  {
+    "id": 48,
+    "position": 48,
+    "title": "Legend",
+    "artist": "Bob Marley and the Wailers",
+    "year": 1984
+  },
+  {
+    "id": 49,
+    "position": 49,
+    "title": "Aquemini",
+    "artist": "OutKast",
+    "year": 1998
+  },
+  {
+    "id": 50,
+    "position": 50,
+    "title": "The Blueprint",
+    "artist": "Jay-Z",
+    "year": 2001
+  },
+  {
+    "id": 51,
+    "position": 51,
+    "title": "The Great Twenty-Eight",
+    "artist": "Chuck Berry",
+    "year": 1982
+  },
+  {
+    "id": 52,
+    "position": 52,
+    "title": "Station to Station",
+    "artist": "David Bowie",
+    "year": 1976
+  },
+  {
+    "id": 53,
+    "position": 53,
+    "title": "Electric Ladyland",
+    "artist": "Jimi Hendrix",
+    "year": 1968
+  },
+  {
+    "id": 54,
+    "position": 54,
+    "title": "Star Time",
+    "artist": "James Brown",
+    "year": 1991
+  },
+  {
+    "id": 55,
+    "position": 55,
+    "title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "year": 1973
+  },
+  {
+    "id": 56,
+    "position": 56,
+    "title": "Exile in Guyville",
+    "artist": "Liz Phair",
+    "year": 1993
+  },
+  {
+    "id": 57,
+    "position": 57,
+    "title": "The Band",
+    "artist": "The Band",
+    "year": 1969
+  },
+  {
+    "id": 58,
+    "position": 58,
+    "title": "Led Zeppelin IV",
+    "artist": "Led Zeppelin",
+    "year": 1971
+  },
+  {
+    "id": 59,
+    "position": 59,
+    "title": "Talking Book",
+    "artist": "Stevie Wonder",
+    "year": 1972
+  },
+  {
+    "id": 60,
+    "position": 60,
+    "title": "Astral Weeks",
+    "artist": "Van Morrison",
+    "year": 1968
+  },
+  {
+    "id": 61,
+    "position": 61,
+    "title": "Paid in Full",
+    "artist": "Eric B. and Rakim",
+    "year": 1987
+  },
+  {
+    "id": 62,
+    "position": 62,
+    "title": "Appetite for Destruction",
+    "artist": "Guns N’ Roses",
+    "year": 1987
+  },
+  {
+    "id": 63,
+    "position": 63,
+    "title": "Aja",
+    "artist": "Steely Dan",
+    "year": 1977
+  },
+  {
+    "id": 64,
+    "position": 64,
+    "title": "Stankonia",
+    "artist": "OutKast",
+    "year": 2000
+  },
+  {
+    "id": 65,
+    "position": 65,
+    "title": "Live at the Apollo",
+    "artist": "James Brown",
+    "year": 1963
+  },
+  {
+    "id": 66,
+    "position": 66,
+    "title": "A Love Supreme",
+    "artist": "John Coltrane",
+    "year": 1965
+  },
+  {
+    "id": 67,
+    "position": 67,
+    "title": "Reasonable Doubt",
+    "artist": "Jay-Z",
+    "year": 1996
+  },
+  {
+    "id": 68,
+    "position": 68,
+    "title": "Hounds of Love",
+    "artist": "Kate Bush",
+    "year": 1985
+  },
+  {
+    "id": 69,
+    "position": 69,
+    "title": "Jagged Little Pill",
+    "artist": "Alanis Morissette",
+    "year": 1995
+  },
+  {
+    "id": 70,
+    "position": 70,
+    "title": "Straight Outta Compton",
+    "artist": "N.W.A",
+    "year": 1988
+  },
+  {
+    "id": 71,
+    "position": 71,
+    "title": "Exodus",
+    "artist": "Bob Marley and the Wailers",
+    "year": 1977
+  },
+  {
+    "id": 72,
+    "position": 72,
+    "title": "Harvest",
+    "artist": "Neil Young",
+    "year": 1972
+  },
+  {
+    "id": 73,
+    "position": 73,
+    "title": "Loveless",
+    "artist": "My Bloody Valentine",
+    "year": 1991
+  },
+  {
+    "id": 74,
+    "position": 74,
+    "title": "The College Dropout",
+    "artist": "Kanye West",
+    "year": 2004
+  },
+  {
+    "id": 75,
+    "position": 75,
+    "title": "Lady Soul",
+    "artist": "Aretha Franklin",
+    "year": 1968
+  },
+  {
+    "id": 76,
+    "position": 76,
+    "title": "Superfly",
+    "artist": "Curtis Mayfield",
+    "year": 1972
+  },
+  {
+    "id": 77,
+    "position": 77,
+    "title": "Who's Next",
+    "artist": "The Who",
+    "year": 1971
+  },
+  {
+    "id": 78,
+    "position": 78,
+    "title": "The Sun Sessions",
+    "artist": "Elvis Presley",
+    "year": 1976
+  },
+  {
+    "id": 79,
+    "position": 79,
+    "title": "Blond",
+    "artist": "Frank Ocean",
+    "year": 2016
+  },
+  {
+    "id": 80,
+    "position": 80,
+    "title": "Never Mind the Bollocks Here’s the Sex Pistols",
+    "artist": "The Sex Pistols",
+    "year": 1977
+  },
+  {
+    "id": 81,
+    "position": 81,
+    "title": "Beyoncé",
+    "artist": "Beyoncé",
+    "year": 2013
+  },
+  {
+    "id": 82,
+    "position": 82,
+    "title": "There’s a Riot Goin’ On",
+    "artist": "Sly and the Family Stone",
+    "year": 1971
+  },
+  {
+    "id": 83,
+    "position": 83,
+    "title": "Dusty in Memphis",
+    "artist": "Dusty Springfield",
+    "year": 1969
+  },
+  {
+    "id": 84,
+    "position": 84,
+    "title": "Back in Black",
+    "artist": "AC/DC",
+    "year": 1980
+  },
+  {
+    "id": 85,
+    "position": 85,
+    "title": "Plastic Ono Band",
+    "artist": "John Lennon",
+    "year": 1970
+  },
+  {
+    "id": 86,
+    "position": 86,
+    "title": "The Doors",
+    "artist": "The Doors",
+    "year": 1967
+  },
+  {
+    "id": 87,
+    "position": 87,
+    "title": "Bitches Brew",
+    "artist": "Miles Davis",
+    "year": 1970
+  },
+  {
+    "id": 88,
+    "position": 88,
+    "title": "Hunky Dory",
+    "artist": "David Bowie",
+    "year": 1971
+  },
+  {
+    "id": 89,
+    "position": 89,
+    "title": "Baduizm",
+    "artist": "Erykah Badu",
+    "year": 1997
+  },
+  {
+    "id": 90,
+    "position": 90,
+    "title": "After the Gold Rush",
+    "artist": "Neil Young",
+    "year": 1970
+  },
+  {
+    "id": 91,
+    "position": 91,
+    "title": "Darkness on the Edge of Town",
+    "artist": "Bruce Springsteen",
+    "year": 1978
+  },
+  {
+    "id": 92,
+    "position": 92,
+    "title": "Axis: Bold as Love",
+    "artist": "The Jimi Hendrix Experience",
+    "year": 1967
+  },
+  {
+    "id": 93,
+    "position": 93,
+    "title": "Supa Dupa Fly",
+    "artist": "Missy “Misdemeanor” Elliott",
+    "year": 1997
+  },
+  {
+    "id": 94,
+    "position": 94,
+    "title": "Fun House",
+    "artist": "The Stooges",
+    "year": 1970
+  },
+  {
+    "id": 95,
+    "position": 95,
+    "title": "Take Care",
+    "artist": "Drake",
+    "year": 2011
+  },
+  {
+    "id": 96,
+    "position": 96,
+    "title": "Automatic for the People",
+    "artist": "R.E.M.",
+    "year": 1992
+  },
+  {
+    "id": 97,
+    "position": 97,
+    "title": "Master of Puppets",
+    "artist": "Metallica",
+    "year": 1986
+  },
+  {
+    "id": 98,
+    "position": 98,
+    "title": "Car Wheels on a Gravel Road",
+    "artist": "Lucinda Williams",
+    "year": 1998
+  },
+  {
+    "id": 99,
+    "position": 99,
+    "title": "Red",
+    "artist": "Taylor Swift",
+    "year": 2012
+  },
+  {
+    "id": 100,
+    "position": 100,
+    "title": "Music From Big Pink",
+    "artist": "The Band",
+    "year": 1968
+  },
+  {
+    "id": 101,
+    "position": 101,
+    "title": "Led Zeppelin",
+    "artist": "Led Zeppelin",
+    "year": 1969
+  },
+  {
+    "id": 102,
+    "position": 102,
+    "title": "The Clash",
+    "artist": "The Clash",
+    "year": 1977
+  },
+  {
+    "id": 103,
+    "position": 103,
+    "title": "Three Feet High And Rising",
+    "artist": "De La Soul",
+    "year": 1989
+  },
+  {
+    "id": 104,
+    "position": 104,
+    "title": "Sticky Fingers",
+    "artist": "The Rolling Stones",
+    "year": 1971
+  },
+  {
+    "id": 105,
+    "position": 105,
+    "title": "At Fillmore East",
+    "artist": "The Allman Brothers",
+    "year": 1971
+  },
+  {
+    "id": 106,
+    "position": 106,
+    "title": "Live Through This",
+    "artist": "Hole",
+    "year": 1994
+  },
+  {
+    "id": 107,
+    "position": 107,
+    "title": "Marquee Moon",
+    "artist": "Television",
+    "year": 1977
+  },
+  {
+    "id": 108,
+    "position": 108,
+    "title": "When the Pawn ...",
+    "artist": "Fiona Apple",
+    "year": 1999
+  },
+  {
+    "id": 109,
+    "position": 109,
+    "title": "Transformer",
+    "artist": "Lou Reed",
+    "year": 1972
+  },
+  {
+    "id": 110,
+    "position": 110,
+    "title": "Court and Spark",
+    "artist": "Joni Mitchell",
+    "year": 1974
+  },
+  {
+    "id": 111,
+    "position": 111,
+    "title": "Control",
+    "artist": "Janet Jackson",
+    "year": 1986
+  },
+  {
+    "id": 112,
+    "position": 112,
+    "title": "Goodbye Yellow Brick Road",
+    "artist": "Elton John",
+    "year": 1973
+  },
+  {
+    "id": 113,
+    "position": 113,
+    "title": "The Queen Is Dead",
+    "artist": "The Smiths",
+    "year": 1986
+  },
+  {
+    "id": 114,
+    "position": 114,
+    "title": "Is This It",
+    "artist": "The Strokes",
+    "year": 2001
+  },
+  {
+    "id": 115,
+    "position": 115,
+    "title": "good kid, m.A.A.d city",
+    "artist": "Kendrick Lamar",
+    "year": 2012
+  },
+  {
+    "id": 116,
+    "position": 116,
+    "title": "Disintegration",
+    "artist": "The Cure",
+    "year": 1989
+  },
+  {
+    "id": 117,
+    "position": 117,
+    "title": "Late Registration",
+    "artist": "Kanye West",
+    "year": 2005
+  },
+  {
+    "id": 118,
+    "position": 118,
+    "title": "Hotel California",
+    "artist": "The Eagles",
+    "year": 1976
+  },
+  {
+    "id": 119,
+    "position": 119,
+    "title": "Stand!",
+    "artist": "Sly and the Family Stone",
+    "year": 1969
+  },
+  {
+    "id": 120,
+    "position": 120,
+    "title": "Moondance",
+    "artist": "Van Morrison",
+    "year": 1970
+  },
+  {
+    "id": 121,
+    "position": 121,
+    "title": "This Year’s Model",
+    "artist": "Elvis Costello",
+    "year": 1978
+  },
+  {
+    "id": 122,
+    "position": 122,
+    "title": "The Downward Spiral",
+    "artist": "Nine Inch Nails",
+    "year": 1994
+  },
+  {
+    "id": 123,
+    "position": 123,
+    "title": "Led Zeppelin II",
+    "artist": "Led Zeppelin",
+    "year": 1969
+  },
+  {
+    "id": 124,
+    "position": 124,
+    "title": "Achtung Baby",
+    "artist": "U2",
+    "year": 1991
+  },
+  {
+    "id": 125,
+    "position": 125,
+    "title": "Paul's Boutique",
+    "artist": "Beastie Boys",
+    "year": 1989
+  },
+  {
+    "id": 126,
+    "position": 126,
+    "title": "My Life",
+    "artist": "Mary J. Blige",
+    "year": 1994
+  },
+  {
+    "id": 127,
+    "position": 127,
+    "title": "Modern Sounds in Country and Western Music",
+    "artist": "Ray Charles",
+    "year": 1962
+  },
+  {
+    "id": 128,
+    "position": 128,
+    "title": "A Night at the Opera",
+    "artist": "Queen",
+    "year": 1975
+  },
+  {
+    "id": 129,
+    "position": 129,
+    "title": "The Wall",
+    "artist": "Pink Floyd",
+    "year": 1979
+  },
+  {
+    "id": 130,
+    "position": 130,
+    "title": "1999",
+    "artist": "Prince",
+    "year": 1982
+  },
+  {
+    "id": 131,
+    "position": 131,
+    "title": "Dummy",
+    "artist": "Portishead",
+    "year": 1994
+  },
+  {
+    "id": 132,
+    "position": 132,
+    "title": "40 Greatest Hits",
+    "artist": "Hank Williams",
+    "year": 1978
+  },
+  {
+    "id": 133,
+    "position": 133,
+    "title": "Hejira",
+    "artist": "Joni Mitchell",
+    "year": 1976
+  },
+  {
+    "id": 134,
+    "position": 134,
+    "title": "The Score",
+    "artist": "Fugees",
+    "year": 1996
+  },
+  {
+    "id": 135,
+    "position": 135,
+    "title": "The Joshua Tree",
+    "artist": "U2",
+    "year": 1987
+  },
+  {
+    "id": 136,
+    "position": 136,
+    "title": "Maggot Brain",
+    "artist": "Funkadelic",
+    "year": 1971
+  },
+  {
+    "id": 137,
+    "position": 137,
+    "title": "21",
+    "artist": "Adele",
+    "year": 2011
+  },
+  {
+    "id": 138,
+    "position": 138,
+    "title": "The Immaculate Collection",
+    "artist": "Madonna",
+    "year": 1990
+  },
+  {
+    "id": 139,
+    "position": 139,
+    "title": "Paranoid",
+    "artist": "Black Sabbath",
+    "year": 1970
+  },
+  {
+    "id": 140,
+    "position": 140,
+    "title": "Catch a Fire",
+    "artist": "Bob Marley and the Wailers",
+    "year": 1973
+  },
+  {
+    "id": 141,
+    "position": 141,
+    "title": "Doolittle",
+    "artist": "Pixies",
+    "year": 1989
+  },
+  {
+    "id": 142,
+    "position": 142,
+    "title": "Born in the U.S.A.",
+    "artist": "Bruce Springsteen",
+    "year": 1984
+  },
+  {
+    "id": 143,
+    "position": 143,
+    "title": "The Velvet Underground",
+    "artist": "The Velvet Underground",
+    "year": 1969
+  },
+  {
+    "id": 144,
+    "position": 144,
+    "title": "Physical Graffiti",
+    "artist": "Led Zeppelin",
+    "year": 1975
+  },
+  {
+    "id": 145,
+    "position": 145,
+    "title": "The Marshall Mathers LP",
+    "artist": "Eminem",
+    "year": 2000
+  },
+  {
+    "id": 146,
+    "position": 146,
+    "title": "Parallel Lines",
+    "artist": "Blondie",
+    "year": 1978
+  },
+  {
+    "id": 147,
+    "position": 147,
+    "title": "Grace",
+    "artist": "Jeff Buckley",
+    "year": 1994
+  },
+  {
+    "id": 148,
+    "position": 148,
+    "title": "Channel Orange",
+    "artist": "Frank Ocean",
+    "year": 2012
+  },
+  {
+    "id": 149,
+    "position": 149,
+    "title": "John Prine",
+    "artist": "John Prine",
+    "year": 1971
+  },
+  {
+    "id": 150,
+    "position": 150,
+    "title": "Nebraska",
+    "artist": "Bruce Springsteen",
+    "year": 1982
+  },
+  {
+    "id": 151,
+    "position": 151,
+    "title": "Faith",
+    "artist": "George Michael",
+    "year": 1987
+  },
+  {
+    "id": 152,
+    "position": 152,
+    "title": "Pretenders",
+    "artist": "The Pretenders",
+    "year": 1980
+  },
+  {
+    "id": 153,
+    "position": 153,
+    "title": "Rid of Me",
+    "artist": "PJ Harvey",
+    "year": 1993
+  },
+  {
+    "id": 154,
+    "position": 154,
+    "title": "Amazing Grace",
+    "artist": "Aretha Franklin",
+    "year": 1972
+  },
+  {
+    "id": 155,
+    "position": 155,
+    "title": "The Black Album",
+    "artist": "Jay-Z",
+    "year": 2003
+  },
+  {
+    "id": 156,
+    "position": 156,
+    "title": "Let It Be",
+    "artist": "The Replacements",
+    "year": 1984
+  },
+  {
+    "id": 157,
+    "position": 157,
+    "title": "(What's the Story) Morning Glory?",
+    "artist": "Oasis",
+    "year": 1995
+  },
+  {
+    "id": 158,
+    "position": 158,
+    "title": "Mama's Gun",
+    "artist": "Erykah Badu",
+    "year": 2000
+  },
+  {
+    "id": 159,
+    "position": 159,
+    "title": "Synchronicity",
+    "artist": "The Police",
+    "year": 1983
+  },
+  {
+    "id": 160,
+    "position": 160,
+    "title": "Ten",
+    "artist": "Pearl Jam",
+    "year": 1991
+  },
+  {
+    "id": 161,
+    "position": 161,
+    "title": "Crosby, Stills & Nash",
+    "artist": "Crosby, Stills & Nash",
+    "year": 1969
+  },
+  {
+    "id": 162,
+    "position": 162,
+    "title": "Different Class",
+    "artist": "Pulp",
+    "year": 1995
+  },
+  {
+    "id": 163,
+    "position": 163,
+    "title": "Saturday Night Fever",
+    "artist": "Various Artists",
+    "year": 1977
+  },
+  {
+    "id": 164,
+    "position": 164,
+    "title": "At Folsom Prison",
+    "artist": "Johnny Cash",
+    "year": 1968
+  },
+  {
+    "id": 165,
+    "position": 165,
+    "title": "Murmur",
+    "artist": "R.E.M.",
+    "year": 1983
+  },
+  {
+    "id": 166,
+    "position": 166,
+    "title": "20 Golden Greats",
+    "artist": "Buddy Holly",
+    "year": 1978
+  },
+  {
+    "id": 167,
+    "position": 167,
+    "title": "Violator",
+    "artist": "Depeche Mode",
+    "year": 1990
+  },
+  {
+    "id": 168,
+    "position": 168,
+    "title": "Can’t Buy a Thrill",
+    "artist": "Steely Dan",
+    "year": 1972
+  },
+  {
+    "id": 169,
+    "position": 169,
+    "title": "The Stranger",
+    "artist": "Billy Joel",
+    "year": 1977
+  },
+  {
+    "id": 170,
+    "position": 170,
+    "title": "Disraeli Gears",
+    "artist": "Cream",
+    "year": 1967
+  },
+  {
+    "id": 171,
+    "position": 171,
+    "title": "Daydream Nation",
+    "artist": "Sonic Youth",
+    "year": 1988
+  },
+  {
+    "id": 172,
+    "position": 172,
+    "title": "Bridge Over Troubled Water",
+    "artist": "Simon and Garfunkel",
+    "year": 1970
+  },
+  {
+    "id": 173,
+    "position": 173,
+    "title": "In Utero",
+    "artist": "Nirvana",
+    "year": 1993
+  },
+  {
+    "id": 174,
+    "position": 174,
+    "title": "The Harder They Come: Original Soundtrack",
+    "artist": "Jimmy Cliff and Various Artists",
+    "year": 1972
+  },
+  {
+    "id": 175,
+    "position": 175,
+    "title": "DAMN.",
+    "artist": "Kendrick Lamar",
+    "year": 2017
+  },
+  {
+    "id": 176,
+    "position": 176,
+    "title": "Fear of a Black Planet",
+    "artist": "Public Enemy",
+    "year": 1990
+  },
+  {
+    "id": 177,
+    "position": 177,
+    "title": "Every Picture Tells a Story",
+    "artist": "Rod Stewart",
+    "year": 1971
+  },
+  {
+    "id": 178,
+    "position": 178,
+    "title": "Otis Blue",
+    "artist": "Otis Redding",
+    "year": 1965
+  },
+  {
+    "id": 179,
+    "position": 179,
+    "title": "Life After Death",
+    "artist": "Notorious B.I.G.",
+    "year": 1997
+  },
+  {
+    "id": 180,
+    "position": 180,
+    "title": "Forever Changes",
+    "artist": "Love",
+    "year": 1967
+  },
+  {
+    "id": 181,
+    "position": 181,
+    "title": "Bringing It All Back Home",
+    "artist": "Bob Dylan",
+    "year": 1965
+  },
+  {
+    "id": 182,
+    "position": 182,
+    "title": "Sweet Baby James",
+    "artist": "James Taylor",
+    "year": 1970
+  },
+  {
+    "id": 183,
+    "position": 183,
+    "title": "Brown Sugar",
+    "artist": "D'Angelo",
+    "year": 1995
+  },
+  {
+    "id": 184,
+    "position": 184,
+    "title": "She’s So Unusual",
+    "artist": "Cyndi Lauper",
+    "year": 1983
+  },
+  {
+    "id": 185,
+    "position": 185,
+    "title": "Beggars Banquet",
+    "artist": "The Rolling Stones",
+    "year": 1968
+  },
+  {
+    "id": 186,
+    "position": 186,
+    "title": "Blood Sugar Sex Magik",
+    "artist": "Red Hot Chili Peppers",
+    "year": 1991
+  },
+  {
+    "id": 187,
+    "position": 187,
+    "title": "AmeriKKKa’s Most Wanted",
+    "artist": "Ice Cube",
+    "year": 1990
+  },
+  {
+    "id": 188,
+    "position": 188,
+    "title": "Electric Warrior",
+    "artist": "T. Rex",
+    "year": 1971
+  },
+  {
+    "id": 189,
+    "position": 189,
+    "title": "Dig Me Out",
+    "artist": "Sleater-Kinney",
+    "year": 1997
+  },
+  {
+    "id": 190,
+    "position": 190,
+    "title": "Tommy",
+    "artist": "The Who",
+    "year": 1969
+  },
+  {
+    "id": 191,
+    "position": 191,
+    "title": "At Last!",
+    "artist": "Etta James",
+    "year": 1961
+  },
+  {
+    "id": 192,
+    "position": 192,
+    "title": "Licensed to Ill",
+    "artist": "Beastie Boys",
+    "year": 1986
+  },
+  {
+    "id": 193,
+    "position": 193,
+    "title": "Willy and the Poor Boys",
+    "artist": "Creedence Clearwater Revival",
+    "year": 1969
+  },
+  {
+    "id": 194,
+    "position": 194,
+    "title": "Bad",
+    "artist": "Michael Jackson",
+    "year": 1987
+  },
+  {
+    "id": 195,
+    "position": 195,
+    "title": "Songs of Leonard Cohen",
+    "artist": "Leonard Cohen",
+    "year": 1967
+  },
+  {
+    "id": 196,
+    "position": 196,
+    "title": "Body Talk",
+    "artist": "Robyn",
+    "year": 2010
+  },
+  {
+    "id": 197,
+    "position": 197,
+    "title": "Meet the Beatles!",
+    "artist": "The Beatles",
+    "year": 1964
+  },
+  {
+    "id": 198,
+    "position": 198,
+    "title": "The B-52's",
+    "artist": "The B-52's",
+    "year": 1979
+  },
+  {
+    "id": 199,
+    "position": 199,
+    "title": "Slanted and Enchanted",
+    "artist": "Pavement",
+    "year": 1993
+  },
+  {
+    "id": 200,
+    "position": 200,
+    "title": "Diamond Life",
+    "artist": "Sade",
+    "year": 1984
+  },
+  {
+    "id": 201,
+    "position": 201,
+    "title": "Midnight Marauders",
+    "artist": "A Tribe Called Quest",
+    "year": 1993
+  },
+  {
+    "id": 202,
+    "position": 202,
+    "title": "Homogenic",
+    "artist": "Björk",
+    "year": 1997
+  },
+  {
+    "id": 203,
+    "position": 203,
+    "title": "Pink Moon",
+    "artist": "Nick Drake",
+    "year": 1979
+  },
+  {
+    "id": 204,
+    "position": 204,
+    "title": "Graduation",
+    "artist": "Kanye West",
+    "year": 2007
+  },
+  {
+    "id": 205,
+    "position": 205,
+    "title": "Tea for the Tillerman",
+    "artist": "Cat Stevens",
+    "year": 1970
+  },
+  {
+    "id": 206,
+    "position": 206,
+    "title": "Low",
+    "artist": "David Bowie",
+    "year": 1977
+  },
+  {
+    "id": 207,
+    "position": 207,
+    "title": "Eagles",
+    "artist": "Eagles",
+    "year": 1972
+  },
+  {
+    "id": 208,
+    "position": 208,
+    "title": "Tha Carter III",
+    "artist": "Lil Wayne",
+    "year": 2008
+  },
+  {
+    "id": 209,
+    "position": 209,
+    "title": "Raising Hell",
+    "artist": "Run-DMC",
+    "year": 1986
+  },
+  {
+    "id": 210,
+    "position": 210,
+    "title": "The Birth of Soul",
+    "artist": "Ray Charles",
+    "year": 1991
+  },
+  {
+    "id": 211,
+    "position": 211,
+    "title": "Unknown Pleasures",
+    "artist": "Joy Division",
+    "year": 1979
+  },
+  {
+    "id": 212,
+    "position": 212,
+    "title": "Wild Is the Wind",
+    "artist": "Nina Simone",
+    "year": 1966
+  },
+  {
+    "id": 213,
+    "position": 213,
+    "title": "The Idler Wheel",
+    "artist": "Fiona Apple",
+    "year": 2012
+  },
+  {
+    "id": 214,
+    "position": 214,
+    "title": "Wildflowers",
+    "artist": "Tom Petty",
+    "year": 1994
+  },
+  {
+    "id": 215,
+    "position": 215,
+    "title": "American Beauty",
+    "artist": "Grateful Dead",
+    "year": 1970
+  },
+  {
+    "id": 216,
+    "position": 216,
+    "title": "Either/Or",
+    "artist": "Elliott Smith",
+    "year": 1997
+  },
+  {
+    "id": 217,
+    "position": 217,
+    "title": "Definitely Maybe",
+    "artist": "Oasis",
+    "year": 1994
+  },
+  {
+    "id": 218,
+    "position": 218,
+    "title": "CrazySexyCool",
+    "artist": "TLC",
+    "year": 1994
+  },
+  {
+    "id": 219,
+    "position": 219,
+    "title": "Only Built 4 Cuban Linx",
+    "artist": "Raekwon",
+    "year": 1995
+  },
+  {
+    "id": 220,
+    "position": 220,
+    "title": "Déjà Vu",
+    "artist": "Crosby, Stills, Nash, and Young",
+    "year": 1970
+  },
+  {
+    "id": 221,
+    "position": 221,
+    "title": "Rage Against the Machine",
+    "artist": "Rage Against the Machine",
+    "year": 1992
+  },
+  {
+    "id": 222,
+    "position": 222,
+    "title": "Ray of Light",
+    "artist": "Madonna",
+    "year": 1998
+  },
+  {
+    "id": 223,
+    "position": 223,
+    "title": "Imagine",
+    "artist": "John Lennon",
+    "year": 1971
+  },
+  {
+    "id": 224,
+    "position": 224,
+    "title": "Fly",
+    "artist": "Dixie Chicks",
+    "year": 1999
+  },
+  {
+    "id": 225,
+    "position": 225,
+    "title": "Yankee Hotel Foxtrot",
+    "artist": "Wilco",
+    "year": 2001
+  },
+  {
+    "id": 226,
+    "position": 226,
+    "title": "Layla and Other Assorted Love Songs",
+    "artist": "Derek and the Dominos",
+    "year": 1970
+  },
+  {
+    "id": 227,
+    "position": 227,
+    "title": "Here’s Little Richard",
+    "artist": "Little Richard",
+    "year": 1957
+  },
+  {
+    "id": 228,
+    "position": 228,
+    "title": "De La Soul Is Dead",
+    "artist": "De La Soul",
+    "year": 1991
+  },
+  {
+    "id": 229,
+    "position": 229,
+    "title": "The Ultimate Collection",
+    "artist": "Patsy Cline",
+    "year": 2000
+  },
+  {
+    "id": 230,
+    "position": 230,
+    "title": "Anti",
+    "artist": "Rihanna",
+    "year": 2016
+  },
+  {
+    "id": 231,
+    "position": 231,
+    "title": "Damn the Torpedoes",
+    "artist": "Tom Petty and the Heartbreakers",
+    "year": 1979
+  },
+  {
+    "id": 232,
+    "position": 232,
+    "title": "Giant Steps",
+    "artist": "John Coltrane",
+    "year": 1960
+  },
+  {
+    "id": 233,
+    "position": 233,
+    "title": "Little Earthquakes",
+    "artist": "Tori Amos",
+    "year": 1992
+  },
+  {
+    "id": 234,
+    "position": 234,
+    "title": "Master of Reality",
+    "artist": "Black Sabbath",
+    "year": 1971
+  },
+  {
+    "id": 235,
+    "position": 235,
+    "title": "Metallica (The Black Album)",
+    "artist": "Metallica",
+    "year": 1991
+  },
+  {
+    "id": 236,
+    "position": 236,
+    "title": "Discovery",
+    "artist": "Daft Punk",
+    "year": 2001
+  },
+  {
+    "id": 237,
+    "position": 237,
+    "title": "Red Headed Stranger",
+    "artist": "Willie Nelson",
+    "year": 1975
+  },
+  {
+    "id": 238,
+    "position": 238,
+    "title": "Trans Europe Express",
+    "artist": "Kraftwerk",
+    "year": 1977
+  },
+  {
+    "id": 239,
+    "position": 239,
+    "title": "Criminal Minded",
+    "artist": "Boogie Down Productions",
+    "year": 1987
+  },
+  {
+    "id": 240,
+    "position": 240,
+    "title": "Live at the Harlem Square Club, 1963",
+    "artist": "Sam Cooke",
+    "year": 1985
+  },
+  {
+    "id": 241,
+    "position": 241,
+    "title": "Blue Lines",
+    "artist": "Massive Attack",
+    "year": 1991
+  },
+  {
+    "id": 242,
+    "position": 242,
+    "title": "Loaded",
+    "artist": "The Velvet Underground",
+    "year": 1970
+  },
+  {
+    "id": 243,
+    "position": 243,
+    "title": "Odessey and Oracle",
+    "artist": "The Zombies",
+    "year": 1968
+  },
+  {
+    "id": 244,
+    "position": 244,
+    "title": "808s & Heartbreak",
+    "artist": "Kanye West",
+    "year": 2008
+  },
+  {
+    "id": 245,
+    "position": 245,
+    "title": "Heaven or Las Vegas",
+    "artist": "Cocteau Twins",
+    "year": 1990
+  },
+  {
+    "id": 246,
+    "position": 246,
+    "title": "Mama Said Knock You Out",
+    "artist": "LL Cool J",
+    "year": 1991
+  },
+  {
+    "id": 247,
+    "position": 247,
+    "title": "Love Deluxe",
+    "artist": "Sade",
+    "year": 1992
+  },
+  {
+    "id": 248,
+    "position": 248,
+    "title": "American Idiot",
+    "artist": "Green Day",
+    "year": 2004
+  },
+  {
+    "id": 249,
+    "position": 249,
+    "title": "Whitney Houston",
+    "artist": "Whitney Houston",
+    "year": 1985
+  },
+  {
+    "id": 250,
+    "position": 250,
+    "title": "Singles Going Steady",
+    "artist": "Buzzcocks",
+    "year": 1979
+  },
+  {
+    "id": 251,
+    "position": 251,
+    "title": "Honky Château",
+    "artist": "Elton John",
+    "year": 1972
+  },
+  {
+    "id": 252,
+    "position": 252,
+    "title": "Q: Are We Not Men? A: We Are Devo!",
+    "artist": "Devo",
+    "year": 1978
+  },
+  {
+    "id": 253,
+    "position": 253,
+    "title": "The Piper at the Gates of Dawn",
+    "artist": "Pink Floyd",
+    "year": 1967
+  },
+  {
+    "id": 254,
+    "position": 254,
+    "title": "Head Hunters",
+    "artist": "Herbie Hancock",
+    "year": 1973
+  },
+  {
+    "id": 255,
+    "position": 255,
+    "title": "The Freewheelin' Bob Dylan",
+    "artist": "Bob Dylan",
+    "year": 1963
+  },
+  {
+    "id": 256,
+    "position": 256,
+    "title": "Tracy Chapman",
+    "artist": "Tracy Chapman",
+    "year": 1988
+  },
+  {
+    "id": 257,
+    "position": 257,
+    "title": "Coat of Many Colors",
+    "artist": "Dolly Parton",
+    "year": 1971
+  },
+  {
+    "id": 258,
+    "position": 258,
+    "title": "The Hissing of Summer Lawns",
+    "artist": "Joni Mitchell",
+    "year": 1975
+  },
+  {
+    "id": 259,
+    "position": 259,
+    "title": "Pearl",
+    "artist": "Janis Joplin",
+    "year": 1971
+  },
+  {
+    "id": 260,
+    "position": 260,
+    "title": "Cut",
+    "artist": "The Slits",
+    "year": 1979
+  },
+  {
+    "id": 261,
+    "position": 261,
+    "title": "Check Your Head",
+    "artist": "Beastie Boys",
+    "year": 1992
+  },
+  {
+    "id": 262,
+    "position": 262,
+    "title": "Power, Corruption & Lies",
+    "artist": "New Order",
+    "year": 1983
+  },
+  {
+    "id": 263,
+    "position": 263,
+    "title": "A Hard Day's Night",
+    "artist": "The Beatles",
+    "year": 1964
+  },
+  {
+    "id": 264,
+    "position": 264,
+    "title": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "year": 1975
+  },
+  {
+    "id": 265,
+    "position": 265,
+    "title": "Wowee Zowee",
+    "artist": "Pavement",
+    "year": 1995
+  },
+  {
+    "id": 266,
+    "position": 266,
+    "title": "Help!",
+    "artist": "The Beatles",
+    "year": 1965
+  },
+  {
+    "id": 267,
+    "position": 267,
+    "title": "Double Nickels on the Dime",
+    "artist": "Minutemen",
+    "year": 1984
+  },
+  {
+    "id": 268,
+    "position": 268,
+    "title": "Sail Away",
+    "artist": "Randy Newman",
+    "year": 1972
+  },
+  {
+    "id": 269,
+    "position": 269,
+    "title": "Yeezus",
+    "artist": "Kanye West",
+    "year": 2013
+  },
+  {
+    "id": 270,
+    "position": 270,
+    "title": "Golden Hour",
+    "artist": "Kacey Musgraves",
+    "year": 2018
+  },
+  {
+    "id": 271,
+    "position": 271,
+    "title": "What’s the 411?",
+    "artist": "Mary J. Blige",
+    "year": 1992
+  },
+  {
+    "id": 272,
+    "position": 272,
+    "title": "White Light/White Heat",
+    "artist": "The Velvet Underground",
+    "year": 1968
+  },
+  {
+    "id": 273,
+    "position": 273,
+    "title": "Entertainment!",
+    "artist": "Gang of Four",
+    "year": 1979
+  },
+  {
+    "id": 274,
+    "position": 274,
+    "title": "Sweetheart of the Rodeo",
+    "artist": "The Byrds",
+    "year": 1968
+  },
+  {
+    "id": 275,
+    "position": 275,
+    "title": "Curtis",
+    "artist": "Curtis Mayfield",
+    "year": 1970
+  },
+  {
+    "id": 276,
+    "position": 276,
+    "title": "The Bends",
+    "artist": "Radiohead",
+    "year": 1995
+  },
+  {
+    "id": 277,
+    "position": 277,
+    "title": "The Diary of Alicia Keys",
+    "artist": "Alicia Keys",
+    "year": 2003
+  },
+  {
+    "id": 278,
+    "position": 278,
+    "title": "Houses of the Holy",
+    "artist": "Led Zeppelin",
+    "year": 1973
+  },
+  {
+    "id": 279,
+    "position": 279,
+    "title": "MTV Unplugged in New York",
+    "artist": "Nirvana",
+    "year": 1994
+  },
+  {
+    "id": 280,
+    "position": 280,
+    "title": "Get Rich or Die Tryin'",
+    "artist": "50 Cent",
+    "year": 2002
+  },
+  {
+    "id": 281,
+    "position": 281,
+    "title": "Nilsson Schmilsson",
+    "artist": "Harry Nilsson",
+    "year": 1971
+  },
+  {
+    "id": 282,
+    "position": 282,
+    "title": "In the Wee Small Hours",
+    "artist": "Frank Sinatra",
+    "year": 1955
+  },
+  {
+    "id": 283,
+    "position": 283,
+    "title": "Bad Girls",
+    "artist": "Donna Summer",
+    "year": 1975
+  },
+  {
+    "id": 284,
+    "position": 284,
+    "title": "Down Every Road 1962-1994",
+    "artist": "Merle Haggard",
+    "year": 1996
+  },
+  {
+    "id": 285,
+    "position": 285,
+    "title": "Third/Sister Lovers",
+    "artist": "Big Star",
+    "year": 1978
+  },
+  {
+    "id": 286,
+    "position": 286,
+    "title": "Californication",
+    "artist": "Red Hot Chili Peppers",
+    "year": 1999
+  },
+  {
+    "id": 287,
+    "position": 287,
+    "title": "Mr. Tambourine Man",
+    "artist": "The Byrds",
+    "year": 1965
+  },
+  {
+    "id": 288,
+    "position": 288,
+    "title": "The Modern Lovers",
+    "artist": "The Modern Lovers",
+    "year": 1976
+  },
+  {
+    "id": 289,
+    "position": 289,
+    "title": "Post",
+    "artist": "Björk",
+    "year": 1995
+  },
+  {
+    "id": 290,
+    "position": 290,
+    "title": "Speakerboxxx/The Love Below",
+    "artist": "OutKast",
+    "year": 2003
+  },
+  {
+    "id": 291,
+    "position": 291,
+    "title": "The Writing’s on the Wall",
+    "artist": "Destiny's Child",
+    "year": 1999
+  },
+  {
+    "id": 292,
+    "position": 292,
+    "title": "Van Halen",
+    "artist": "Van Halen",
+    "year": 1978
+  },
+  {
+    "id": 293,
+    "position": 293,
+    "title": "Last Splash",
+    "artist": "The Breeders",
+    "year": 1993
+  },
+  {
+    "id": 294,
+    "position": 294,
+    "title": "Weezer (The Blue Album)",
+    "artist": "Weezer",
+    "year": 1994
+  },
+  {
+    "id": 295,
+    "position": 295,
+    "title": "Random Access Memories",
+    "artist": "Daft Punk",
+    "year": 2013
+  },
+  {
+    "id": 296,
+    "position": 296,
+    "title": "Rust Never Sleeps",
+    "artist": "Neil Young",
+    "year": 1979
+  },
+  {
+    "id": 297,
+    "position": 297,
+    "title": "So",
+    "artist": "Peter Gabriel",
+    "year": 1986
+  },
+  {
+    "id": 298,
+    "position": 298,
+    "title": "Full Moon Fever",
+    "artist": "Tom Petty",
+    "year": 1989
+  },
+  {
+    "id": 299,
+    "position": 299,
+    "title": "Live at the Regal",
+    "artist": "B.B. King",
+    "year": 1965
+  },
+  {
+    "id": 300,
+    "position": 300,
+    "title": "Come on Over",
+    "artist": "Shania Twain",
+    "year": 1997
+  },
+  {
+    "id": 301,
+    "position": 301,
+    "title": "New York Dolls",
+    "artist": "New York Dolls",
+    "year": 1973
+  },
+  {
+    "id": 302,
+    "position": 302,
+    "title": "Tonight's the Night",
+    "artist": "Neil Young",
+    "year": 1975
+  },
+  {
+    "id": 303,
+    "position": 303,
+    "title": "The Definitive Collection",
+    "artist": "ABBA",
+    "year": 2001
+  },
+  {
+    "id": 304,
+    "position": 304,
+    "title": "Just As I Am",
+    "artist": "Bill Withers",
+    "year": 1971
+  },
+  {
+    "id": 305,
+    "position": 305,
+    "title": "Alive!",
+    "artist": "Kiss",
+    "year": 1975
+  },
+  {
+    "id": 306,
+    "position": 306,
+    "title": "I'm Still in Love With You",
+    "artist": "Al Green",
+    "year": 1972
+  },
+  {
+    "id": 307,
+    "position": 307,
+    "title": "Portrait of a Legend",
+    "artist": "Sam Cooke",
+    "year": 2003
+  },
+  {
+    "id": 308,
+    "position": 308,
+    "title": "Here Come the Warm Jets",
+    "artist": "Brian Eno",
+    "year": 1974
+  },
+  {
+    "id": 309,
+    "position": 309,
+    "title": "Closer",
+    "artist": "Joy Division",
+    "year": 1980
+  },
+  {
+    "id": 310,
+    "position": 310,
+    "title": "Pink Flag",
+    "artist": "Wire",
+    "year": 1977
+  },
+  {
+    "id": 311,
+    "position": 311,
+    "title": "On the Beach",
+    "artist": "Neil Young",
+    "year": 1974
+  },
+  {
+    "id": 312,
+    "position": 312,
+    "title": "A Seat at the Table",
+    "artist": "Solange",
+    "year": 2016
+  },
+  {
+    "id": 313,
+    "position": 313,
+    "title": "Stories From the City, Stories From the Sea",
+    "artist": "PJ Harvey",
+    "year": 2000
+  },
+  {
+    "id": 314,
+    "position": 314,
+    "title": "One in a Million",
+    "artist": "Aaliyah",
+    "year": 1996
+  },
+  {
+    "id": 315,
+    "position": 315,
+    "title": "El Mal Querer",
+    "artist": "Rosalía",
+    "year": 2018
+  },
+  {
+    "id": 316,
+    "position": 316,
+    "title": "The Who Sell Out",
+    "artist": "The Who",
+    "year": 1967
+  },
+  {
+    "id": 317,
+    "position": 317,
+    "title": "Lady in Satin",
+    "artist": "Billie Holiday",
+    "year": 1958
+  },
+  {
+    "id": 318,
+    "position": 318,
+    "title": "The Velvet Rope",
+    "artist": "Janet Jackson",
+    "year": 1997
+  },
+  {
+    "id": 319,
+    "position": 319,
+    "title": "The Stone Roses",
+    "artist": "The Stone Roses",
+    "year": 1989
+  },
+  {
+    "id": 320,
+    "position": 320,
+    "title": "Los Angeles",
+    "artist": "X",
+    "year": 1980
+  },
+  {
+    "id": 321,
+    "position": 321,
+    "title": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Rey",
+    "year": 2019
+  },
+  {
+    "id": 322,
+    "position": 322,
+    "title": "From Elvis in Memphis",
+    "artist": "Elvis Presley",
+    "year": 1969
+  },
+  {
+    "id": 323,
+    "position": 323,
+    "title": "Sandinista!",
+    "artist": "The Clash",
+    "year": 1980
+  },
+  {
+    "id": 324,
+    "position": 324,
+    "title": "A Rush of Blood to the Head",
+    "artist": "Coldplay",
+    "year": 2002
+  },
+  {
+    "id": 325,
+    "position": 325,
+    "title": "All Killer No Filler!",
+    "artist": "Jerry Lee Lewis",
+    "year": 1993
+  },
+  {
+    "id": 326,
+    "position": 326,
+    "title": "Dirty Mind",
+    "artist": "Prince",
+    "year": 1980
+  },
+  {
+    "id": 327,
+    "position": 327,
+    "title": "Live at Leeds",
+    "artist": "The Who",
+    "year": 1970
+  },
+  {
+    "id": 328,
+    "position": 328,
+    "title": "Modern Vampires of the City",
+    "artist": "Vampire Weekend",
+    "year": 2013
+  },
+  {
+    "id": 329,
+    "position": 329,
+    "title": "Endtroducing.....",
+    "artist": "DJ Shadow",
+    "year": 1996
+  },
+  {
+    "id": 330,
+    "position": 330,
+    "title": "Aftermath",
+    "artist": "The Rolling Stones",
+    "year": 1966
+  },
+  {
+    "id": 331,
+    "position": 331,
+    "title": "Like a Prayer",
+    "artist": "Madonna",
+    "year": 1989
+  },
+  {
+    "id": 332,
+    "position": 332,
+    "title": "Elvis Presley",
+    "artist": "Elvis Presley",
+    "year": 1956
+  },
+  {
+    "id": 333,
+    "position": 333,
+    "title": "Still Bill",
+    "artist": "Bill Withers",
+    "year": 1972
+  },
+  {
+    "id": 334,
+    "position": 334,
+    "title": "Abraxas",
+    "artist": "Santana",
+    "year": 1970
+  },
+  {
+    "id": 335,
+    "position": 335,
+    "title": "The Basement Tapes",
+    "artist": "Bob Dylan and the Band",
+    "year": 1975
+  },
+  {
+    "id": 336,
+    "position": 336,
+    "title": "Avalon",
+    "artist": "Roxy Music",
+    "year": 1982
+  },
+  {
+    "id": 337,
+    "position": 337,
+    "title": "John Wesley Harding",
+    "artist": "Bob Dylan",
+    "year": 1967
+  },
+  {
+    "id": 338,
+    "position": 338,
+    "title": "Another Green World",
+    "artist": "Brian Eno",
+    "year": 1975
+  },
+  {
+    "id": 339,
+    "position": 339,
+    "title": "Rhythm Nation 1814",
+    "artist": "Janet Jackson",
+    "year": 1989
+  },
+  {
+    "id": 340,
+    "position": 340,
+    "title": "Doggystyle",
+    "artist": "Snoop Doggy Dogg",
+    "year": 1993
+  },
+  {
+    "id": 341,
+    "position": 341,
+    "title": "Siamese Dream",
+    "artist": "The Smashing Pumpkins",
+    "year": 1993
+  },
+  {
+    "id": 342,
+    "position": 342,
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "year": 1970
+  },
+  {
+    "id": 343,
+    "position": 343,
+    "title": "Greatest Hits",
+    "artist": "Sly and the Family Stone",
+    "year": 1970
+  },
+  {
+    "id": 344,
+    "position": 344,
+    "title": "Funky Kingston",
+    "artist": "Toots and the Maytals",
+    "year": 1973
+  },
+  {
+    "id": 345,
+    "position": 345,
+    "title": "The Wild, the Innocent & the E Street Shuffle",
+    "artist": "Bruce Springsteen",
+    "year": 1973
+  },
+  {
+    "id": 346,
+    "position": 346,
+    "title": "AM",
+    "artist": "Arctic Monkeys",
+    "year": 2013
+  },
+  {
+    "id": 347,
+    "position": 347,
+    "title": "Liquid Swords",
+    "artist": "GZA",
+    "year": 1995
+  },
+  {
+    "id": 348,
+    "position": 348,
+    "title": "Time (The Revelator)",
+    "artist": "Gillian Welch",
+    "year": 2001
+  },
+  {
+    "id": 349,
+    "position": 349,
+    "title": "Kick Out the Jams",
+    "artist": "MC5",
+    "year": 1969
+  },
+  {
+    "id": 350,
+    "position": 350,
+    "title": "Music of My Mind",
+    "artist": "Stevie Wonder",
+    "year": 1972
+  },
+  {
+    "id": 351,
+    "position": 351,
+    "title": "For Your Pleasure",
+    "artist": "Roxy Music",
+    "year": 1973
+  },
+  {
+    "id": 352,
+    "position": 352,
+    "title": "The Slim Shady LP",
+    "artist": "Eminem",
+    "year": 1999
+  },
+  {
+    "id": 353,
+    "position": 353,
+    "title": "The Cars",
+    "artist": "The Cars",
+    "year": 1978
+  },
+  {
+    "id": 354,
+    "position": 354,
+    "title": "Germfree Adolescents",
+    "artist": "X-Ray Spex",
+    "year": 1978
+  },
+  {
+    "id": 355,
+    "position": 355,
+    "title": "Black Sabbath",
+    "artist": "Black Sabbath",
+    "year": 1970
+  },
+  {
+    "id": 356,
+    "position": 356,
+    "title": "Gris-Gris",
+    "artist": "Dr. John",
+    "year": 1968
+  },
+  {
+    "id": 357,
+    "position": 357,
+    "title": "Rain Dogs",
+    "artist": "Tom Waits",
+    "year": 1985
+  },
+  {
+    "id": 358,
+    "position": 358,
+    "title": "Goo",
+    "artist": "Sonic Youth",
+    "year": 1990
+  },
+  {
+    "id": 359,
+    "position": 359,
+    "title": "Radio City",
+    "artist": "Big Star",
+    "year": 1974
+  },
+  {
+    "id": 360,
+    "position": 360,
+    "title": "One Nation Under a Groove",
+    "artist": "Funkadelic",
+    "year": 1978
+  },
+  {
+    "id": 361,
+    "position": 361,
+    "title": "The Black Parade",
+    "artist": "My Chemical Romance",
+    "year": 2006
+  },
+  {
+    "id": 362,
+    "position": 362,
+    "title": "Never Too Much",
+    "artist": "Luther Vandross",
+    "year": 1981
+  },
+  {
+    "id": 363,
+    "position": 363,
+    "title": "The Mothership Connection",
+    "artist": "Parliament",
+    "year": 1975
+  },
+  {
+    "id": 364,
+    "position": 364,
+    "title": "More Songs About Buildings and Food",
+    "artist": "Talking Heads",
+    "year": 1978
+  },
+  {
+    "id": 365,
+    "position": 365,
+    "title": "Madvillainy",
+    "artist": "Madvillain",
+    "year": 2004
+  },
+  {
+    "id": 366,
+    "position": 366,
+    "title": "Rocks",
+    "artist": "Aerosmith",
+    "year": 1976
+  },
+  {
+    "id": 367,
+    "position": 367,
+    "title": "If You're Reading This It's Too Late",
+    "artist": "Drake",
+    "year": 2015
+  },
+  {
+    "id": 368,
+    "position": 368,
+    "title": "All Things Must Pass",
+    "artist": "George Harrison",
+    "year": 1970
+  },
+  {
+    "id": 369,
+    "position": 369,
+    "title": "The Infamous",
+    "artist": "Mobb Deep",
+    "year": 1995
+  },
+  {
+    "id": 370,
+    "position": 370,
+    "title": "Tha Carter II",
+    "artist": "Lil Wayne",
+    "year": 2005
+  },
+  {
+    "id": 371,
+    "position": 371,
+    "title": "Anthology",
+    "artist": "The Temptations",
+    "year": 1973
+  },
+  {
+    "id": 372,
+    "position": 372,
+    "title": "Cheap Thrills",
+    "artist": "Big Brother and the Holding Company",
+    "year": 1968
+  },
+  {
+    "id": 373,
+    "position": 373,
+    "title": "Hot Buttered Soul",
+    "artist": "Isaac Hayes",
+    "year": 1969
+  },
+  {
+    "id": 374,
+    "position": 374,
+    "title": "King of the Delta Blues Singers",
+    "artist": "Robert Johnson",
+    "year": 1961
+  },
+  {
+    "id": 375,
+    "position": 375,
+    "title": "Dookie",
+    "artist": "Green Day",
+    "year": 1994
+  },
+  {
+    "id": 376,
+    "position": 376,
+    "title": "In the Aeroplane Over the Sea",
+    "artist": "Neutral Milk Hotel",
+    "year": 1998
+  },
+  {
+    "id": 377,
+    "position": 377,
+    "title": "Fever to Tell",
+    "artist": "Yeah Yeah Yeahs",
+    "year": 2003
+  },
+  {
+    "id": 378,
+    "position": 378,
+    "title": "Run-D.M.C.",
+    "artist": "Run-DMC",
+    "year": 1983
+  },
+  {
+    "id": 379,
+    "position": 379,
+    "title": "Moving Pictures",
+    "artist": "Rush",
+    "year": 1981
+  },
+  {
+    "id": 380,
+    "position": 380,
+    "title": "Mingus Ah Um",
+    "artist": "Charles Mingus",
+    "year": 1959
+  },
+  {
+    "id": 381,
+    "position": 381,
+    "title": "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)",
+    "artist": "Lynyrd Skynyrd",
+    "year": 1973
+  },
+  {
+    "id": 382,
+    "position": 382,
+    "title": "Currents",
+    "artist": "Tame Impala",
+    "year": 2015
+  },
+  {
+    "id": 383,
+    "position": 383,
+    "title": "Mezzanine",
+    "artist": "Massive Attack",
+    "year": 1998
+  },
+  {
+    "id": 384,
+    "position": 384,
+    "title": "The Kinks Are the Village Green Preservation Society",
+    "artist": "The Kinks",
+    "year": 1969
+  },
+  {
+    "id": 385,
+    "position": 385,
+    "title": "Rocket to Russia",
+    "artist": "Ramones",
+    "year": 1977
+  },
+  {
+    "id": 386,
+    "position": 386,
+    "title": "Donuts",
+    "artist": "J Dilla",
+    "year": 2006
+  },
+  {
+    "id": 387,
+    "position": 387,
+    "title": "In Rainbows",
+    "artist": "Radiohead",
+    "year": 2007
+  },
+  {
+    "id": 388,
+    "position": 388,
+    "title": "Young, Gifted and Black",
+    "artist": "Aretha Franklin",
+    "year": 1972
+  },
+  {
+    "id": 389,
+    "position": 389,
+    "title": "The Emancipation of Mimi",
+    "artist": "Mariah Carey",
+    "year": 2005
+  },
+  {
+    "id": 390,
+    "position": 390,
+    "title": "Surfer Rosa",
+    "artist": "Pixies",
+    "year": 1988
+  },
+  {
+    "id": 391,
+    "position": 391,
+    "title": "Kaleidoscope",
+    "artist": "Kelis",
+    "year": 1999
+  },
+  {
+    "id": 392,
+    "position": 392,
+    "title": "Proud Mary: The Best of Ike and Tina Turner",
+    "artist": "Ike and Tina Turner",
+    "year": 1991
+  },
+  {
+    "id": 393,
+    "position": 393,
+    "title": "1989",
+    "artist": "Taylor Swift",
+    "year": 2014
+  },
+  {
+    "id": 394,
+    "position": 394,
+    "title": "Diana",
+    "artist": "Diana Ross",
+    "year": 1980
+  },
+  {
+    "id": 395,
+    "position": 395,
+    "title": "Black Messiah",
+    "artist": "D’Angelo and the Vanguard",
+    "year": 2014
+  },
+  {
+    "id": 396,
+    "position": 396,
+    "title": "Something/Anything?",
+    "artist": "Todd Rundgren",
+    "year": 1972
+  },
+  {
+    "id": 397,
+    "position": 397,
+    "title": "When We All Fall Asleep, Where Do We Go?",
+    "artist": "Billie Eilish",
+    "year": 2019
+  },
+  {
+    "id": 398,
+    "position": 398,
+    "title": "The Raincoats",
+    "artist": "The Raincoats",
+    "year": 1979
+  },
+  {
+    "id": 399,
+    "position": 399,
+    "title": "Smile",
+    "artist": "Brian Wilson",
+    "year": 2004
+  },
+  {
+    "id": 400,
+    "position": 400,
+    "title": "Beauty and the Beat",
+    "artist": "The Go-Go’s",
+    "year": 1981
+  },
+  {
+    "id": 401,
+    "position": 401,
+    "title": "Blondie",
+    "artist": "Blondie",
+    "year": 1977
+  },
+  {
+    "id": 402,
+    "position": 402,
+    "title": "Expensive Shit",
+    "artist": "Fela Kuti and Africa 70",
+    "year": 1975
+  },
+  {
+    "id": 403,
+    "position": 403,
+    "title": "Supreme Clientele",
+    "artist": "Ghostface Killah",
+    "year": 2000
+  },
+  {
+    "id": 404,
+    "position": 404,
+    "title": "Rapture",
+    "artist": "Anita Baker",
+    "year": 1986
+  },
+  {
+    "id": 405,
+    "position": 405,
+    "title": "Nuggets: Original Artyfacts from the First Psychedelic Era",
+    "artist": "Various",
+    "year": 1972
+  },
+  {
+    "id": 406,
+    "position": 406,
+    "title": "69 Love Songs",
+    "artist": "Magnetic Fields",
+    "year": 1999
+  },
+  {
+    "id": 407,
+    "position": 407,
+    "title": "Everybody Knows This Is Nowhere",
+    "artist": "Neil Young",
+    "year": 1969
+  },
+  {
+    "id": 408,
+    "position": 408,
+    "title": "Ace of Spades",
+    "artist": "Motörhead",
+    "year": 1980
+  },
+  {
+    "id": 409,
+    "position": 409,
+    "title": "Workingman’s Dead",
+    "artist": "Grateful Dead",
+    "year": 1970
+  },
+  {
+    "id": 410,
+    "position": 410,
+    "title": "Wild Honey",
+    "artist": "The Beach Boys",
+    "year": 1967
+  },
+  {
+    "id": 411,
+    "position": 411,
+    "title": "Love and Theft",
+    "artist": "Bob Dylan",
+    "year": 2001
+  },
+  {
+    "id": 412,
+    "position": 412,
+    "title": "Going to a Go Go",
+    "artist": "Smokey Robinson and the Miracles",
+    "year": 1965
+  },
+  {
+    "id": 413,
+    "position": 413,
+    "title": "Cosmo's Factory",
+    "artist": "Creedence Clearwater Revival",
+    "year": 1970
+  },
+  {
+    "id": 414,
+    "position": 414,
+    "title": "Risqué",
+    "artist": "Chic",
+    "year": 1979
+  },
+  {
+    "id": 415,
+    "position": 415,
+    "title": "Looka Py Py",
+    "artist": "The Meters",
+    "year": 1969
+  },
+  {
+    "id": 416,
+    "position": 416,
+    "title": "Things Fall Apart",
+    "artist": "The Roots",
+    "year": 1999
+  },
+  {
+    "id": 417,
+    "position": 417,
+    "title": "The Shape of Jazz to Come",
+    "artist": "Ornette Coleman",
+    "year": 1959
+  },
+  {
+    "id": 418,
+    "position": 418,
+    "title": "Brothers in Arms",
+    "artist": "Dire Straits",
+    "year": 1985
+  },
+  {
+    "id": 419,
+    "position": 419,
+    "title": "Chief",
+    "artist": "Eric Church",
+    "year": 2011
+  },
+  {
+    "id": 420,
+    "position": 420,
+    "title": "That’s the Way of the World",
+    "artist": "Earth, Wind and Fire",
+    "year": 1975
+  },
+  {
+    "id": 421,
+    "position": 421,
+    "title": "Arular",
+    "artist": "M.I.A.",
+    "year": 2005
+  },
+  {
+    "id": 422,
+    "position": 422,
+    "title": "Let's Get It On",
+    "artist": "Marvin Gaye",
+    "year": 1973
+  },
+  {
+    "id": 423,
+    "position": 423,
+    "title": "I Can Hear the Heart Beating As One",
+    "artist": "Yo La Tengo",
+    "year": 1997
+  },
+  {
+    "id": 424,
+    "position": 424,
+    "title": "Odelay",
+    "artist": "Beck",
+    "year": 1996
+  },
+  {
+    "id": 425,
+    "position": 425,
+    "title": "Paul Simon",
+    "artist": "Paul Simon",
+    "year": 1972
+  },
+  {
+    "id": 426,
+    "position": 426,
+    "title": "Lucinda Williams",
+    "artist": "Lucinda Williams",
+    "year": 1988
+  },
+  {
+    "id": 427,
+    "position": 427,
+    "title": "Call Me",
+    "artist": "Al Green",
+    "year": 1973
+  },
+  {
+    "id": 428,
+    "position": 428,
+    "title": "New Day Rising",
+    "artist": "Hüsker Dü",
+    "year": 1985
+  },
+  {
+    "id": 429,
+    "position": 429,
+    "title": "Reach Out",
+    "artist": "The Four Tops",
+    "year": 1967
+  },
+  {
+    "id": 430,
+    "position": 430,
+    "title": "My Aim Is True",
+    "artist": "Elvis Costello",
+    "year": 1977
+  },
+  {
+    "id": 431,
+    "position": 431,
+    "title": "How Will the Wolf Survive?",
+    "artist": "Los Lobos",
+    "year": 1984
+  },
+  {
+    "id": 432,
+    "position": 432,
+    "title": "Confessions",
+    "artist": "Usher",
+    "year": 2004
+  },
+  {
+    "id": 433,
+    "position": 433,
+    "title": "Sound of Silver",
+    "artist": "LCD Soundsystem",
+    "year": 2007
+  },
+  {
+    "id": 434,
+    "position": 434,
+    "title": "Crooked Rain, Crooked Rain",
+    "artist": "Pavement",
+    "year": 1994
+  },
+  {
+    "id": 435,
+    "position": 435,
+    "title": "Actually",
+    "artist": "Pet Shop Boys",
+    "year": 1987
+  },
+  {
+    "id": 436,
+    "position": 436,
+    "title": "All Eyez on Me",
+    "artist": "2Pac",
+    "year": 1996
+  },
+  {
+    "id": 437,
+    "position": 437,
+    "title": "Screamadelica",
+    "artist": "Primal Scream",
+    "year": 1991
+  },
+  {
+    "id": 438,
+    "position": 438,
+    "title": "Parklife",
+    "artist": "Blur",
+    "year": 1994
+  },
+  {
+    "id": 439,
+    "position": 439,
+    "title": "Sex Machine",
+    "artist": "James Brown",
+    "year": 1970
+  },
+  {
+    "id": 440,
+    "position": 440,
+    "title": "Coal Miner's Daughter",
+    "artist": "Loretta Lynn",
+    "year": 1971
+  },
+  {
+    "id": 441,
+    "position": 441,
+    "title": "Blackout",
+    "artist": "Britney Spears",
+    "year": 2007
+  },
+  {
+    "id": 442,
+    "position": 442,
+    "title": "Beauty Behind the Madness",
+    "artist": "The Weeknd",
+    "year": 2015
+  },
+  {
+    "id": 443,
+    "position": 443,
+    "title": "Scary Monsters",
+    "artist": "David Bowie",
+    "year": 1980
+  },
+  {
+    "id": 444,
+    "position": 444,
+    "title": "Extraordinary Machine",
+    "artist": "Fiona Apple",
+    "year": 2005
+  },
+  {
+    "id": 445,
+    "position": 445,
+    "title": "Close to the Edge",
+    "artist": "Yes",
+    "year": 1972
+  },
+  {
+    "id": 446,
+    "position": 446,
+    "title": "Journey in Satchidanada",
+    "artist": "Alice Coltrane",
+    "year": 1971
+  },
+  {
+    "id": 447,
+    "position": 447,
+    "title": "X 100pre",
+    "artist": "Bad Bunny",
+    "year": 2018
+  },
+  {
+    "id": 448,
+    "position": 448,
+    "title": "Dictionary of Soul",
+    "artist": "Otis Redding",
+    "year": 1966
+  },
+  {
+    "id": 449,
+    "position": 449,
+    "title": "Elephant",
+    "artist": "The White Stripes",
+    "year": 2003
+  },
+  {
+    "id": 450,
+    "position": 450,
+    "title": "Ram",
+    "artist": "Paul and Linda McCartney",
+    "year": 1971
+  },
+  {
+    "id": 451,
+    "position": 451,
+    "title": "First Take",
+    "artist": "Roberta Flack",
+    "year": 1969
+  },
+  {
+    "id": 452,
+    "position": 452,
+    "title": "Anthology",
+    "artist": "Diana Ross and the Supremes",
+    "year": 1974
+  },
+  {
+    "id": 453,
+    "position": 453,
+    "title": "Pretty Hate Machine",
+    "artist": "Nine Inch Nails",
+    "year": 1989
+  },
+  {
+    "id": 454,
+    "position": 454,
+    "title": "Ege Bamyasi",
+    "artist": "Can",
+    "year": 1972
+  },
+  {
+    "id": 455,
+    "position": 455,
+    "title": "Bo Diddley/Go Bo Diddley",
+    "artist": "Bo Diddley",
+    "year": 1958
+  },
+  {
+    "id": 456,
+    "position": 456,
+    "title": "Greatest Hits",
+    "artist": "Al Green",
+    "year": 1975
+  },
+  {
+    "id": 457,
+    "position": 457,
+    "title": "I Do Not Want What I Haven’t Got",
+    "artist": "Sinéad O’Connor",
+    "year": 1990
+  },
+  {
+    "id": 458,
+    "position": 458,
+    "title": "Southeastern",
+    "artist": "Jason Isbell",
+    "year": 2013
+  },
+  {
+    "id": 459,
+    "position": 459,
+    "title": "Man on the Moon: The End of the Day",
+    "artist": "Kid Cudi",
+    "year": 2009
+  },
+  {
+    "id": 460,
+    "position": 460,
+    "title": "Melodrama",
+    "artist": "Lorde",
+    "year": 2017
+  },
+  {
+    "id": 461,
+    "position": 461,
+    "title": "For Emma",
+    "artist": "Bon Iver",
+    "year": 2008
+  },
+  {
+    "id": 462,
+    "position": 462,
+    "title": "The Gilded Palace of Sin",
+    "artist": "The Flying Burrito Brothers",
+    "year": 1969
+  },
+  {
+    "id": 463,
+    "position": 463,
+    "title": "Eli & the 13th Confession",
+    "artist": "Laura Nyro",
+    "year": 1968
+  },
+  {
+    "id": 464,
+    "position": 464,
+    "title": "3 + 3",
+    "artist": "The Isley Brothers",
+    "year": 1973
+  },
+  {
+    "id": 465,
+    "position": 465,
+    "title": "The Best of the Classic Years",
+    "artist": "King Sunny Adé",
+    "year": 2003
+  },
+  {
+    "id": 466,
+    "position": 466,
+    "title": "The Beach Boys Today!",
+    "artist": "The Beach Boys",
+    "year": 1965
+  },
+  {
+    "id": 467,
+    "position": 467,
+    "title": "BLACKsummers’night",
+    "artist": "Maxwell",
+    "year": 2009
+  },
+  {
+    "id": 468,
+    "position": 468,
+    "title": "Some Girls",
+    "artist": "The Rolling Stones",
+    "year": 1978
+  },
+  {
+    "id": 469,
+    "position": 469,
+    "title": "Clandestino",
+    "artist": "Manu Chao",
+    "year": 1998
+  },
+  {
+    "id": 470,
+    "position": 470,
+    "title": "400 Degreez",
+    "artist": "Juvenile",
+    "year": 1998
+  },
+  {
+    "id": 471,
+    "position": 471,
+    "title": "Surrealistic Pillow",
+    "artist": "Jefferson Airplane",
+    "year": 1967
+  },
+  {
+    "id": 472,
+    "position": 472,
+    "title": "Ctrl",
+    "artist": "SZA",
+    "year": 2017
+  },
+  {
+    "id": 473,
+    "position": 473,
+    "title": "Barrio Fino",
+    "artist": "Daddy Yankee",
+    "year": 2004
+  },
+  {
+    "id": 474,
+    "position": 474,
+    "title": "#1 Record",
+    "artist": "Big Star",
+    "year": 1972
+  },
+  {
+    "id": 475,
+    "position": 475,
+    "title": "Sheryl Crow",
+    "artist": "Sheryl Crow",
+    "year": 1996
+  },
+  {
+    "id": 476,
+    "position": 476,
+    "title": "Kimono My House",
+    "artist": "Sparks",
+    "year": 1974
+  },
+  {
+    "id": 477,
+    "position": 477,
+    "title": "Moanin’ in the Moonlight",
+    "artist": "Howlin’ Wolf",
+    "year": 1959
+  },
+  {
+    "id": 478,
+    "position": 478,
+    "title": "Something Else by the Kinks",
+    "artist": "The Kinks",
+    "year": 1968
+  },
+  {
+    "id": 479,
+    "position": 479,
+    "title": "Amor Prohibido",
+    "artist": "Selena",
+    "year": 1994
+  },
+  {
+    "id": 480,
+    "position": 480,
+    "title": "The Weight of These Wings",
+    "artist": "Miranda Lambert",
+    "year": 2016
+  },
+  {
+    "id": 481,
+    "position": 481,
+    "title": "If You’re Feeling Sinister",
+    "artist": "Belle and Sebastian",
+    "year": 1996
+  },
+  {
+    "id": 482,
+    "position": 482,
+    "title": "Bizarre Ride II the Pharcyde",
+    "artist": "The Pharcyde",
+    "year": 1992
+  },
+  {
+    "id": 483,
+    "position": 483,
+    "title": "The Anthology",
+    "artist": "Muddy Waters",
+    "year": 2001
+  },
+  {
+    "id": 484,
+    "position": 484,
+    "title": "Born This Way",
+    "artist": "Lady Gaga",
+    "year": 2011
+  },
+  {
+    "id": 485,
+    "position": 485,
+    "title": "I Want to See the Bright Lights Tonight",
+    "artist": "Richard and Linda Thompson",
+    "year": 1974
+  },
+  {
+    "id": 486,
+    "position": 486,
+    "title": "Continuum",
+    "artist": "John Mayer",
+    "year": 2006
+  },
+  {
+    "id": 487,
+    "position": 487,
+    "title": "Damaged",
+    "artist": "Black Flag",
+    "year": 1981
+  },
+  {
+    "id": 488,
+    "position": 488,
+    "title": "The Stooges",
+    "artist": "The Stooges",
+    "year": 1969
+  },
+  {
+    "id": 489,
+    "position": 489,
+    "title": "Back to Mono (1958-1969)",
+    "artist": "Phil Spector and Various Artists",
+    "year": 1991
+  },
+  {
+    "id": 490,
+    "position": 490,
+    "title": "Heart Like a Wheel",
+    "artist": "Linda Ronstadt",
+    "year": 1975
+  },
+  {
+    "id": 491,
+    "position": 491,
+    "title": "Fine Line",
+    "artist": "Harry Styles",
+    "year": 2019
+  },
+  {
+    "id": 492,
+    "position": 492,
+    "title": "Nick of Time",
+    "artist": "Bonnie Raitt",
+    "year": 1989
+  },
+  {
+    "id": 493,
+    "position": 493,
+    "title": "Here, My Dear",
+    "artist": "Marvin Gaye",
+    "year": 1978
+  },
+  {
+    "id": 494,
+    "position": 494,
+    "title": "Presenting the Fabulous Ronettes",
+    "artist": "The Ronettes",
+    "year": 1964
+  },
+  {
+    "id": 495,
+    "position": 495,
+    "title": "II",
+    "artist": "Boyz II Men",
+    "year": 1991
+  },
+  {
+    "id": 496,
+    "position": 496,
+    "title": "Dónde Están los Ladrones",
+    "artist": "Shakira",
+    "year": 1998
+  },
+  {
+    "id": 497,
+    "position": 497,
+    "title": "The Indestructible Beat of Soweto",
+    "artist": "Various Artists",
+    "year": 1985
+  },
+  {
+    "id": 498,
+    "position": 498,
+    "title": "Suicide",
+    "artist": "Suicide",
+    "year": 1977
+  },
+  {
+    "id": 499,
+    "position": 499,
+    "title": "Ask Rufus",
+    "artist": "Rufus Featuring Chaka Khan",
+    "year": 1977
+  },
+  {
+    "id": 500,
+    "position": 500,
+    "title": "Funeral",
+    "artist": "Arcade Fire",
+    "year": 2004
+  }
+]

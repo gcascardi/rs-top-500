@@ -1,0 +1,31 @@
+{
+  "name": "rs-top-500",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "import:catalog": "node scripts/importRollingStoneCatalog.js",
+    "generate:albums": "node scripts/generateAlbums.js",
+    "generate:albums:force": "node scripts/generateAlbums.js --force",
+    "generate:albums:missing": "node scripts/generateAlbums.js --missing-only",
+    "validate:albums": "node scripts/validateAlbums.js",
+    "validate:albums:full": "node scripts/validateAlbums.js --require-500"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.112.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.4",
+    "oxlint": "^1.75.0",
+    "sharp": "^0.35.3",
+    "vite": "^8.2.0"
+  }
+}
