@@ -1,6 +1,7 @@
 create table if not exists public.album_progress (
     album_id integer primary key,
     listened boolean not null default false,
+    listen_later boolean not null default false,
     rating numeric(3,1),
     listened_at timestamptz,
     updated_at timestamptz not null default now(),

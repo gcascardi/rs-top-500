@@ -1,3 +1,4 @@
+import ListenLaterButton from './ListenLaterButton'
 import RatingControl from './RatingControl'
 import { publicPath } from '../utils/publicPath'
 
@@ -21,6 +22,7 @@ export default function AlbumCard({ album, state, onUpdate, selectionMode, selec
         <button type="button" className="album-detail-trigger" onClick={() => onOpen(album)}>Ver detalhes</button>
         <div className="album-actions">
           <button disabled={savingIds?.has(album.id)} className={`listen-button ${state.listened ? 'active' : ''}`} onClick={() => onUpdate(album.id, { listened: !state.listened })}>{state.listened ? '✓ Ouvido' : '+ Marcar como ouvido'}</button>
+          <ListenLaterButton album={album} state={state} onUpdate={onUpdate} disabled={savingIds?.has(album.id)} />
           <RatingControl album={album} state={state} onUpdate={onUpdate} disabled={savingIds?.has(album.id)} />
         </div>
       </div>

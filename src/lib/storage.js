@@ -9,6 +9,7 @@ export function loadLocalProgress() {
     const albums = Object.fromEntries(Object.entries(data.albums).map(([id, state]) => [id, {
       ...state,
       listened: Boolean(state.listened),
+      listen_later: Boolean(state.listen_later),
       rating: migrateRating(state.rating),
     }]))
     if (data.version === 1) localStorage.setItem(DATA_KEY, JSON.stringify({ version: 2, albums, migratedFromVersion: 1 }))

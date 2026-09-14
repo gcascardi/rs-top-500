@@ -35,6 +35,20 @@ Execute [`supabase/schema.sql`](supabase/schema.sql) em uma instalação nova. N
 
 Não há contas ou perfis: todos os visitantes leem e alteram o mesmo progresso de `album_progress`. Sem variáveis de ambiente, o progresso fica apenas neste dispositivo em `rstop500-user-data`.
 
+## Consulta diária ao banco
+
+O workflow [Supabase keepalive](.github/workflows/supabase-keepalive.yml) consulta `album_progress` diariamente às **12h17 UTC (09h17 de Brasília)** para gerar atividade no banco. A consulta lê no máximo um ID, funciona mesmo com a tabela vazia e não altera dados. Erros HTTP ou de conexão fazem o job falhar, com até três novas tentativas para falhas transitórias.
+
+Para ativar:
+
+1. Publique o workflow na branch padrão do repositório.
+2. Em **Settings → Secrets and variables → Actions → New repository secret**, cadastre `VITE_SUPABASE_URL` e `VITE_SUPABASE_ANON_KEY` com os mesmos valores utilizados pela aplicação.
+3. Em **Actions → Supabase keepalive → Run workflow**, execute manualmente e confira o resultado.
+
+O job usa a chave pública com a permissão de leitura definida em `supabase/schema.sql`; não precisa de `service_role`. Os valores do `.env` local não são enviados automaticamente ao GitHub.
+
+O GitHub pode atrasar execuções agendadas e, em repositórios públicos, desabilita o agendamento após 60 dias sem atividade no repositório; nesse caso, reative o workflow na aba Actions. Consulte a [documentação de agendamentos do GitHub](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule). A consulta gera atividade, mas não garante que o projeto nunca será pausado: o Supabase avalia atividade suficiente em um período de sete dias, conforme sua [política de pausa](https://supabase.com/docs/guides/platform/free-project-pausing).
+
 ## Origem e estrutura do catálogo
 
 [`data/rolling-stone-500.json`](data/rolling-stone-500.json) contém exatamente 500 registros da edição de 2020:
@@ -115,7 +129,7 @@ O validador exige 500 posições ordenadas, IDs estáveis, anos e décadas coere
 
 ## Avaliação de 1 a 5 estrelas
 
-A avaliação aceita somente `null` ou estrelas inteiras de 1 a 5. É possível avaliar sem marcar como ouvido, remover a avaliação clicando novamente na estrela selecionada ou pelo botão textual, e alterar o status de ouvido sem apagar estrelas.
+A avaliação aceita somente `null` ou estrelas inteiras de 1 a 5. Selecionar estrelas também marca o álbum como ouvido e registra a data de escuta. Remover a avaliação mantém o status de ouvido. Ainda é possível alterar manualmente o status sem apagar estrelas.
 
 ### Migração do Supabase
 
@@ -175,3 +189,11 @@ npm run preview
 ```
 
 O build é gerado em `dist/`. Capas e JSON respeitam `import.meta.env.BASE_URL` e a configuração `/rstop500/` do Vite.
+
+## Ouvir depois
+
+Use o botão **♡ Ouvir depois** nos cartões, na lista ou nos destaques para salvar um álbum na lista de favoritos. Acesse **♥ Ouvir depois**, acima da pesquisa, para ver somente os álbuns marcados; pesquisa, filtros, paginação e sorteio também funcionam nessa lista. Clique novamente no botão do álbum para removê-lo. Ouvir ou avaliar um álbum preserva sua marcação na lista.
+
+Antes de publicar esta versão, execute [`supabase/migrations/add-listen-later.sql`](supabase/migrations/add-listen-later.sql) no SQL Editor do Supabase. A migração pode ser repetida e adiciona `listen_later` com valor inicial `false`, preservando o progresso existente. Instalações novas já recebem a coluna pelo `schema.sql`.
+
+A lista é compartilhada entre visitantes, assim como o restante do progresso. No modo local, ela é salva neste dispositivo; dados antigos recebem a marcação desativada ao serem carregados.

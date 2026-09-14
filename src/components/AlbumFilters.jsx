@@ -2,6 +2,10 @@ export default function AlbumFilters({ filters, setFilters, decades, genres, vie
   const update = (key) => (event) => setFilters((current) => ({ ...current, [key]: event.target.value }))
   return (
     <section className="filter-section" aria-label="Pesquisa e filtros">
+      <div className="collection-toggle" role="group" aria-label="Lista de álbuns">
+        <button type="button" aria-pressed={filters.collection === 'all'} onClick={() => setFilters((current) => ({ ...current, collection: 'all' }))}>Todos os álbuns</button>
+        <button type="button" aria-pressed={filters.collection === 'listen-later'} onClick={() => setFilters((current) => ({ ...current, collection: 'listen-later' }))}>♥ Ouvir depois</button>
+      </div>
       <div className="filter-topline">
         <label className="search-field">
           <span>Pesquisar no ranking</span>

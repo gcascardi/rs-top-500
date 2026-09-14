@@ -5,7 +5,7 @@ export async function loadProgress() {
 
   const { data, error } = await supabase
     .from('album_progress')
-    .select('album_id, listened, rating, listened_at, updated_at')
+    .select('album_id, listened, listen_later, rating, listened_at, updated_at')
 
   if (error) {
     console.error('Erro ao carregar progresso do Supabase:', error)

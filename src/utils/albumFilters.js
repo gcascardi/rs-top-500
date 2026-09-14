@@ -1,4 +1,4 @@
-export const initialFilters = { search: '', status: 'all', decade: 'all', genre: 'all', rating: 'all', sort: 'position-asc' }
+export const initialFilters = { search: '', collection: 'all', status: 'all', decade: 'all', genre: 'all', rating: 'all', sort: 'position-asc' }
 
 const normalize = (value) => value.toLocaleLowerCase('pt-BR').normalize('NFD').replace(/[\u0300-\u036f]/g, '')
 
@@ -6,6 +6,7 @@ export function filterAndSortAlbums(albums, progress, filters) {
   const query = normalize(filters.search.trim())
   const result = albums.filter((album) => {
     const state = progress[album.id] || {}
+    if (filters.collection === 'listen-later' && !state.listen_later) return false
     if (query && !normalize(`${album.title} ${album.artist}`).includes(query)) return false
     if (filters.status === 'listened' && !state.listened) return false
     if (filters.status === 'unlistened' && state.listened) return false

@@ -1,15 +1,18 @@
 import { normalizeRating } from './rating.js'
 
-export const emptyProgress = { listened: false, rating: null, listened_at: null, updated_at: null }
+export const emptyProgress = { listened: false, listen_later: false, rating: null, listened_at: null, updated_at: null }
 
 export function buildAlbumProgress(previousState, patch, now = new Date().toISOString()) {
   const previous = { ...emptyProgress, ...(previousState || {}) }
-  const listened = patch.listened ?? previous.listened
+  const rating = Object.hasOwn(patch, 'rating') ? normalizeRating(patch.rating) : previous.rating
+  const listened = Object.hasOwn(patch, 'rating') && rating != null
+    ? true
+    : patch.listened ?? previous.listened
   return {
     ...previous,
     ...patch,
     listened,
-    rating: Object.hasOwn(patch, 'rating') ? normalizeRating(patch.rating) : previous.rating,
+    rating,
     listened_at: listened ? (previous.listened_at || now) : null,
     updated_at: now,
   }

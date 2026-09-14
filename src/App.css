@@ -117,6 +117,13 @@ main { max-width: 1400px; margin: 0 auto; background: var(--color-paper); border
 .star-rating--medium .star-rating__buttons button { width: 32px; height: 36px; font-size: 25px; }
 .album-actions { grid-template-columns: 1fr; }
 .album-actions .listen-button { width: 100%; }
+.listen-later-button { min-height: 38px; border: 1px solid var(--color-black); padding: 8px 10px; background: transparent; color: var(--color-black); font-size: 11px; font-weight: 700; }
+.listen-later-button.active { border-color: var(--color-red); color: var(--color-red); background: #fff6f4; }
+.listen-later-button:disabled { opacity: .5; cursor: wait; }
+.album-list-item__info .listen-later-button { display: block; margin-top: 10px; }
+.collection-toggle { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
+.collection-toggle button { min-height: 42px; padding: 10px 16px; border: 1px solid var(--color-black); background: transparent; color: var(--color-black); font-weight: 700; }
+.collection-toggle button[aria-pressed="true"] { background: var(--color-black); color: white; }
 .random-control { display: flex; align-items: center; gap: 13px; }
 .random-control label { display: flex; align-items: center; gap: 6px; color: var(--color-gray); font-size: 9px; font-weight: 700; }
 .random-control input { width: 16px; height: 16px; accent-color: var(--color-red); }

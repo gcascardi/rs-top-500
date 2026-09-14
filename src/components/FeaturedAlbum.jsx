@@ -1,3 +1,4 @@
+import ListenLaterButton from './ListenLaterButton'
 import { publicPath } from '../utils/publicPath'
 import RatingControl from './RatingControl'
 
@@ -14,6 +15,7 @@ export default function FeaturedAlbum({ album, state, onUpdate, onView, saving, 
         <p className="album-artist">{album.artist}</p>
         <div className="featured-album__actions">
           <button disabled={saving} className={`listen-button ${state.listened ? 'active' : ''}`} onClick={() => onUpdate(album.id, { listened: !state.listened })}>{state.listened ? '✓ Ouvido' : '+ Marcar como ouvido'}</button>
+          <ListenLaterButton album={album} state={state} onUpdate={onUpdate} disabled={saving} />
           <RatingControl album={album} state={state} onUpdate={onUpdate} disabled={saving} size="medium" />
           <button className="button button--outline" onClick={() => onView(album.id)}>Ver na lista</button>
         </div>

@@ -8,6 +8,7 @@ import { buildAlbumProgress, buildBatchProgress, emptyProgress } from '../utils/
 function normalizeProgress(item) {
   return {
     listened: Boolean(item.listened),
+    listen_later: Boolean(item.listen_later),
     rating: normalizeRating(item.rating),
     listened_at: item.listened_at ?? null,
     updated_at: item.updated_at ?? null,
@@ -18,6 +19,7 @@ function toPayload(albumId, state) {
   return {
     album_id: Number(albumId),
     listened: Boolean(state.listened),
+    listen_later: Boolean(state.listen_later),
     rating: state.rating ?? null,
     listened_at: state.listened ? state.listened_at : null,
     updated_at: state.updated_at,
@@ -80,7 +82,9 @@ export function useAlbumProgress() {
     try {
       if (isSupabaseConfigured) await saveAlbumProgress(toPayload(albumId, nextState))
       else saveLocalProgress(nextProgress)
-      const successMessage = Object.hasOwn(patch, 'rating')
+      const successMessage = Object.hasOwn(patch, 'listen_later')
+        ? patch.listen_later ? 'Adicionado a Ouvir depois.' : 'Removido de Ouvir depois.'
+        : Object.hasOwn(patch, 'rating')
         ? patch.rating == null ? 'Avaliação removida.' : 'Avaliação salva.'
         : patch.listened ? 'Álbum marcado como ouvido.' : 'Progresso salvo.'
       showState('saved', successMessage)
